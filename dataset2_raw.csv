@@ -1,0 +1,2033 @@
+num,Participante,Lugar_admin,Modalidad,Edad,Género,Grupo,Validez,Creencia,ValidezxCreencia,Silogismo,Aceptación,Correctas
+1913,240,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,27,V,C,VC,1,1,1
+1914,240,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,V,I,VI,2,0,0
+1915,240,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,I,C,IC,3,0,1
+1916,240,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,I,I,II,4,0,1
+1917,240,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,V,C,VC,5,1,1
+1918,240,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,V,I,VI,6,0,0
+1919,240,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,I,C,IC,7,1,0
+1920,240,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,I,I,II,8,0,1
+1921,240,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,V,C,VC,1,1,1
+1922,240,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,V,I,VI,2,1,1
+1923,240,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,I,C,IC,3,0,1
+1924,240,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,I,I,II,4,0,1
+1925,240,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,V,C,VC,5,1,1
+1926,240,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,V,I,VI,6,1,1
+1927,240,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,I,C,IC,7,0,1
+1928,240,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,I,I,II,8,0,1
+1929,241,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,27,V,C,VC,1,0,0
+1930,241,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,V,I,VI,2,1,1
+1931,241,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,I,C,IC,3,0,1
+1932,241,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,I,I,II,4,0,1
+1933,241,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,V,C,VC,5,1,1
+1934,241,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,V,I,VI,6,1,1
+1935,241,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,I,C,IC,7,1,0
+1936,241,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,I,I,II,8,0,1
+1937,241,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,V,C,VC,1,1,1
+1938,241,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,V,I,VI,2,1,1
+1939,241,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,I,C,IC,3,0,1
+1940,241,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,I,I,II,4,0,1
+1941,241,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,V,C,VC,5,1,1
+1942,241,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,V,I,VI,6,1,1
+1943,241,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,I,C,IC,7,1,0
+1944,241,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,I,I,II,8,0,1
+1945,242,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,27,V,C,VC,1,0,0
+1946,242,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,V,I,VI,2,1,1
+1947,242,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,I,C,IC,3,1,0
+1948,242,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,I,I,II,4,0,1
+1949,242,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,V,C,VC,5,0,0
+1950,242,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,V,I,VI,6,1,1
+1951,242,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,I,C,IC,7,0,1
+1952,242,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,I,I,II,8,0,1
+1953,242,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,V,C,VC,1,1,1
+1954,242,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,V,I,VI,2,1,1
+1955,242,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,I,C,IC,3,0,1
+1956,242,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,I,I,II,4,0,1
+1957,242,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,V,C,VC,5,1,1
+1958,242,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,V,I,VI,6,1,1
+1959,242,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,I,C,IC,7,0,1
+1960,242,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,I,I,II,8,0,1
+1961,243,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,27,V,C,VC,1,1,1
+1962,243,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,V,I,VI,2,1,1
+1963,243,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,I,C,IC,3,0,1
+1964,243,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,I,I,II,4,0,1
+1965,243,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,V,C,VC,5,1,1
+1966,243,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,V,I,VI,6,1,1
+1967,243,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,I,C,IC,7,1,0
+1968,243,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,I,I,II,8,0,1
+1969,243,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,V,C,VC,1,1,1
+1970,243,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,V,I,VI,2,1,1
+1971,243,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,I,C,IC,3,0,1
+1972,243,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,I,I,II,4,0,1
+1973,243,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,V,C,VC,5,1,1
+1974,243,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,V,I,VI,6,1,1
+1975,243,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,I,C,IC,7,0,1
+1976,243,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,I,I,II,8,0,1
+1977,244,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,M,27,V,C,VC,1,0,0
+1978,244,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,V,I,VI,2,1,1
+1979,244,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,I,C,IC,3,1,0
+1980,244,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,I,I,II,4,0,1
+1981,244,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,V,C,VC,5,1,1
+1982,244,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,V,I,VI,6,1,1
+1983,244,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,I,C,IC,7,1,0
+1984,244,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,27,I,I,II,8,0,1
+1985,244,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,V,C,VC,1,1,1
+1986,244,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,V,I,VI,2,1,1
+1987,244,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,I,C,IC,3,0,1
+1988,244,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,I,I,II,4,0,1
+1989,244,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,V,C,VC,5,1,1
+1990,244,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,V,I,VI,6,1,1
+1991,244,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,I,C,IC,7,0,1
+1992,244,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,27,I,I,II,8,0,1
+1993,244,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,27,V,C,VC,1,1,1
+1994,244,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,27,V,I,VI,2,1,1
+1995,244,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,27,I,C,IC,3,0,1
+1996,244,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,27,I,I,II,4,0,1
+1997,244,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,27,V,C,VC,5,1,1
+1998,244,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,27,V,I,VI,6,1,1
+1999,244,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,27,I,C,IC,7,0,1
+2000,244,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,27,I,I,II,8,0,1
+2001,245,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,O,28,V,C,VC,1,1,1
+2002,245,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,V,I,VI,2,1,1
+2003,245,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,I,C,IC,3,0,1
+2004,245,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,I,I,II,4,0,1
+2005,245,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,V,C,VC,5,1,1
+2006,245,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,V,I,VI,6,1,1
+2007,245,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,I,C,IC,7,0,1
+2008,245,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,I,I,II,8,0,1
+2009,245,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,V,C,VC,1,1,1
+2010,245,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,V,I,VI,2,1,1
+2011,245,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,I,C,IC,3,0,1
+2012,245,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,I,I,II,4,0,1
+2013,245,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,V,C,VC,5,1,1
+2014,245,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,V,I,VI,6,1,1
+2015,245,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,I,C,IC,7,1,0
+2016,245,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,I,I,II,8,0,1
+2017,246,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,28,V,C,VC,1,1,1
+2018,246,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,V,I,VI,2,1,1
+2019,246,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,I,C,IC,3,1,0
+2020,246,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,I,I,II,4,0,1
+2021,246,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,V,C,VC,5,1,1
+2022,246,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,V,I,VI,6,0,0
+2023,246,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,I,C,IC,7,1,0
+2024,246,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,I,I,II,8,0,1
+2025,246,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,V,C,VC,1,1,1
+2026,246,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,V,I,VI,2,1,1
+2027,246,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,I,C,IC,3,0,1
+2028,246,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,I,I,II,4,0,1
+2029,246,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,V,C,VC,5,1,1
+2030,246,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,V,I,VI,6,1,1
+2031,246,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,I,C,IC,7,1,0
+2032,246,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,I,I,II,8,0,1
+2033,247,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,28,V,C,VC,1,1,1
+2034,247,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,V,I,VI,2,1,1
+2035,247,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,I,C,IC,3,0,1
+2036,247,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,I,I,II,4,0,1
+2037,247,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,V,C,VC,5,1,1
+2038,247,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,V,I,VI,6,1,1
+2039,247,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,I,C,IC,7,1,0
+2040,247,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,I,I,II,8,1,0
+2041,247,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,V,C,VC,1,1,1
+2042,247,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,V,I,VI,2,1,1
+2043,247,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,I,C,IC,3,0,1
+2044,247,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,I,I,II,4,0,1
+2045,247,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,V,C,VC,5,1,1
+2046,247,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,V,I,VI,6,1,1
+2047,247,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,I,C,IC,7,1,0
+2048,247,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,I,I,II,8,0,1
+2049,248,Lógica y Epistemología UCC 2°,Resolución Individual Pre,21,M,28,V,C,VC,1,0,0
+2050,248,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,V,I,VI,2,0,0
+2051,248,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,I,C,IC,3,1,0
+2052,248,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,I,I,II,4,0,1
+2053,248,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,V,C,VC,5,1,1
+2054,248,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,V,I,VI,6,0,0
+2055,248,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,I,C,IC,7,1,0
+2056,248,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,I,I,II,8,0,1
+2057,248,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,V,C,VC,1,1,1
+2058,248,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,V,I,VI,2,1,1
+2059,248,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,I,C,IC,3,0,1
+2060,248,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,I,I,II,4,1,0
+2061,248,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,V,C,VC,5,1,1
+2062,248,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,V,I,VI,6,1,1
+2063,248,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,I,C,IC,7,0,1
+2064,248,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,I,I,II,8,0,1
+2065,249,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,28,V,C,VC,1,1,1
+2066,249,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,V,I,VI,2,0,0
+2067,249,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,I,C,IC,3,0,1
+2068,249,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,I,I,II,4,0,1
+2069,249,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,V,C,VC,5,1,1
+2070,249,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,V,I,VI,6,0,0
+2071,249,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,I,C,IC,7,1,0
+2072,249,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,28,I,I,II,8,0,1
+2073,249,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,V,C,VC,1,1,1
+2074,249,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,V,I,VI,2,0,0
+2075,249,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,I,C,IC,3,0,1
+2076,249,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,I,I,II,4,0,1
+2077,249,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,V,C,VC,5,1,1
+2078,249,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,V,I,VI,6,1,1
+2079,249,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,I,C,IC,7,1,0
+2080,249,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,28,I,I,II,8,0,1
+2081,249,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,28,V,C,VC,1,1,1
+2082,249,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,28,V,I,VI,2,1,1
+2083,249,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,28,I,C,IC,3,0,1
+2084,249,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,28,I,I,II,4,0,1
+2085,249,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,28,V,C,VC,5,1,1
+2086,249,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,28,V,I,VI,6,1,1
+2087,249,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,28,I,C,IC,7,1,0
+2088,249,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,28,I,I,II,8,0,1
+2089,250,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,29,V,C,VC,1,1,1
+2090,250,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,V,I,VI,2,1,1
+2091,250,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,I,C,IC,3,0,1
+2092,250,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,I,I,II,4,0,1
+2093,250,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,V,C,VC,5,1,1
+2094,250,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,V,I,VI,6,1,1
+2095,250,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,I,C,IC,7,1,0
+2096,250,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,I,I,II,8,1,0
+2097,250,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,V,C,VC,1,0,0
+2098,250,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,V,I,VI,2,1,1
+2099,250,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,I,C,IC,3,1,0
+2100,250,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,I,I,II,4,0,1
+2101,250,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,V,C,VC,5,1,1
+2102,250,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,V,I,VI,6,1,1
+2103,250,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,I,C,IC,7,1,0
+2104,250,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,I,I,II,8,0,1
+2105,251,Lógica y Epistemología UCC 2°,Resolución Individual Pre,20,F,29,V,C,VC,1,0,0
+2106,251,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,V,I,VI,2,1,1
+2107,251,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,I,C,IC,3,0,1
+2108,251,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,I,I,II,4,0,1
+2109,251,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,V,C,VC,5,1,1
+2110,251,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,V,I,VI,6,1,1
+2111,251,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,I,C,IC,7,0,1
+2112,251,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,I,I,II,8,0,1
+2113,251,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,V,C,VC,1,0,0
+2114,251,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,V,I,VI,2,1,1
+2115,251,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,I,C,IC,3,1,0
+2116,251,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,I,I,II,4,0,1
+2117,251,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,V,C,VC,5,1,1
+2118,251,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,V,I,VI,6,1,1
+2119,251,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,I,C,IC,7,1,0
+2120,251,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,I,I,II,8,0,1
+2121,252,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,29,V,C,VC,1,0,0
+2122,252,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,V,I,VI,2,1,1
+2123,252,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,I,C,IC,3,0,1
+2124,252,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,I,I,II,4,0,1
+2125,252,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,V,C,VC,5,1,1
+2126,252,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,V,I,VI,6,1,1
+2127,252,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,I,C,IC,7,0,1
+2128,252,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,I,I,II,8,0,1
+2129,252,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,V,C,VC,1,0,0
+2130,252,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,V,I,VI,2,1,1
+2131,252,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,I,C,IC,3,1,0
+2132,252,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,I,I,II,4,0,1
+2133,252,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,V,C,VC,5,1,1
+2134,252,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,V,I,VI,6,1,1
+2135,252,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,I,C,IC,7,1,0
+2136,252,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,I,I,II,8,0,1
+2137,253,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,29,V,C,VC,1,0,0
+2138,253,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,V,I,VI,2,0,0
+2139,253,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,I,C,IC,3,0,1
+2140,253,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,I,I,II,4,0,1
+2141,253,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,V,C,VC,5,1,1
+2142,253,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,V,I,VI,6,1,1
+2143,253,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,I,C,IC,7,1,0
+2144,253,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,I,I,II,8,0,1
+2145,253,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,V,C,VC,1,0,0
+2146,253,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,V,I,VI,2,1,1
+2147,253,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,I,C,IC,3,1,0
+2148,253,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,I,I,II,4,0,1
+2149,253,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,V,C,VC,5,1,1
+2150,253,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,V,I,VI,6,1,1
+2151,253,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,I,C,IC,7,1,0
+2152,253,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,I,I,II,8,0,1
+2153,254,Lógica y Epistemología UCC 2°,Resolución Individual Pre,21,F,29,V,C,VC,1,0,0
+2154,254,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,V,I,VI,2,0,0
+2155,254,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,I,C,IC,3,1,0
+2156,254,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,I,I,II,4,0,1
+2157,254,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,V,C,VC,5,1,1
+2158,254,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,V,I,VI,6,1,1
+2159,254,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,I,C,IC,7,1,0
+2160,254,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,29,I,I,II,8,0,1
+2161,254,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,V,C,VC,1,0,0
+2162,254,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,V,I,VI,2,1,1
+2163,254,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,I,C,IC,3,1,0
+2164,254,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,I,I,II,4,0,1
+2165,254,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,V,C,VC,5,1,1
+2166,254,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,V,I,VI,6,1,1
+2167,254,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,I,C,IC,7,1,0
+2168,254,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,29,I,I,II,8,0,1
+2169,254,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,29,V,C,VC,1,0,0
+2170,254,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,29,V,I,VI,2,1,1
+2171,254,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,29,I,C,IC,3,1,0
+2172,254,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,29,I,I,II,4,0,1
+2173,254,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,29,V,C,VC,5,1,1
+2174,254,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,29,V,I,VI,6,1,1
+2175,254,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,29,I,C,IC,7,1,0
+2176,254,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,29,I,I,II,8,0,1
+2177,255,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,30,V,C,VC,1,1,1
+2178,255,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,V,I,VI,2,1,1
+2179,255,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,I,C,IC,3,0,1
+2180,255,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,I,I,II,4,0,1
+2181,255,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,V,C,VC,5,0,0
+2182,255,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,V,I,VI,6,1,1
+2183,255,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,I,C,IC,7,0,1
+2184,255,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,I,I,II,8,0,1
+2185,255,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,V,C,VC,1,1,1
+2186,255,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,V,I,VI,2,1,1
+2187,255,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,I,C,IC,3,1,0
+2188,255,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,I,I,II,4,0,1
+2189,255,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,V,C,VC,5,1,1
+2190,255,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,V,I,VI,6,0,0
+2191,255,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,I,C,IC,7,1,0
+2192,255,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,I,I,II,8,0,1
+2193,256,Lógica y Epistemología UCC 2°,Resolución Individual Pre,21,F,30,V,C,VC,1,1,1
+2194,256,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,V,I,VI,2,0,0
+2195,256,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,I,C,IC,3,1,0
+2196,256,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,I,I,II,4,0,1
+2197,256,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,V,C,VC,5,1,1
+2198,256,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,V,I,VI,6,0,0
+2199,256,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,I,C,IC,7,1,0
+2200,256,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,I,I,II,8,0,1
+2201,256,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,V,C,VC,1,0,0
+2202,256,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,V,I,VI,2,0,0
+2203,256,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,I,C,IC,3,0,1
+2204,256,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,I,I,II,4,0,1
+2205,256,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,V,C,VC,5,1,1
+2206,256,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,V,I,VI,6,0,0
+2207,256,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,I,C,IC,7,1,0
+2208,256,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,I,I,II,8,0,1
+2209,257,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,M,30,V,C,VC,1,1,1
+2210,257,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,V,I,VI,2,0,0
+2211,257,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,I,C,IC,3,0,1
+2212,257,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,I,I,II,4,0,1
+2213,257,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,V,C,VC,5,1,1
+2214,257,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,V,I,VI,6,0,0
+2215,257,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,I,C,IC,7,1,0
+2216,257,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,I,I,II,8,0,1
+2217,257,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,V,C,VC,1,1,1
+2218,257,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,V,I,VI,2,0,0
+2219,257,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,I,C,IC,3,0,1
+2220,257,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,I,I,II,4,0,1
+2221,257,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,V,C,VC,5,1,1
+2222,257,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,V,I,VI,6,0,0
+2223,257,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,I,C,IC,7,1,0
+2224,257,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,I,I,II,8,0,1
+2225,258,Lógica y Epistemología UCC 2°,Resolución Individual Pre,20,M,30,V,C,VC,1,1,1
+2226,258,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,V,I,VI,2,1,1
+2227,258,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,I,C,IC,3,0,1
+2228,258,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,I,I,II,4,1,0
+2229,258,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,V,C,VC,5,1,1
+2230,258,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,V,I,VI,6,1,1
+2231,258,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,I,C,IC,7,1,0
+2232,258,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,I,I,II,8,0,1
+2233,258,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,V,C,VC,1,1,1
+2234,258,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,V,I,VI,2,0,0
+2235,258,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,I,C,IC,3,0,1
+2236,258,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,I,I,II,4,0,1
+2237,258,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,V,C,VC,5,1,1
+2238,258,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,V,I,VI,6,1,1
+2239,258,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,I,C,IC,7,1,0
+2240,258,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,I,I,II,8,0,1
+2241,259,Lógica y Epistemología UCC 2°,Resolución Individual Pre,20,M,30,V,C,VC,1,1,1
+2242,259,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,V,I,VI,2,0,0
+2243,259,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,I,C,IC,3,0,1
+2244,259,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,I,I,II,4,0,1
+2245,259,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,V,C,VC,5,1,1
+2246,259,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,V,I,VI,6,0,0
+2247,259,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,I,C,IC,7,0,1
+2248,259,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,30,I,I,II,8,0,1
+2249,259,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,V,C,VC,1,1,1
+2250,259,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,V,I,VI,2,0,0
+2251,259,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,I,C,IC,3,0,1
+2252,259,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,I,I,II,4,0,1
+2253,259,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,V,C,VC,5,1,1
+2254,259,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,V,I,VI,6,0,0
+2255,259,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,I,C,IC,7,0,1
+2256,259,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,30,I,I,II,8,0,1
+2257,259,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,30,V,C,VC,1,1,1
+2258,259,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,30,V,I,VI,2,0,0
+2259,259,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,30,I,C,IC,3,0,1
+2260,259,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,30,I,I,II,4,0,1
+2261,259,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,30,V,C,VC,5,1,1
+2262,259,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,30,V,I,VI,6,0,0
+2263,259,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,30,I,C,IC,7,0,1
+2264,259,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,30,I,I,II,8,0,1
+2265,260,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,31,V,C,VC,1,1,1
+2266,260,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,V,I,VI,2,1,1
+2267,260,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,I,C,IC,3,0,1
+2268,260,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,I,I,II,4,0,1
+2269,260,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,V,C,VC,5,1,1
+2270,260,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,V,I,VI,6,1,1
+2271,260,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,I,C,IC,7,0,1
+2272,260,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,I,I,II,8,0,1
+2273,260,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,V,C,VC,1,1,1
+2274,260,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,V,I,VI,2,1,1
+2275,260,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,I,C,IC,3,0,1
+2276,260,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,I,I,II,4,0,1
+2277,260,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,V,C,VC,5,1,1
+2278,260,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,V,I,VI,6,1,1
+2279,260,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,I,C,IC,7,0,1
+2280,260,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,I,I,II,8,0,1
+2281,261,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,M,31,V,C,VC,1,0,0
+2282,261,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,V,I,VI,2,1,1
+2283,261,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,I,C,IC,3,0,1
+2284,261,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,I,I,II,4,0,1
+2285,261,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,V,C,VC,5,1,1
+2286,261,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,V,I,VI,6,1,1
+2287,261,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,I,C,IC,7,0,1
+2288,261,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,I,I,II,8,0,1
+2289,261,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,V,C,VC,1,1,1
+2290,261,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,V,I,VI,2,0,0
+2291,261,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,I,C,IC,3,0,1
+2292,261,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,I,I,II,4,0,1
+2293,261,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,V,C,VC,5,1,1
+2294,261,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,V,I,VI,6,1,1
+2295,261,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,I,C,IC,7,0,1
+2296,261,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,I,I,II,8,0,1
+2297,262,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,31,V,C,VC,1,1,1
+2298,262,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,V,I,VI,2,0,0
+2299,262,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,I,C,IC,3,1,0
+2300,262,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,I,I,II,4,1,0
+2301,262,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,V,C,VC,5,1,1
+2302,262,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,V,I,VI,6,0,0
+2303,262,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,I,C,IC,7,0,1
+2304,262,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,I,I,II,8,0,1
+2305,262,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,V,C,VC,1,0,0
+2306,262,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,V,I,VI,2,0,0
+2307,262,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,I,C,IC,3,0,1
+2308,262,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,I,I,II,4,0,1
+2309,262,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,V,C,VC,5,1,1
+2310,262,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,V,I,VI,6,1,1
+2311,262,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,I,C,IC,7,0,1
+2312,262,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,I,I,II,8,0,1
+2313,263,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,31,V,C,VC,1,1,1
+2314,263,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,V,I,VI,2,1,1
+2315,263,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,I,C,IC,3,0,1
+2316,263,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,I,I,II,4,1,0
+2317,263,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,V,C,VC,5,0,0
+2318,263,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,V,I,VI,6,0,0
+2319,263,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,I,C,IC,7,1,0
+2320,263,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,I,I,II,8,0,1
+2321,263,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,V,C,VC,1,1,1
+2322,263,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,V,I,VI,2,0,0
+2323,263,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,I,C,IC,3,0,1
+2324,263,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,I,I,II,4,0,1
+2325,263,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,V,C,VC,5,1,1
+2326,263,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,V,I,VI,6,1,1
+2327,263,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,I,C,IC,7,0,1
+2328,263,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,I,I,II,8,0,1
+2329,264,Lógica y Epistemología UCC 2°,Resolución Individual Pre,20,M,31,V,C,VC,1,1,1
+2330,264,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,V,I,VI,2,0,0
+2331,264,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,I,C,IC,3,0,1
+2332,264,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,I,I,II,4,0,1
+2333,264,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,V,C,VC,5,1,1
+2334,264,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,V,I,VI,6,0,0
+2335,264,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,I,C,IC,7,1,0
+2336,264,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,31,I,I,II,8,0,1
+2337,264,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,V,C,VC,1,1,1
+2338,264,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,V,I,VI,2,0,0
+2339,264,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,I,C,IC,3,0,1
+2340,264,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,I,I,II,4,1,0
+2341,264,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,V,C,VC,5,1,1
+2342,264,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,V,I,VI,6,1,1
+2343,264,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,I,C,IC,7,0,1
+2344,264,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,31,I,I,II,8,0,1
+2345,264,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,31,V,C,VC,1,1,1
+2346,264,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,31,V,I,VI,2,0,0
+2347,264,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,31,I,C,IC,3,0,1
+2348,264,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,31,I,I,II,4,0,1
+2349,264,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,31,V,C,VC,5,1,1
+2350,264,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,31,V,I,VI,6,1,1
+2351,264,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,31,I,C,IC,7,0,1
+2352,264,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,31,I,I,II,8,0,1
+2353,265,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,32,V,C,VC,1,1,1
+2354,265,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,V,I,VI,2,1,1
+2355,265,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,I,C,IC,3,0,1
+2356,265,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,I,I,II,4,0,1
+2357,265,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,V,C,VC,5,1,1
+2358,265,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,V,I,VI,6,1,1
+2359,265,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,I,C,IC,7,1,0
+2360,265,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,I,I,II,8,0,1
+2361,265,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,V,C,VC,1,1,1
+2362,265,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,V,I,VI,2,1,1
+2363,265,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,I,C,IC,3,0,1
+2364,265,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,I,I,II,4,0,1
+2365,265,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,V,C,VC,5,1,1
+2366,265,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,V,I,VI,6,1,1
+2367,265,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,I,C,IC,7,0,1
+2368,265,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,I,I,II,8,1,0
+2369,266,Lógica y Epistemología UCC 2°,Resolución Individual Pre,31,M,32,V,C,VC,1,1,1
+2370,266,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,V,I,VI,2,1,1
+2371,266,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,I,C,IC,3,1,0
+2372,266,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,I,I,II,4,0,1
+2373,266,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,V,C,VC,5,1,1
+2374,266,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,V,I,VI,6,0,0
+2375,266,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,I,C,IC,7,0,1
+2376,266,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,I,I,II,8,0,1
+2377,266,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,V,C,VC,1,1,1
+2378,266,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,V,I,VI,2,1,1
+2379,266,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,I,C,IC,3,1,0
+2380,266,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,I,I,II,4,0,1
+2381,266,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,V,C,VC,5,1,1
+2382,266,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,V,I,VI,6,1,1
+2383,266,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,I,C,IC,7,1,0
+2384,266,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,I,I,II,8,0,1
+2385,267,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,32,V,C,VC,1,0,0
+2386,267,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,V,I,VI,2,1,1
+2387,267,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,I,C,IC,3,0,1
+2388,267,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,I,I,II,4,0,1
+2389,267,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,V,C,VC,5,1,1
+2390,267,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,V,I,VI,6,1,1
+2391,267,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,I,C,IC,7,1,0
+2392,267,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,I,I,II,8,1,0
+2393,267,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,V,C,VC,1,1,1
+2394,267,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,V,I,VI,2,1,1
+2395,267,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,I,C,IC,3,0,1
+2396,267,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,I,I,II,4,0,1
+2397,267,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,V,C,VC,5,1,1
+2398,267,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,V,I,VI,6,1,1
+2399,267,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,I,C,IC,7,0,1
+2400,267,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,I,I,II,8,0,1
+2401,268,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,32,V,C,VC,1,1,1
+2402,268,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,V,I,VI,2,0,0
+2403,268,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,I,C,IC,3,0,1
+2404,268,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,I,I,II,4,0,1
+2405,268,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,V,C,VC,5,1,1
+2406,268,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,V,I,VI,6,1,1
+2407,268,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,I,C,IC,7,1,0
+2408,268,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,I,I,II,8,0,1
+2409,268,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,V,C,VC,1,1,1
+2410,268,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,V,I,VI,2,1,1
+2411,268,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,I,C,IC,3,0,1
+2412,268,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,I,I,II,4,0,1
+2413,268,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,V,C,VC,5,1,1
+2414,268,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,V,I,VI,6,1,1
+2415,268,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,I,C,IC,7,0,1
+2416,268,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,I,I,II,8,0,1
+2417,269,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,32,V,C,VC,1,0,0
+2418,269,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,V,I,VI,2,1,1
+2419,269,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,I,C,IC,3,0,1
+2420,269,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,I,I,II,4,0,1
+2421,269,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,V,C,VC,5,0,0
+2422,269,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,V,I,VI,6,1,1
+2423,269,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,I,C,IC,7,0,1
+2424,269,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,32,I,I,II,8,0,1
+2425,269,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,V,C,VC,1,1,1
+2426,269,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,V,I,VI,2,1,1
+2427,269,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,I,C,IC,3,0,1
+2428,269,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,I,I,II,4,0,1
+2429,269,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,V,C,VC,5,1,1
+2430,269,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,V,I,VI,6,1,1
+2431,269,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,I,C,IC,7,0,1
+2432,269,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,32,I,I,II,8,0,1
+2433,269,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,32,V,C,VC,1,1,1
+2434,269,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,32,V,I,VI,2,1,1
+2435,269,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,32,I,C,IC,3,0,1
+2436,269,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,32,I,I,II,4,0,1
+2437,269,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,32,V,C,VC,5,1,1
+2438,269,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,32,V,I,VI,6,1,1
+2439,269,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,32,I,C,IC,7,0,1
+2440,269,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,32,I,I,II,8,0,1
+2441,270,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,33,V,C,VC,1,1,1
+2442,270,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,V,I,VI,2,1,1
+2443,270,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,I,C,IC,3,0,1
+2444,270,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,I,I,II,4,0,1
+2445,270,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,V,C,VC,5,1,1
+2446,270,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,V,I,VI,6,1,1
+2447,270,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,I,C,IC,7,1,0
+2448,270,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,I,I,II,8,0,1
+2449,270,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,V,C,VC,1,1,1
+2450,270,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,V,I,VI,2,1,1
+2451,270,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,I,C,IC,3,0,1
+2452,270,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,I,I,II,4,1,0
+2453,270,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,V,C,VC,5,1,1
+2454,270,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,V,I,VI,6,1,1
+2455,270,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,I,C,IC,7,1,0
+2456,270,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,I,I,II,8,1,0
+2457,271,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,33,V,C,VC,1,1,1
+2458,271,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,V,I,VI,2,0,0
+2459,271,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,I,C,IC,3,0,1
+2460,271,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,I,I,II,4,0,1
+2461,271,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,V,C,VC,5,1,1
+2462,271,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,V,I,VI,6,1,1
+2463,271,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,I,C,IC,7,0,1
+2464,271,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,I,I,II,8,0,1
+2465,271,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,V,C,VC,1,1,1
+2466,271,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,V,I,VI,2,1,1
+2467,271,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,I,C,IC,3,0,1
+2468,271,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,I,I,II,4,0,1
+2469,271,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,V,C,VC,5,1,1
+2470,271,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,V,I,VI,6,1,1
+2471,271,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,I,C,IC,7,1,0
+2472,271,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,I,I,II,8,1,0
+2473,272,Lógica y Epistemología UCC 2°,Resolución Individual Pre,21,F,33,V,C,VC,1,1,1
+2474,272,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,V,I,VI,2,1,1
+2475,272,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,I,C,IC,3,1,0
+2476,272,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,I,I,II,4,1,0
+2477,272,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,V,C,VC,5,1,1
+2478,272,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,V,I,VI,6,0,0
+2479,272,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,I,C,IC,7,1,0
+2480,272,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,I,I,II,8,0,1
+2481,272,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,V,C,VC,1,1,1
+2482,272,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,V,I,VI,2,1,1
+2483,272,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,I,C,IC,3,0,1
+2484,272,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,I,I,II,4,0,1
+2485,272,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,V,C,VC,5,1,1
+2486,272,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,V,I,VI,6,1,1
+2487,272,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,I,C,IC,7,1,0
+2488,272,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,I,I,II,8,0,1
+2489,273,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,33,V,C,VC,1,1,1
+2490,273,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,V,I,VI,2,0,0
+2491,273,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,I,C,IC,3,0,1
+2492,273,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,I,I,II,4,0,1
+2493,273,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,V,C,VC,5,1,1
+2494,273,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,V,I,VI,6,0,0
+2495,273,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,I,C,IC,7,1,0
+2496,273,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,I,I,II,8,0,1
+2497,273,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,V,C,VC,1,1,1
+2498,273,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,V,I,VI,2,1,1
+2499,273,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,I,C,IC,3,0,1
+2500,273,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,I,I,II,4,0,1
+2501,273,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,V,C,VC,5,1,1
+2502,273,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,V,I,VI,6,1,1
+2503,273,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,I,C,IC,7,1,0
+2504,273,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,I,I,II,8,1,0
+2505,274,Lógica y Epistemología UCC 2°,Resolución Individual Pre,20,M,33,V,C,VC,1,0,0
+2506,274,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,V,I,VI,2,1,1
+2507,274,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,I,C,IC,3,1,0
+2508,274,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,I,I,II,4,0,1
+2509,274,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,V,C,VC,5,1,1
+2510,274,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,V,I,VI,6,1,1
+2511,274,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,I,C,IC,7,1,0
+2512,274,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,33,I,I,II,8,1,0
+2513,274,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,V,C,VC,1,1,1
+2514,274,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,V,I,VI,2,1,1
+2515,274,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,I,C,IC,3,0,1
+2516,274,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,I,I,II,4,0,1
+2517,274,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,V,C,VC,5,1,1
+2518,274,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,V,I,VI,6,1,1
+2519,274,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,I,C,IC,7,1,0
+2520,274,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,33,I,I,II,8,1,0
+2521,274,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,33,V,C,VC,1,1,1
+2522,274,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,33,V,I,VI,2,1,1
+2523,274,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,33,I,C,IC,3,0,1
+2524,274,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,33,I,I,II,4,0,1
+2525,274,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,33,V,C,VC,5,1,1
+2526,274,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,33,V,I,VI,6,1,1
+2527,274,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,33,I,C,IC,7,1,0
+2528,274,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,33,I,I,II,8,1,0
+2529,275,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,34,V,C,VC,1,1,1
+2530,275,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,V,I,VI,2,1,1
+2531,275,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,I,C,IC,3,0,1
+2532,275,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,I,I,II,4,0,1
+2533,275,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,V,C,VC,5,1,1
+2534,275,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,V,I,VI,6,1,1
+2535,275,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,I,C,IC,7,0,1
+2536,275,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,I,I,II,8,0,1
+2537,275,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,V,C,VC,1,1,1
+2538,275,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,V,I,VI,2,1,1
+2539,275,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,I,C,IC,3,0,1
+2540,275,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,I,I,II,4,0,1
+2541,275,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,V,C,VC,5,1,1
+2542,275,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,V,I,VI,6,1,1
+2543,275,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,I,C,IC,7,1,0
+2544,275,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,I,I,II,8,0,1
+2545,276,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,34,V,C,VC,1,1,1
+2546,276,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,V,I,VI,2,1,1
+2547,276,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,I,C,IC,3,0,1
+2548,276,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,I,I,II,4,0,1
+2549,276,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,V,C,VC,5,1,1
+2550,276,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,V,I,VI,6,1,1
+2551,276,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,I,C,IC,7,1,0
+2552,276,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,I,I,II,8,0,1
+2553,276,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,V,C,VC,1,1,1
+2554,276,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,V,I,VI,2,1,1
+2555,276,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,I,C,IC,3,0,1
+2556,276,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,I,I,II,4,0,1
+2557,276,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,V,C,VC,5,1,1
+2558,276,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,V,I,VI,6,1,1
+2559,276,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,I,C,IC,7,1,0
+2560,276,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,I,I,II,8,0,1
+2561,277,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,34,V,C,VC,1,1,1
+2562,277,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,V,I,VI,2,0,0
+2563,277,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,I,C,IC,3,1,0
+2564,277,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,I,I,II,4,0,1
+2565,277,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,V,C,VC,5,1,1
+2566,277,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,V,I,VI,6,0,0
+2567,277,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,I,C,IC,7,0,1
+2568,277,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,I,I,II,8,0,1
+2569,277,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,V,C,VC,1,1,1
+2570,277,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,V,I,VI,2,1,1
+2571,277,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,I,C,IC,3,0,1
+2572,277,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,I,I,II,4,0,1
+2573,277,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,V,C,VC,5,1,1
+2574,277,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,V,I,VI,6,1,1
+2575,277,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,I,C,IC,7,1,0
+2576,277,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,I,I,II,8,0,1
+2577,278,Lógica y Epistemología UCC 2°,Resolución Individual Pre,20,F,34,V,C,VC,1,1,1
+2578,278,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,V,I,VI,2,1,1
+2579,278,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,I,C,IC,3,0,1
+2580,278,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,I,I,II,4,0,1
+2581,278,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,V,C,VC,5,1,1
+2582,278,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,V,I,VI,6,1,1
+2583,278,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,I,C,IC,7,1,0
+2584,278,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,I,I,II,8,0,1
+2585,278,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,V,C,VC,1,1,1
+2586,278,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,V,I,VI,2,1,1
+2587,278,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,I,C,IC,3,0,1
+2588,278,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,I,I,II,4,0,1
+2589,278,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,V,C,VC,5,1,1
+2590,278,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,V,I,VI,6,1,1
+2591,278,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,I,C,IC,7,1,0
+2592,278,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,I,I,II,8,0,1
+2593,279,Lógica y Epistemología UCC 2°,Resolución Individual Pre,20,F,34,V,C,VC,1,1,1
+2594,279,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,V,I,VI,2,0,0
+2595,279,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,I,C,IC,3,1,0
+2596,279,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,I,I,II,4,0,1
+2597,279,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,V,C,VC,5,1,1
+2598,279,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,V,I,VI,6,1,1
+2599,279,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,I,C,IC,7,0,1
+2600,279,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,34,I,I,II,8,0,1
+2601,279,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,V,C,VC,1,1,1
+2602,279,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,V,I,VI,2,1,1
+2603,279,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,I,C,IC,3,0,1
+2604,279,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,I,I,II,4,0,1
+2605,279,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,V,C,VC,5,1,1
+2606,279,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,V,I,VI,6,1,1
+2607,279,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,I,C,IC,7,1,0
+2608,279,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,34,I,I,II,8,0,1
+2609,279,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,34,V,C,VC,1,1,1
+2610,279,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,34,V,I,VI,2,1,1
+2611,279,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,34,I,C,IC,3,0,1
+2612,279,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,34,I,I,II,4,0,1
+2613,279,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,34,V,C,VC,5,1,1
+2614,279,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,34,V,I,VI,6,1,1
+2615,279,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,34,I,C,IC,7,1,0
+2616,279,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,34,I,I,II,8,0,1
+2617,280,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,35,V,C,VC,1,1,1
+2618,280,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,V,I,VI,2,1,1
+2619,280,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,I,C,IC,3,1,0
+2620,280,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,I,I,II,4,0,1
+2621,280,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,V,C,VC,5,1,1
+2622,280,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,V,I,VI,6,1,1
+2623,280,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,I,C,IC,7,0,1
+2624,280,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,I,I,II,8,0,1
+2625,280,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,V,C,VC,1,1,1
+2626,280,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,V,I,VI,2,1,1
+2627,280,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,I,C,IC,3,1,0
+2628,280,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,I,I,II,4,0,1
+2629,280,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,V,C,VC,5,1,1
+2630,280,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,V,I,VI,6,1,1
+2631,280,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,I,C,IC,7,1,0
+2632,280,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,I,I,II,8,0,1
+2633,281,Lógica y Epistemología UCC 2°,Resolución Individual Pre,22,F,35,V,C,VC,1,0,0
+2634,281,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,V,I,VI,2,0,0
+2635,281,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,I,C,IC,3,0,1
+2636,281,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,I,I,II,4,0,1
+2637,281,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,V,C,VC,5,1,1
+2638,281,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,V,I,VI,6,0,0
+2639,281,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,I,C,IC,7,1,0
+2640,281,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,I,I,II,8,0,1
+2641,281,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,V,C,VC,1,1,1
+2642,281,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,V,I,VI,2,0,0
+2643,281,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,I,C,IC,3,1,0
+2644,281,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,I,I,II,4,0,1
+2645,281,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,V,C,VC,5,1,1
+2646,281,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,V,I,VI,6,1,1
+2647,281,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,I,C,IC,7,0,1
+2648,281,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,I,I,II,8,0,1
+2649,282,Lógica y Epistemología UCC 2°,Resolución Individual Pre,20,F,35,V,C,VC,1,1,1
+2650,282,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,V,I,VI,2,0,0
+2651,282,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,I,C,IC,3,1,0
+2652,282,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,I,I,II,4,1,0
+2653,282,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,V,C,VC,5,0,0
+2654,282,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,V,I,VI,6,1,1
+2655,282,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,I,C,IC,7,1,0
+2656,282,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,I,I,II,8,1,0
+2657,282,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,V,C,VC,1,1,1
+2658,282,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,V,I,VI,2,0,0
+2659,282,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,I,C,IC,3,1,0
+2660,282,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,I,I,II,4,0,1
+2661,282,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,V,C,VC,5,1,1
+2662,282,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,V,I,VI,6,1,1
+2663,282,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,I,C,IC,7,1,0
+2664,282,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,I,I,II,8,0,1
+2665,283,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,35,V,C,VC,1,0,0
+2666,283,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,V,I,VI,2,0,0
+2667,283,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,I,C,IC,3,0,1
+2668,283,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,I,I,II,4,0,1
+2669,283,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,V,C,VC,5,0,0
+2670,283,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,V,I,VI,6,1,1
+2671,283,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,I,C,IC,7,0,1
+2672,283,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,35,I,I,II,8,0,1
+2673,283,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,V,C,VC,1,1,1
+2674,283,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,V,I,VI,2,0,0
+2675,283,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,I,C,IC,3,1,0
+2676,283,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,I,I,II,4,0,1
+2677,283,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,V,C,VC,5,1,1
+2678,283,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,V,I,VI,6,1,1
+2679,283,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,I,C,IC,7,0,1
+2680,283,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,35,I,I,II,8,0,1
+2681,283,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,35,V,C,VC,1,1,1
+2682,283,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,35,V,I,VI,2,0,0
+2683,283,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,35,I,C,IC,3,1,0
+2684,283,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,35,I,I,II,4,0,1
+2685,283,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,35,V,C,VC,5,1,1
+2686,283,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,35,V,I,VI,6,1,1
+2687,283,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,35,I,C,IC,7,0,1
+2688,283,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,35,I,I,II,8,0,1
+2689,284,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,M,36,V,C,VC,1,0,0
+2690,284,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,V,I,VI,2,0,0
+2691,284,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,I,C,IC,3,1,0
+2692,284,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,I,I,II,4,1,0
+2693,284,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,V,C,VC,5,1,1
+2694,284,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,V,I,VI,6,1,1
+2695,284,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,I,C,IC,7,0,1
+2696,284,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,I,I,II,8,0,1
+2697,284,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,V,C,VC,1,1,1
+2698,284,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,V,I,VI,2,1,1
+2699,284,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,I,C,IC,3,0,1
+2700,284,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,I,I,II,4,0,1
+2701,284,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,V,C,VC,5,1,1
+2702,284,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,V,I,VI,6,1,1
+2703,284,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,I,C,IC,7,0,1
+2704,284,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,I,I,II,8,0,1
+2705,285,Lógica y Epistemología UCC 2°,Resolución Individual Pre,20,F,36,V,C,VC,1,0,0
+2706,285,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,V,I,VI,2,1,1
+2707,285,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,I,C,IC,3,0,1
+2708,285,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,I,I,II,4,0,1
+2709,285,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,V,C,VC,5,1,1
+2710,285,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,V,I,VI,6,1,1
+2711,285,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,I,C,IC,7,0,1
+2712,285,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,I,I,II,8,0,1
+2713,285,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,V,C,VC,1,1,1
+2714,285,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,V,I,VI,2,1,1
+2715,285,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,I,C,IC,3,0,1
+2716,285,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,I,I,II,4,0,1
+2717,285,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,V,C,VC,5,1,1
+2718,285,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,V,I,VI,6,1,1
+2719,285,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,I,C,IC,7,1,0
+2720,285,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,I,I,II,8,1,0
+2721,286,Lógica y Epistemología UCC 2°,Resolución Individual Pre,20,F,36,V,C,VC,1,0,0
+2722,286,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,V,I,VI,2,1,1
+2723,286,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,I,C,IC,3,0,1
+2724,286,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,I,I,II,4,1,0
+2725,286,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,V,C,VC,5,1,1
+2726,286,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,V,I,VI,6,1,1
+2727,286,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,I,C,IC,7,0,1
+2728,286,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,I,I,II,8,0,1
+2729,286,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,V,C,VC,1,1,1
+2730,286,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,V,I,VI,2,1,1
+2731,286,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,I,C,IC,3,0,1
+2732,286,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,I,I,II,4,0,1
+2733,286,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,V,C,VC,5,1,1
+2734,286,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,V,I,VI,6,1,1
+2735,286,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,I,C,IC,7,1,0
+2736,286,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,I,I,II,8,1,0
+2737,287,Lógica y Epistemología UCC 2°,Resolución Individual Pre,21,F,36,V,C,VC,1,1,1
+2738,287,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,V,I,VI,2,1,1
+2739,287,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,I,C,IC,3,0,1
+2740,287,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,I,I,II,4,0,1
+2741,287,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,V,C,VC,5,1,1
+2742,287,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,V,I,VI,6,1,1
+2743,287,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,I,C,IC,7,0,1
+2744,287,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,I,I,II,8,0,1
+2745,287,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,V,C,VC,1,1,1
+2746,287,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,V,I,VI,2,1,1
+2747,287,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,I,C,IC,3,0,1
+2748,287,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,I,I,II,4,0,1
+2749,287,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,V,C,VC,5,1,1
+2750,287,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,V,I,VI,6,1,1
+2751,287,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,I,C,IC,7,1,0
+2752,287,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,I,I,II,8,1,0
+2753,288,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,36,V,C,VC,1,1,1
+2754,288,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,V,I,VI,2,1,1
+2755,288,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,I,C,IC,3,0,1
+2756,288,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,I,I,II,4,0,1
+2757,288,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,V,C,VC,5,1,1
+2758,288,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,V,I,VI,6,1,1
+2759,288,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,I,C,IC,7,1,0
+2760,288,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,36,I,I,II,8,1,0
+2761,288,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,V,C,VC,1,1,1
+2762,288,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,V,I,VI,2,1,1
+2763,288,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,I,C,IC,3,0,1
+2764,288,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,I,I,II,4,0,1
+2765,288,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,V,C,VC,5,1,1
+2766,288,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,V,I,VI,6,1,1
+2767,288,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,I,C,IC,7,1,0
+2768,288,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,36,I,I,II,8,1,0
+2769,288,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,36,V,C,VC,1,1,1
+2770,288,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,36,V,I,VI,2,1,1
+2771,288,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,36,I,C,IC,3,0,1
+2772,288,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,36,I,I,II,4,0,1
+2773,288,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,36,V,C,VC,5,1,1
+2774,288,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,36,V,I,VI,6,1,1
+2775,288,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,36,I,C,IC,7,1,0
+2776,288,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,36,I,I,II,8,1,0
+2777,289,Lógica y Epistemología UCC 2°,Resolución Individual Pre,54,F,37,V,C,VC,1,1,1
+2778,289,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,V,I,VI,2,0,0
+2779,289,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,I,C,IC,3,1,0
+2780,289,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,I,I,II,4,0,1
+2781,289,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,V,C,VC,5,1,1
+2782,289,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,V,I,VI,6,0,0
+2783,289,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,I,C,IC,7,1,0
+2784,289,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,I,I,II,8,0,1
+2785,289,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,V,C,VC,1,1,1
+2786,289,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,V,I,VI,2,1,1
+2787,289,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,I,C,IC,3,1,0
+2788,289,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,I,I,II,4,1,0
+2789,289,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,V,C,VC,5,1,1
+2790,289,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,V,I,VI,6,1,1
+2791,289,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,I,C,IC,7,1,0
+2792,289,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,I,I,II,8,1,0
+2793,290,Lógica y Epistemología UCC 2°,Resolución Individual Pre,20,F,37,V,C,VC,1,1,1
+2794,290,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,V,I,VI,2,0,0
+2795,290,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,I,C,IC,3,1,0
+2796,290,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,I,I,II,4,0,1
+2797,290,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,V,C,VC,5,1,1
+2798,290,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,V,I,VI,6,1,1
+2799,290,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,I,C,IC,7,0,1
+2800,290,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,I,I,II,8,0,1
+2801,290,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,V,C,VC,1,1,1
+2802,290,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,V,I,VI,2,1,1
+2803,290,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,I,C,IC,3,1,0
+2804,290,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,I,I,II,4,1,0
+2805,290,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,V,C,VC,5,1,1
+2806,290,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,V,I,VI,6,1,1
+2807,290,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,I,C,IC,7,1,0
+2808,290,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,I,I,II,8,1,0
+2809,291,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,37,V,C,VC,1,1,1
+2810,291,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,V,I,VI,2,0,0
+2811,291,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,I,C,IC,3,1,0
+2812,291,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,I,I,II,4,0,1
+2813,291,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,V,C,VC,5,1,1
+2814,291,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,V,I,VI,6,1,1
+2815,291,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,I,C,IC,7,0,1
+2816,291,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,I,I,II,8,0,1
+2817,291,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,V,C,VC,1,1,1
+2818,291,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,V,I,VI,2,1,1
+2819,291,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,I,C,IC,3,1,0
+2820,291,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,I,I,II,4,1,0
+2821,291,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,V,C,VC,5,1,1
+2822,291,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,V,I,VI,6,1,1
+2823,291,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,I,C,IC,7,1,0
+2824,291,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,I,I,II,8,1,0
+2825,292,Lógica y Epistemología UCC 2°,Resolución Individual Pre,19,F,37,V,C,VC,1,0,0
+2826,292,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,V,I,VI,2,0,0
+2827,292,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,I,C,IC,3,0,1
+2828,292,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,I,I,II,4,0,1
+2829,292,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,V,C,VC,5,0,0
+2830,292,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,V,I,VI,6,0,0
+2831,292,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,I,C,IC,7,1,0
+2832,292,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,I,I,II,8,0,1
+2833,292,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,V,C,VC,1,1,1
+2834,292,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,V,I,VI,2,1,1
+2835,292,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,I,C,IC,3,1,0
+2836,292,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,I,I,II,4,1,0
+2837,292,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,V,C,VC,5,1,1
+2838,292,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,V,I,VI,6,1,1
+2839,292,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,I,C,IC,7,1,0
+2840,292,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,I,I,II,8,1,0
+2841,293,Lógica y Epistemología UCC 2°,Resolución Individual Pre,20,F,37,V,C,VC,1,1,1
+2842,293,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,V,I,VI,2,1,1
+2843,293,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,I,C,IC,3,0,1
+2844,293,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,I,I,II,4,0,1
+2845,293,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,V,C,VC,5,1,1
+2846,293,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,V,I,VI,6,1,1
+2847,293,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,I,C,IC,7,0,1
+2848,293,Lógica y Epistemología UCC 2°,Resolución Individual Pre, , ,37,I,I,II,8,0,1
+2849,293,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,V,C,VC,1,1,1
+2850,293,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,V,I,VI,2,1,1
+2851,293,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,I,C,IC,3,1,0
+2852,293,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,I,I,II,4,1,0
+2853,293,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,V,C,VC,5,1,1
+2854,293,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,V,I,VI,6,1,1
+2855,293,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,I,C,IC,7,1,0
+2856,293,Lógica y Epistemología UCC 2°,Resolución Individual Post, , ,37,I,I,II,8,1,0
+2857,293,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,37,V,C,VC,1,1,1
+2858,293,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,37,V,I,VI,2,1,1
+2859,293,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,37,I,C,IC,3,1,0
+2860,293,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,37,I,I,II,4,1,0
+2861,293,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,37,V,C,VC,5,1,1
+2862,293,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,37,V,I,VI,6,1,1
+2863,293,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,37,I,C,IC,7,1,0
+2864,293,Lógica y Epistemología UCC 2°,Resolución Grupal, , ,37,I,I,II,8,1,0
+2865,294,Metodología de la investigación I UCC 1°,Resolución Individual Pre,19,F,38,V,C,VC,1,1,1
+2866,294,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,V,I,VI,2,0,0
+2867,294,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,I,C,IC,3,0,1
+2868,294,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,I,I,II,4,0,1
+2869,294,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,V,C,VC,5,1,1
+2870,294,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,V,I,VI,6,1,1
+2871,294,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,I,C,IC,7,1,0
+2872,294,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,I,I,II,8,0,1
+2873,294,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,V,C,VC,1,0,0
+2874,294,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,V,I,VI,2,1,1
+2875,294,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,I,C,IC,3,0,1
+2876,294,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,I,I,II,4,0,1
+2877,294,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,V,C,VC,5,1,1
+2878,294,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,V,I,VI,6,1,1
+2879,294,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,I,C,IC,7,0,1
+2880,294,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,I,I,II,8,1,0
+2881,295,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,38,V,C,VC,1,1,1
+2882,295,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,V,I,VI,2,1,1
+2883,295,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,I,C,IC,3,0,1
+2884,295,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,I,I,II,4,0,1
+2885,295,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,V,C,VC,5,1,1
+2886,295,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,V,I,VI,6,1,1
+2887,295,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,I,C,IC,7,1,0
+2888,295,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,I,I,II,8,0,1
+2889,295,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,V,C,VC,1,1,1
+2890,295,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,V,I,VI,2,1,1
+2891,295,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,I,C,IC,3,1,0
+2892,295,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,I,I,II,4,0,1
+2893,295,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,V,C,VC,5,1,1
+2894,295,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,V,I,VI,6,1,1
+2895,295,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,I,C,IC,7,1,0
+2896,295,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,I,I,II,8,1,0
+2897,296,Metodología de la investigación I UCC 1°,Resolución Individual Pre,23,F,38,V,C,VC,1,1,1
+2898,296,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,V,I,VI,2,1,1
+2899,296,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,I,C,IC,3,0,1
+2900,296,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,I,I,II,4,0,1
+2901,296,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,V,C,VC,5,1,1
+2902,296,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,V,I,VI,6,1,1
+2903,296,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,I,C,IC,7,0,1
+2904,296,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,I,I,II,8,0,1
+2905,296,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,V,C,VC,1,1,1
+2906,296,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,V,I,VI,2,1,1
+2907,296,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,I,C,IC,3,0,1
+2908,296,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,I,I,II,4,0,1
+2909,296,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,V,C,VC,5,1,1
+2910,296,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,V,I,VI,6,1,1
+2911,296,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,I,C,IC,7,1,0
+2912,296,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,I,I,II,8,1,0
+2913,297,Metodología de la investigación I UCC 1°,Resolución Individual Pre,19,F,38,V,C,VC,1,1,1
+2914,297,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,V,I,VI,2,0,0
+2915,297,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,I,C,IC,3,1,0
+2916,297,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,I,I,II,4,0,1
+2917,297,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,V,C,VC,5,1,1
+2918,297,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,V,I,VI,6,1,1
+2919,297,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,I,C,IC,7,1,0
+2920,297,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,I,I,II,8,0,1
+2921,297,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,V,C,VC,1,0,0
+2922,297,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,V,I,VI,2,1,1
+2923,297,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,I,C,IC,3,1,0
+2924,297,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,I,I,II,4,0,1
+2925,297,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,V,C,VC,5,1,1
+2926,297,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,V,I,VI,6,1,1
+2927,297,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,I,C,IC,7,1,0
+2928,297,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,I,I,II,8,1,0
+2929,298,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,38,V,C,VC,1,1,1
+2930,298,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,V,I,VI,2,0,0
+2931,298,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,I,C,IC,3,1,0
+2932,298,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,I,I,II,4,0,1
+2933,298,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,V,C,VC,5,1,1
+2934,298,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,V,I,VI,6,0,0
+2935,298,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,I,C,IC,7,1,0
+2936,298,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,38,I,I,II,8,0,1
+2937,298,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,V,C,VC,1,1,1
+2938,298,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,V,I,VI,2,0,0
+2939,298,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,I,C,IC,3,1,0
+2940,298,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,I,I,II,4,0,1
+2941,298,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,V,C,VC,5,1,1
+2942,298,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,V,I,VI,6,1,1
+2943,298,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,I,C,IC,7,1,0
+2944,298,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,38,I,I,II,8,1,0
+2945,298,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,38,V,C,VC,1,1,1
+2946,298,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,38,V,I,VI,2,1,1
+2947,298,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,38,I,C,IC,3,1,0
+2948,298,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,38,I,I,II,4,0,1
+2949,298,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,38,V,C,VC,5,1,1
+2950,298,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,38,V,I,VI,6,1,1
+2951,298,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,38,I,C,IC,7,1,0
+2952,298,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,38,I,I,II,8,1,0
+2953,299,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,M,39,V,C,VC,1,1,1
+2954,299,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,V,I,VI,2,1,1
+2955,299,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,I,C,IC,3,1,0
+2956,299,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,I,I,II,4,0,1
+2957,299,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,V,C,VC,5,1,1
+2958,299,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,V,I,VI,6,1,1
+2959,299,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,I,C,IC,7,1,0
+2960,299,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,I,I,II,8,0,1
+2961,299,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,V,C,VC,1,1,1
+2962,299,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,V,I,VI,2,1,1
+2963,299,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,I,C,IC,3,0,1
+2964,299,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,I,I,II,4,1,0
+2965,299,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,V,C,VC,5,1,1
+2966,299,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,V,I,VI,6,1,1
+2967,299,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,I,C,IC,7,1,0
+2968,299,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,I,I,II,8,0,1
+2969,300,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,39,V,C,VC,1,1,1
+2970,300,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,V,I,VI,2,1,1
+2971,300,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,I,C,IC,3,0,1
+2972,300,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,I,I,II,4,0,1
+2973,300,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,V,C,VC,5,1,1
+2974,300,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,V,I,VI,6,0,0
+2975,300,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,I,C,IC,7,0,1
+2976,300,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,I,I,II,8,0,1
+2977,300,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,V,C,VC,1,1,1
+2978,300,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,V,I,VI,2,1,1
+2979,300,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,I,C,IC,3,0,1
+2980,300,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,I,I,II,4,0,1
+2981,300,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,V,C,VC,5,1,1
+2982,300,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,V,I,VI,6,1,1
+2983,300,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,I,C,IC,7,1,0
+2984,300,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,I,I,II,8,0,1
+2985,301,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,39,V,C,VC,1,1,1
+2986,301,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,V,I,VI,2,0,0
+2987,301,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,I,C,IC,3,1,0
+2988,301,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,I,I,II,4,1,0
+2989,301,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,V,C,VC,5,0,0
+2990,301,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,V,I,VI,6,1,1
+2991,301,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,I,C,IC,7,0,1
+2992,301,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,I,I,II,8,0,1
+2993,301,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,V,C,VC,1,1,1
+2994,301,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,V,I,VI,2,1,1
+2995,301,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,I,C,IC,3,1,0
+2996,301,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,I,I,II,4,0,1
+2997,301,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,V,C,VC,5,1,1
+2998,301,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,V,I,VI,6,1,1
+2999,301,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,I,C,IC,7,1,0
+3000,301,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,I,I,II,8,0,1
+3001,302,Metodología de la investigación I UCC 1°,Resolución Individual Pre,29,M,39,V,C,VC,1,1,1
+3002,302,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,V,I,VI,2,1,1
+3003,302,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,I,C,IC,3,0,1
+3004,302,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,I,I,II,4,0,1
+3005,302,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,V,C,VC,5,1,1
+3006,302,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,V,I,VI,6,1,1
+3007,302,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,I,C,IC,7,0,1
+3008,302,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,I,I,II,8,0,1
+3009,302,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,V,C,VC,1,1,1
+3010,302,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,V,I,VI,2,0,0
+3011,302,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,I,C,IC,3,0,1
+3012,302,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,I,I,II,4,0,1
+3013,302,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,V,C,VC,5,1,1
+3014,302,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,V,I,VI,6,1,1
+3015,302,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,I,C,IC,7,1,0
+3016,302,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,I,I,II,8,1,0
+3017,303,Metodología de la investigación I UCC 1°,Resolución Individual Pre,21,F,39,V,C,VC,1,1,1
+3018,303,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,V,I,VI,2,1,1
+3019,303,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,I,C,IC,3,1,0
+3020,303,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,I,I,II,4,0,1
+3021,303,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,V,C,VC,5,1,1
+3022,303,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,V,I,VI,6,1,1
+3023,303,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,I,C,IC,7,1,0
+3024,303,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,39,I,I,II,8,1,0
+3025,303,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,V,C,VC,1,0,0
+3026,303,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,V,I,VI,2,1,1
+3027,303,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,I,C,IC,3,0,1
+3028,303,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,I,I,II,4,0,1
+3029,303,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,V,C,VC,5,1,1
+3030,303,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,V,I,VI,6,1,1
+3031,303,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,I,C,IC,7,1,0
+3032,303,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,39,I,I,II,8,1,0
+3033,303,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,39,V,C,VC,1,1,1
+3034,303,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,39,V,I,VI,2,1,1
+3035,303,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,39,I,C,IC,3,0,1
+3036,303,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,39,I,I,II,4,0,1
+3037,303,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,39,V,C,VC,5,1,1
+3038,303,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,39,V,I,VI,6,1,1
+3039,303,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,39,I,C,IC,7,1,0
+3040,303,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,39,I,I,II,8,0,1
+3041,304,Metodología de la investigación I UCC 1°,Resolución Individual Pre,22,M,40,V,C,VC,1,1,1
+3042,304,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,V,I,VI,2,1,1
+3043,304,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,I,C,IC,3,0,1
+3044,304,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,I,I,II,4,1,0
+3045,304,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,V,C,VC,5,1,1
+3046,304,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,V,I,VI,6,1,1
+3047,304,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,I,C,IC,7,0,1
+3048,304,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,I,I,II,8,0,1
+3049,304,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,V,C,VC,1,1,1
+3050,304,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,V,I,VI,2,1,1
+3051,304,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,I,C,IC,3,0,1
+3052,304,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,I,I,II,4,0,1
+3053,304,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,V,C,VC,5,1,1
+3054,304,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,V,I,VI,6,0,0
+3055,304,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,I,C,IC,7,1,0
+3056,304,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,I,I,II,8,0,1
+3057,305,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,40,V,C,VC,1,0,0
+3058,305,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,V,I,VI,2,0,0
+3059,305,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,I,C,IC,3,1,0
+3060,305,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,I,I,II,4,0,1
+3061,305,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,V,C,VC,5,1,1
+3062,305,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,V,I,VI,6,1,1
+3063,305,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,I,C,IC,7,1,0
+3064,305,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,I,I,II,8,0,1
+3065,305,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,V,C,VC,1,0,0
+3066,305,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,V,I,VI,2,1,1
+3067,305,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,I,C,IC,3,0,1
+3068,305,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,I,I,II,4,0,1
+3069,305,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,V,C,VC,5,1,1
+3070,305,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,V,I,VI,6,0,0
+3071,305,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,I,C,IC,7,1,0
+3072,305,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,I,I,II,8,0,1
+3073,306,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,40,V,C,VC,1,1,1
+3074,306,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,V,I,VI,2,1,1
+3075,306,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,I,C,IC,3,0,1
+3076,306,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,I,I,II,4,0,1
+3077,306,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,V,C,VC,5,1,1
+3078,306,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,V,I,VI,6,0,0
+3079,306,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,I,C,IC,7,1,0
+3080,306,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,I,I,II,8,0,1
+3081,306,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,V,C,VC,1,1,1
+3082,306,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,V,I,VI,2,1,1
+3083,306,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,I,C,IC,3,0,1
+3084,306,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,I,I,II,4,0,1
+3085,306,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,V,C,VC,5,1,1
+3086,306,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,V,I,VI,6,0,0
+3087,306,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,I,C,IC,7,1,0
+3088,306,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,I,I,II,8,0,1
+3089,307,Metodología de la investigación I UCC 1°,Resolución Individual Pre,19,F,40,V,C,VC,1,1,1
+3090,307,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,V,I,VI,2,1,1
+3091,307,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,I,C,IC,3,0,1
+3092,307,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,I,I,II,4,0,1
+3093,307,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,V,C,VC,5,1,1
+3094,307,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,V,I,VI,6,0,0
+3095,307,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,I,C,IC,7,0,1
+3096,307,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,I,I,II,8,0,1
+3097,307,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,V,C,VC,1,1,1
+3098,307,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,V,I,VI,2,1,1
+3099,307,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,I,C,IC,3,0,1
+3100,307,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,I,I,II,4,0,1
+3101,307,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,V,C,VC,5,1,1
+3102,307,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,V,I,VI,6,0,0
+3103,307,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,I,C,IC,7,1,0
+3104,307,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,I,I,II,8,0,1
+3105,308,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,40,V,C,VC,1,1,1
+3106,308,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,V,I,VI,2,1,1
+3107,308,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,I,C,IC,3,1,0
+3108,308,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,I,I,II,4,1,0
+3109,308,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,V,C,VC,5,0,0
+3110,308,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,V,I,VI,6,0,0
+3111,308,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,I,C,IC,7,0,1
+3112,308,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,40,I,I,II,8,0,1
+3113,308,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,V,C,VC,1,0,0
+3114,308,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,V,I,VI,2,1,1
+3115,308,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,I,C,IC,3,1,0
+3116,308,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,I,I,II,4,0,1
+3117,308,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,V,C,VC,5,0,0
+3118,308,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,V,I,VI,6,0,0
+3119,308,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,I,C,IC,7,1,0
+3120,308,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,40,I,I,II,8,0,1
+3121,308,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,40,V,C,VC,1,1,1
+3122,308,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,40,V,I,VI,2,1,1
+3123,308,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,40,I,C,IC,3,0,1
+3124,308,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,40,I,I,II,4,0,1
+3125,308,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,40,V,C,VC,5,1,1
+3126,308,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,40,V,I,VI,6,0,0
+3127,308,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,40,I,C,IC,7,1,0
+3128,308,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,40,I,I,II,8,0,1
+3129,309,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,M,41,V,C,VC,1,1,1
+3130,309,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,V,I,VI,2,1,1
+3131,309,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,I,C,IC,3,1,0
+3132,309,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,I,I,II,4,0,1
+3133,309,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,V,C,VC,5,1,1
+3134,309,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,V,I,VI,6,1,1
+3135,309,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,I,C,IC,7,0,1
+3136,309,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,I,I,II,8,0,1
+3137,309,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,V,C,VC,1,1,1
+3138,309,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,V,I,VI,2,1,1
+3139,309,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,I,C,IC,3,0,1
+3140,309,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,I,I,II,4,0,1
+3141,309,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,V,C,VC,5,1,1
+3142,309,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,V,I,VI,6,1,1
+3143,309,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,I,C,IC,7,0,1
+3144,309,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,I,I,II,8,0,1
+3145,310,Metodología de la investigación I UCC 1°,Resolución Individual Pre,19,F,41,V,C,VC,1,0,0
+3146,310,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,V,I,VI,2,1,1
+3147,310,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,I,C,IC,3,0,1
+3148,310,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,I,I,II,4,0,1
+3149,310,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,V,C,VC,5,1,1
+3150,310,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,V,I,VI,6,1,1
+3151,310,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,I,C,IC,7,1,0
+3152,310,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,I,I,II,8,0,1
+3153,310,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,V,C,VC,1,0,0
+3154,310,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,V,I,VI,2,1,1
+3155,310,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,I,C,IC,3,0,1
+3156,310,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,I,I,II,4,0,1
+3157,310,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,V,C,VC,5,1,1
+3158,310,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,V,I,VI,6,1,1
+3159,310,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,I,C,IC,7,1,0
+3160,310,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,I,I,II,8,0,1
+3161,311,Metodología de la investigación I UCC 1°,Resolución Individual Pre,19,M,41,V,C,VC,1,1,1
+3162,311,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,V,I,VI,2,0,0
+3163,311,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,I,C,IC,3,0,1
+3164,311,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,I,I,II,4,0,1
+3165,311,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,V,C,VC,5,1,1
+3166,311,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,V,I,VI,6,0,0
+3167,311,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,I,C,IC,7,0,1
+3168,311,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,I,I,II,8,0,1
+3169,311,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,V,C,VC,1,1,1
+3170,311,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,V,I,VI,2,1,1
+3171,311,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,I,C,IC,3,0,1
+3172,311,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,I,I,II,4,0,1
+3173,311,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,V,C,VC,5,1,1
+3174,311,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,V,I,VI,6,1,1
+3175,311,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,I,C,IC,7,0,1
+3176,311,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,I,I,II,8,0,1
+3177,312,Metodología de la investigación I UCC 1°,Resolución Individual Pre,19,O,41,V,C,VC,1,1,1
+3178,312,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,V,I,VI,2,1,1
+3179,312,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,I,C,IC,3,0,1
+3180,312,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,I,I,II,4,0,1
+3181,312,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,V,C,VC,5,1,1
+3182,312,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,V,I,VI,6,0,0
+3183,312,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,I,C,IC,7,1,0
+3184,312,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,I,I,II,8,0,1
+3185,312,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,V,C,VC,1,1,1
+3186,312,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,V,I,VI,2,1,1
+3187,312,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,I,C,IC,3,0,1
+3188,312,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,I,I,II,4,0,1
+3189,312,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,V,C,VC,5,1,1
+3190,312,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,V,I,VI,6,0,0
+3191,312,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,I,C,IC,7,1,0
+3192,312,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,I,I,II,8,0,1
+3193,313,Metodología de la investigación I UCC 1°,Resolución Individual Pre,19,F,41,V,C,VC,1,1,1
+3194,313,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,V,I,VI,2,1,1
+3195,313,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,I,C,IC,3,0,1
+3196,313,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,I,I,II,4,1,0
+3197,313,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,V,C,VC,5,1,1
+3198,313,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,V,I,VI,6,1,1
+3199,313,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,I,C,IC,7,1,0
+3200,313,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,41,I,I,II,8,0,1
+3201,313,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,V,C,VC,1,1,1
+3202,313,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,V,I,VI,2,1,1
+3203,313,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,I,C,IC,3,0,1
+3204,313,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,I,I,II,4,1,0
+3205,313,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,V,C,VC,5,1,1
+3206,313,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,V,I,VI,6,1,1
+3207,313,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,I,C,IC,7,1,0
+3208,313,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,41,I,I,II,8,0,1
+3209,313,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,41,V,C,VC,1,1,1
+3210,313,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,41,V,I,VI,2,1,1
+3211,313,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,41,I,C,IC,3,0,1
+3212,313,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,41,I,I,II,4,0,1
+3213,313,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,41,V,C,VC,5,1,1
+3214,313,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,41,V,I,VI,6,1,1
+3215,313,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,41,I,C,IC,7,1,0
+3216,313,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,41,I,I,II,8,0,1
+3217,314,Metodología de la investigación I UCC 1°,Resolución Individual Pre,22,M,42,V,C,VC,1,1,1
+3218,314,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,V,I,VI,2,0,0
+3219,314,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,I,C,IC,3,0,1
+3220,314,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,I,I,II,4,0,1
+3221,314,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,V,C,VC,5,1,1
+3222,314,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,V,I,VI,6,1,1
+3223,314,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,I,C,IC,7,0,1
+3224,314,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,I,I,II,8,1,0
+3225,314,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,V,C,VC,1,1,1
+3226,314,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,V,I,VI,2,1,1
+3227,314,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,I,C,IC,3,1,0
+3228,314,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,I,I,II,4,1,0
+3229,314,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,V,C,VC,5,1,1
+3230,314,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,V,I,VI,6,1,1
+3231,314,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,I,C,IC,7,1,0
+3232,314,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,I,I,II,8,1,0
+3233,315,Metodología de la investigación I UCC 1°,Resolución Individual Pre,19,M,42,V,C,VC,1,1,1
+3234,315,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,V,I,VI,2,0,0
+3235,315,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,I,C,IC,3,1,0
+3236,315,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,I,I,II,4,0,1
+3237,315,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,V,C,VC,5,1,1
+3238,315,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,V,I,VI,6,0,0
+3239,315,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,I,C,IC,7,1,0
+3240,315,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,I,I,II,8,0,1
+3241,315,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,V,C,VC,1,0,0
+3242,315,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,V,I,VI,2,0,0
+3243,315,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,I,C,IC,3,1,0
+3244,315,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,I,I,II,4,0,1
+3245,315,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,V,C,VC,5,1,1
+3246,315,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,V,I,VI,6,1,1
+3247,315,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,I,C,IC,7,1,0
+3248,315,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,I,I,II,8,1,0
+3249,316,Metodología de la investigación I UCC 1°,Resolución Individual Pre,19,M,42,V,C,VC,1,1,1
+3250,316,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,V,I,VI,2,0,0
+3251,316,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,I,C,IC,3,1,0
+3252,316,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,I,I,II,4,0,1
+3253,316,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,V,C,VC,5,1,1
+3254,316,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,V,I,VI,6,0,0
+3255,316,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,I,C,IC,7,0,1
+3256,316,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,I,I,II,8,0,1
+3257,316,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,V,C,VC,1,1,1
+3258,316,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,V,I,VI,2,0,0
+3259,316,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,I,C,IC,3,1,0
+3260,316,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,I,I,II,4,1,0
+3261,316,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,V,C,VC,5,1,1
+3262,316,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,V,I,VI,6,1,1
+3263,316,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,I,C,IC,7,1,0
+3264,316,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,I,I,II,8,0,1
+3265,317,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,42,V,C,VC,1,0,0
+3266,317,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,V,I,VI,2,1,1
+3267,317,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,I,C,IC,3,0,1
+3268,317,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,I,I,II,4,0,1
+3269,317,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,V,C,VC,5,1,1
+3270,317,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,V,I,VI,6,0,0
+3271,317,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,I,C,IC,7,1,0
+3272,317,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,I,I,II,8,0,1
+3273,317,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,V,C,VC,1,1,1
+3274,317,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,V,I,VI,2,0,0
+3275,317,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,I,C,IC,3,1,0
+3276,317,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,I,I,II,4,0,1
+3277,317,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,V,C,VC,5,1,1
+3278,317,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,V,I,VI,6,1,1
+3279,317,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,I,C,IC,7,1,0
+3280,317,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,I,I,II,8,0,1
+3281,318,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,42,V,C,VC,1,0,0
+3282,318,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,V,I,VI,2,1,1
+3283,318,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,I,C,IC,3,1,0
+3284,318,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,I,I,II,4,1,0
+3285,318,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,V,C,VC,5,0,0
+3286,318,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,V,I,VI,6,1,1
+3287,318,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,I,C,IC,7,1,0
+3288,318,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,42,I,I,II,8,0,1
+3289,318,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,V,C,VC,1,1,1
+3290,318,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,V,I,VI,2,1,1
+3291,318,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,I,C,IC,3,1,0
+3292,318,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,I,I,II,4,0,1
+3293,318,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,V,C,VC,5,0,0
+3294,318,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,V,I,VI,6,1,1
+3295,318,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,I,C,IC,7,1,0
+3296,318,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,42,I,I,II,8,0,1
+3297,318,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,42,V,C,VC,1,1,1
+3298,318,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,42,V,I,VI,2,0,0
+3299,318,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,42,I,C,IC,3,1,0
+3300,318,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,42,I,I,II,4,0,1
+3301,318,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,42,V,C,VC,5,1,1
+3302,318,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,42,V,I,VI,6,1,1
+3303,318,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,42,I,C,IC,7,1,0
+3304,318,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,42,I,I,II,8,1,0
+3305,319,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,M,43,V,C,VC,1,1,1
+3306,319,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,V,I,VI,2,1,1
+3307,319,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,I,C,IC,3,1,0
+3308,319,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,I,I,II,4,0,1
+3309,319,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,V,C,VC,5,1,1
+3310,319,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,V,I,VI,6,1,1
+3311,319,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,I,C,IC,7,1,0
+3312,319,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,I,I,II,8,0,1
+3313,319,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,V,C,VC,1,1,1
+3314,319,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,V,I,VI,2,1,1
+3315,319,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,I,C,IC,3,1,0
+3316,319,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,I,I,II,4,0,1
+3317,319,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,V,C,VC,5,1,1
+3318,319,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,V,I,VI,6,1,1
+3319,319,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,I,C,IC,7,1,0
+3320,319,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,I,I,II,8,0,1
+3321,320,Metodología de la investigación I UCC 1°,Resolución Individual Pre,23,M,43,V,C,VC,1,1,1
+3322,320,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,V,I,VI,2,0,0
+3323,320,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,I,C,IC,3,0,1
+3324,320,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,I,I,II,4,0,1
+3325,320,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,V,C,VC,5,1,1
+3326,320,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,V,I,VI,6,1,1
+3327,320,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,I,C,IC,7,1,0
+3328,320,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,I,I,II,8,0,1
+3329,320,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,V,C,VC,1,1,1
+3330,320,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,V,I,VI,2,1,1
+3331,320,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,I,C,IC,3,0,1
+3332,320,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,I,I,II,4,0,1
+3333,320,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,V,C,VC,5,1,1
+3334,320,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,V,I,VI,6,1,1
+3335,320,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,I,C,IC,7,1,0
+3336,320,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,I,I,II,8,0,1
+3337,321,Metodología de la investigación I UCC 1°,Resolución Individual Pre,22,F,43,V,C,VC,1,1,1
+3338,321,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,V,I,VI,2,0,0
+3339,321,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,I,C,IC,3,0,1
+3340,321,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,I,I,II,4,0,1
+3341,321,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,V,C,VC,5,0,0
+3342,321,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,V,I,VI,6,1,1
+3343,321,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,I,C,IC,7,0,1
+3344,321,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,I,I,II,8,0,1
+3345,321,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,V,C,VC,1,1,1
+3346,321,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,V,I,VI,2,0,0
+3347,321,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,I,C,IC,3,0,1
+3348,321,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,I,I,II,4,1,0
+3349,321,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,V,C,VC,5,1,1
+3350,321,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,V,I,VI,6,1,1
+3351,321,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,I,C,IC,7,1,0
+3352,321,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,I,I,II,8,0,1
+3353,322,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,43,V,C,VC,1,0,0
+3354,322,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,V,I,VI,2,1,1
+3355,322,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,I,C,IC,3,1,0
+3356,322,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,I,I,II,4,0,1
+3357,322,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,V,C,VC,5,1,1
+3358,322,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,V,I,VI,6,1,1
+3359,322,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,I,C,IC,7,1,0
+3360,322,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,43,I,I,II,8,0,1
+3361,322,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,V,C,VC,1,1,1
+3362,322,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,V,I,VI,2,1,1
+3363,322,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,I,C,IC,3,0,1
+3364,322,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,I,I,II,4,0,1
+3365,322,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,V,C,VC,5,1,1
+3366,322,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,V,I,VI,6,1,1
+3367,322,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,I,C,IC,7,1,0
+3368,322,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,43,I,I,II,8,0,1
+3369,322,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,43,V,C,VC,1,1,1
+3370,322,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,43,V,I,VI,2,1,1
+3371,322,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,43,I,C,IC,3,0,1
+3372,322,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,43,I,I,II,4,0,1
+3373,322,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,43,V,C,VC,5,1,1
+3374,322,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,43,V,I,VI,6,1,1
+3375,322,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,43,I,C,IC,7,1,0
+3376,322,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,43,I,I,II,8,0,1
+3377,323,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,44,V,C,VC,1,1,1
+3378,323,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,V,I,VI,2,1,1
+3379,323,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,I,C,IC,3,1,0
+3380,323,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,I,I,II,4,0,1
+3381,323,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,V,C,VC,5,1,1
+3382,323,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,V,I,VI,6,1,1
+3383,323,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,I,C,IC,7,0,1
+3384,323,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,I,I,II,8,0,1
+3385,323,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,V,C,VC,1,1,1
+3386,323,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,V,I,VI,2,1,1
+3387,323,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,I,C,IC,3,0,1
+3388,323,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,I,I,II,4,0,1
+3389,323,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,V,C,VC,5,1,1
+3390,323,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,V,I,VI,6,1,1
+3391,323,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,I,C,IC,7,1,0
+3392,323,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,I,I,II,8,0,1
+3393,324,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,44,V,C,VC,1,1,1
+3394,324,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,V,I,VI,2,0,0
+3395,324,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,I,C,IC,3,0,1
+3396,324,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,I,I,II,4,1,0
+3397,324,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,V,C,VC,5,1,1
+3398,324,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,V,I,VI,6,0,0
+3399,324,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,I,C,IC,7,1,0
+3400,324,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,I,I,II,8,0,1
+3401,324,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,V,C,VC,1,1,1
+3402,324,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,V,I,VI,2,1,1
+3403,324,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,I,C,IC,3,0,1
+3404,324,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,I,I,II,4,0,1
+3405,324,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,V,C,VC,5,1,1
+3406,324,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,V,I,VI,6,1,1
+3407,324,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,I,C,IC,7,1,0
+3408,324,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,I,I,II,8,0,1
+3409,325,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,44,V,C,VC,1,0,0
+3410,325,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,V,I,VI,2,1,1
+3411,325,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,I,C,IC,3,0,1
+3412,325,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,I,I,II,4,0,1
+3413,325,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,V,C,VC,5,1,1
+3414,325,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,V,I,VI,6,1,1
+3415,325,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,I,C,IC,7,1,0
+3416,325,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,I,I,II,8,0,1
+3417,325,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,V,C,VC,1,1,1
+3418,325,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,V,I,VI,2,1,1
+3419,325,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,I,C,IC,3,0,1
+3420,325,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,I,I,II,4,0,1
+3421,325,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,V,C,VC,5,1,1
+3422,325,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,V,I,VI,6,1,1
+3423,325,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,I,C,IC,7,0,1
+3424,325,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,I,I,II,8,0,1
+3425,326,Metodología de la investigación I UCC 1°,Resolución Individual Pre,19,F,44,V,C,VC,1,1,1
+3426,326,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,V,I,VI,2,0,0
+3427,326,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,I,C,IC,3,1,0
+3428,326,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,I,I,II,4,0,1
+3429,326,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,V,C,VC,5,1,1
+3430,326,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,V,I,VI,6,0,0
+3431,326,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,I,C,IC,7,1,0
+3432,326,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,I,I,II,8,0,1
+3433,326,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,V,C,VC,1,1,1
+3434,326,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,V,I,VI,2,1,1
+3435,326,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,I,C,IC,3,0,1
+3436,326,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,I,I,II,4,0,1
+3437,326,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,V,C,VC,5,1,1
+3438,326,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,V,I,VI,6,1,1
+3439,326,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,I,C,IC,7,1,0
+3440,326,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,I,I,II,8,0,1
+3441,327,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,44,V,C,VC,1,0,0
+3442,327,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,V,I,VI,2,0,0
+3443,327,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,I,C,IC,3,1,0
+3444,327,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,I,I,II,4,0,1
+3445,327,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,V,C,VC,5,1,1
+3446,327,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,V,I,VI,6,0,0
+3447,327,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,I,C,IC,7,0,1
+3448,327,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,44,I,I,II,8,0,1
+3449,327,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,V,C,VC,1,1,1
+3450,327,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,V,I,VI,2,1,1
+3451,327,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,I,C,IC,3,0,1
+3452,327,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,I,I,II,4,1,0
+3453,327,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,V,C,VC,5,1,1
+3454,327,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,V,I,VI,6,1,1
+3455,327,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,I,C,IC,7,1,0
+3456,327,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,44,I,I,II,8,1,0
+3457,327,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,44,V,C,VC,1,1,1
+3458,327,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,44,V,I,VI,2,1,1
+3459,327,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,44,I,C,IC,3,0,1
+3460,327,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,44,I,I,II,4,0,1
+3461,327,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,44,V,C,VC,5,1,1
+3462,327,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,44,V,I,VI,6,1,1
+3463,327,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,44,I,C,IC,7,1,0
+3464,327,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,44,I,I,II,8,0,1
+3465,328,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,45,V,C,VC,1,1,1
+3466,328,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,V,I,VI,2,0,0
+3467,328,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,I,C,IC,3,1,0
+3468,328,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,I,I,II,4,0,1
+3469,328,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,V,C,VC,5,1,1
+3470,328,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,V,I,VI,6,0,0
+3471,328,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,I,C,IC,7,0,1
+3472,328,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,I,I,II,8,1,0
+3473,328,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,V,C,VC,1,1,1
+3474,328,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,V,I,VI,2,1,1
+3475,328,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,I,C,IC,3,0,1
+3476,328,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,I,I,II,4,0,1
+3477,328,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,V,C,VC,5,1,1
+3478,328,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,V,I,VI,6,1,1
+3479,328,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,I,C,IC,7,1,0
+3480,328,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,I,I,II,8,0,1
+3481,329,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,45,V,C,VC,1,1,1
+3482,329,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,V,I,VI,2,0,0
+3483,329,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,I,C,IC,3,0,1
+3484,329,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,I,I,II,4,0,1
+3485,329,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,V,C,VC,5,1,1
+3486,329,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,V,I,VI,6,0,0
+3487,329,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,I,C,IC,7,1,0
+3488,329,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,I,I,II,8,0,1
+3489,329,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,V,C,VC,1,1,1
+3490,329,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,V,I,VI,2,1,1
+3491,329,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,I,C,IC,3,0,1
+3492,329,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,I,I,II,4,0,1
+3493,329,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,V,C,VC,5,1,1
+3494,329,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,V,I,VI,6,1,1
+3495,329,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,I,C,IC,7,1,0
+3496,329,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,I,I,II,8,0,1
+3497,330,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,45,V,C,VC,1,1,1
+3498,330,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,V,I,VI,2,0,0
+3499,330,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,I,C,IC,3,0,1
+3500,330,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,I,I,II,4,0,1
+3501,330,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,V,C,VC,5,1,1
+3502,330,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,V,I,VI,6,0,0
+3503,330,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,I,C,IC,7,1,0
+3504,330,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,I,I,II,8,0,1
+3505,330,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,V,C,VC,1,1,1
+3506,330,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,V,I,VI,2,1,1
+3507,330,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,I,C,IC,3,0,1
+3508,330,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,I,I,II,4,0,1
+3509,330,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,V,C,VC,5,1,1
+3510,330,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,V,I,VI,6,1,1
+3511,330,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,I,C,IC,7,1,0
+3512,330,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,I,I,II,8,0,1
+3513,331,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,45,V,C,VC,1,1,1
+3514,331,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,V,I,VI,2,0,0
+3515,331,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,I,C,IC,3,1,0
+3516,331,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,I,I,II,4,0,1
+3517,331,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,V,C,VC,5,1,1
+3518,331,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,V,I,VI,6,1,1
+3519,331,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,I,C,IC,7,0,1
+3520,331,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,I,I,II,8,0,1
+3521,331,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,V,C,VC,1,1,1
+3522,331,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,V,I,VI,2,1,1
+3523,331,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,I,C,IC,3,0,1
+3524,331,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,I,I,II,4,0,1
+3525,331,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,V,C,VC,5,1,1
+3526,331,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,V,I,VI,6,1,1
+3527,331,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,I,C,IC,7,1,0
+3528,331,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,I,I,II,8,0,1
+3529,332,Metodología de la investigación I UCC 1°,Resolución Individual Pre,19,F,45,V,C,VC,1,1,1
+3530,332,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,V,I,VI,2,1,1
+3531,332,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,I,C,IC,3,0,1
+3532,332,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,I,I,II,4,0,1
+3533,332,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,V,C,VC,5,1,1
+3534,332,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,V,I,VI,6,1,1
+3535,332,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,I,C,IC,7,1,0
+3536,332,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,45,I,I,II,8,0,1
+3537,332,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,V,C,VC,1,1,1
+3538,332,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,V,I,VI,2,1,1
+3539,332,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,I,C,IC,3,0,1
+3540,332,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,I,I,II,4,0,1
+3541,332,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,V,C,VC,5,1,1
+3542,332,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,V,I,VI,6,1,1
+3543,332,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,I,C,IC,7,1,0
+3544,332,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,45,I,I,II,8,0,1
+3545,332,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,45,V,C,VC,1,1,1
+3546,332,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,45,V,I,VI,2,1,1
+3547,332,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,45,I,C,IC,3,0,1
+3548,332,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,45,I,I,II,4,0,1
+3549,332,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,45,V,C,VC,5,1,1
+3550,332,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,45,V,I,VI,6,1,1
+3551,332,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,45,I,C,IC,7,1,0
+3552,332,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,45,I,I,II,8,0,1
+3553,333,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,46,V,C,VC,1,1,1
+3554,333,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,V,I,VI,2,1,1
+3555,333,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,I,C,IC,3,1,0
+3556,333,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,I,I,II,4,1,0
+3557,333,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,V,C,VC,5,1,1
+3558,333,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,V,I,VI,6,0,0
+3559,333,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,I,C,IC,7,1,0
+3560,333,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,I,I,II,8,0,1
+3561,333,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,V,C,VC,1,1,1
+3562,333,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,V,I,VI,2,1,1
+3563,333,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,I,C,IC,3,0,1
+3564,333,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,I,I,II,4,0,1
+3565,333,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,V,C,VC,5,1,1
+3566,333,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,V,I,VI,6,1,1
+3567,333,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,I,C,IC,7,1,0
+3568,333,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,I,I,II,8,0,1
+3569,334,Metodología de la investigación I UCC 1°,Resolución Individual Pre,19,M,46,V,C,VC,1,1,1
+3570,334,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,V,I,VI,2,1,1
+3571,334,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,I,C,IC,3,0,1
+3572,334,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,I,I,II,4,0,1
+3573,334,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,V,C,VC,5,1,1
+3574,334,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,V,I,VI,6,1,1
+3575,334,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,I,C,IC,7,1,0
+3576,334,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,I,I,II,8,0,1
+3577,334,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,V,C,VC,1,1,1
+3578,334,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,V,I,VI,2,1,1
+3579,334,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,I,C,IC,3,0,1
+3580,334,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,I,I,II,4,0,1
+3581,334,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,V,C,VC,5,1,1
+3582,334,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,V,I,VI,6,1,1
+3583,334,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,I,C,IC,7,1,0
+3584,334,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,I,I,II,8,0,1
+3585,335,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,46,V,C,VC,1,0,0
+3586,335,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,V,I,VI,2,0,0
+3587,335,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,I,C,IC,3,1,0
+3588,335,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,I,I,II,4,0,1
+3589,335,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,V,C,VC,5,1,1
+3590,335,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,V,I,VI,6,1,1
+3591,335,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,I,C,IC,7,1,0
+3592,335,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,I,I,II,8,0,1
+3593,335,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,V,C,VC,1,1,1
+3594,335,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,V,I,VI,2,0,0
+3595,335,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,I,C,IC,3,0,1
+3596,335,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,I,I,II,4,0,1
+3597,335,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,V,C,VC,5,1,1
+3598,335,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,V,I,VI,6,1,1
+3599,335,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,I,C,IC,7,1,0
+3600,335,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,I,I,II,8,0,1
+3601,336,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,46,V,C,VC,1,1,1
+3602,336,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,V,I,VI,2,1,1
+3603,336,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,I,C,IC,3,0,1
+3604,336,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,I,I,II,4,0,1
+3605,336,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,V,C,VC,5,1,1
+3606,336,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,V,I,VI,6,1,1
+3607,336,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,I,C,IC,7,1,0
+3608,336,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,I,I,II,8,0,1
+3609,336,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,V,C,VC,1,1,1
+3610,336,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,V,I,VI,2,1,1
+3611,336,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,I,C,IC,3,0,1
+3612,336,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,I,I,II,4,1,0
+3613,336,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,V,C,VC,5,1,1
+3614,336,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,V,I,VI,6,1,1
+3615,336,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,I,C,IC,7,1,0
+3616,336,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,I,I,II,8,0,1
+3617,337,Metodología de la investigación I UCC 1°,Resolución Individual Pre,20,F,46,V,C,VC,1,1,1
+3618,337,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,V,I,VI,2,1,1
+3619,337,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,I,C,IC,3,0,1
+3620,337,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,I,I,II,4,0,1
+3621,337,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,V,C,VC,5,1,1
+3622,337,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,V,I,VI,6,1,1
+3623,337,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,I,C,IC,7,0,1
+3624,337,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,46,I,I,II,8,0,1
+3625,337,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,V,C,VC,1,1,1
+3626,337,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,V,I,VI,2,1,1
+3627,337,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,I,C,IC,3,0,1
+3628,337,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,I,I,II,4,0,1
+3629,337,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,V,C,VC,5,1,1
+3630,337,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,V,I,VI,6,1,1
+3631,337,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,I,C,IC,7,1,0
+3632,337,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,46,I,I,II,8,0,1
+3633,337,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,46,V,C,VC,1,1,1
+3634,337,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,46,V,I,VI,2,1,1
+3635,337,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,46,I,C,IC,3,0,1
+3636,337,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,46,I,I,II,4,0,1
+3637,337,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,46,V,C,VC,5,1,1
+3638,337,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,46,V,I,VI,6,1,1
+3639,337,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,46,I,C,IC,7,1,0
+3640,337,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,46,I,I,II,8,0,1
+3641,338,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,47,V,C,VC,1,1,1
+3642,338,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,V,I,VI,2,0,0
+3643,338,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,I,C,IC,3,1,0
+3644,338,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,I,I,II,4,0,1
+3645,338,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,V,C,VC,5,1,1
+3646,338,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,V,I,VI,6,0,0
+3647,338,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,I,C,IC,7,0,1
+3648,338,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,I,I,II,8,0,1
+3649,338,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,V,C,VC,1,1,1
+3650,338,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,V,I,VI,2,1,1
+3651,338,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,I,C,IC,3,1,0
+3652,338,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,I,I,II,4,0,1
+3653,338,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,V,C,VC,5,1,1
+3654,338,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,V,I,VI,6,1,1
+3655,338,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,I,C,IC,7,1,0
+3656,338,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,I,I,II,8,0,1
+3657,339,Metodología de la investigación I UCC 1°,Resolución Individual Pre,19,F,47,V,C,VC,1,0,0
+3658,339,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,V,I,VI,2,0,0
+3659,339,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,I,C,IC,3,1,0
+3660,339,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,I,I,II,4,0,1
+3661,339,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,V,C,VC,5,1,1
+3662,339,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,V,I,VI,6,1,1
+3663,339,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,I,C,IC,7,1,0
+3664,339,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,I,I,II,8,0,1
+3665,339,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,V,C,VC,1,1,1
+3666,339,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,V,I,VI,2,1,1
+3667,339,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,I,C,IC,3,1,0
+3668,339,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,I,I,II,4,0,1
+3669,339,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,V,C,VC,5,1,1
+3670,339,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,V,I,VI,6,1,1
+3671,339,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,I,C,IC,7,1,0
+3672,339,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,I,I,II,8,0,1
+3673,340,Metodología de la investigación I UCC 1°,Resolución Individual Pre,19,F,47,V,C,VC,1,1,1
+3674,340,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,V,I,VI,2,1,1
+3675,340,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,I,C,IC,3,1,0
+3676,340,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,I,I,II,4,0,1
+3677,340,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,V,C,VC,5,1,1
+3678,340,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,V,I,VI,6,1,1
+3679,340,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,I,C,IC,7,1,0
+3680,340,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,I,I,II,8,0,1
+3681,340,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,V,C,VC,1,1,1
+3682,340,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,V,I,VI,2,1,1
+3683,340,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,I,C,IC,3,1,0
+3684,340,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,I,I,II,4,0,1
+3685,340,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,V,C,VC,5,1,1
+3686,340,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,V,I,VI,6,1,1
+3687,340,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,I,C,IC,7,1,0
+3688,340,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,I,I,II,8,0,1
+3689,341,Metodología de la investigación I UCC 1°,Resolución Individual Pre,19,F,47,V,C,VC,1,1,1
+3690,341,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,V,I,VI,2,1,1
+3691,341,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,I,C,IC,3,1,0
+3692,341,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,I,I,II,4,0,1
+3693,341,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,V,C,VC,5,1,1
+3694,341,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,V,I,VI,6,1,1
+3695,341,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,I,C,IC,7,0,1
+3696,341,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,I,I,II,8,0,1
+3697,341,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,V,C,VC,1,1,1
+3698,341,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,V,I,VI,2,1,1
+3699,341,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,I,C,IC,3,0,1
+3700,341,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,I,I,II,4,0,1
+3701,341,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,V,C,VC,5,1,1
+3702,341,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,V,I,VI,6,1,1
+3703,341,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,I,C,IC,7,1,0
+3704,341,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,I,I,II,8,0,1
+3705,342,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,47,V,C,VC,1,0,0
+3706,342,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,V,I,VI,2,1,1
+3707,342,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,I,C,IC,3,1,0
+3708,342,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,I,I,II,4,0,1
+3709,342,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,V,C,VC,5,1,1
+3710,342,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,V,I,VI,6,1,1
+3711,342,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,I,C,IC,7,0,1
+3712,342,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,47,I,I,II,8,0,1
+3713,342,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,V,C,VC,1,1,1
+3714,342,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,V,I,VI,2,1,1
+3715,342,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,I,C,IC,3,1,0
+3716,342,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,I,I,II,4,0,1
+3717,342,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,V,C,VC,5,1,1
+3718,342,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,V,I,VI,6,1,1
+3719,342,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,I,C,IC,7,1,0
+3720,342,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,47,I,I,II,8,0,1
+3721,342,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,47,V,C,VC,1,1,1
+3722,342,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,47,V,I,VI,2,1,1
+3723,342,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,47,I,C,IC,3,1,0
+3724,342,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,47,I,I,II,4,0,1
+3725,342,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,47,V,C,VC,5,1,1
+3726,342,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,47,V,I,VI,6,1,1
+3727,342,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,47,I,C,IC,7,1,0
+3728,342,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,47,I,I,II,8,0,1
+3729,343,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,M,48,V,C,VC,1,1,1
+3730,343,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,V,I,VI,2,1,1
+3731,343,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,I,C,IC,3,1,0
+3732,343,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,I,I,II,4,0,1
+3733,343,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,V,C,VC,5,1,1
+3734,343,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,V,I,VI,6,1,1
+3735,343,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,I,C,IC,7,1,0
+3736,343,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,I,I,II,8,1,0
+3737,343,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,V,C,VC,1,1,1
+3738,343,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,V,I,VI,2,1,1
+3739,343,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,I,C,IC,3,1,0
+3740,343,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,I,I,II,4,1,0
+3741,343,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,V,C,VC,5,1,1
+3742,343,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,V,I,VI,6,1,1
+3743,343,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,I,C,IC,7,1,0
+3744,343,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,I,I,II,8,1,0
+3745,344,Metodología de la investigación I UCC 1°,Resolución Individual Pre,21,M,48,V,C,VC,1,1,1
+3746,344,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,V,I,VI,2,0,0
+3747,344,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,I,C,IC,3,0,1
+3748,344,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,I,I,II,4,0,1
+3749,344,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,V,C,VC,5,1,1
+3750,344,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,V,I,VI,6,0,0
+3751,344,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,I,C,IC,7,0,1
+3752,344,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,I,I,II,8,0,1
+3753,344,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,V,C,VC,1,1,1
+3754,344,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,V,I,VI,2,1,1
+3755,344,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,I,C,IC,3,1,0
+3756,344,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,I,I,II,4,1,0
+3757,344,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,V,C,VC,5,1,1
+3758,344,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,V,I,VI,6,1,1
+3759,344,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,I,C,IC,7,1,0
+3760,344,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,I,I,II,8,1,0
+3761,345,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,48,V,C,VC,1,1,1
+3762,345,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,V,I,VI,2,1,1
+3763,345,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,I,C,IC,3,0,1
+3764,345,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,I,I,II,4,1,0
+3765,345,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,V,C,VC,5,1,1
+3766,345,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,V,I,VI,6,1,1
+3767,345,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,I,C,IC,7,0,1
+3768,345,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,I,I,II,8,0,1
+3769,345,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,V,C,VC,1,1,1
+3770,345,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,V,I,VI,2,1,1
+3771,345,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,I,C,IC,3,1,0
+3772,345,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,I,I,II,4,1,0
+3773,345,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,V,C,VC,5,1,1
+3774,345,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,V,I,VI,6,1,1
+3775,345,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,I,C,IC,7,1,0
+3776,345,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,I,I,II,8,1,0
+3777,346,Metodología de la investigación I UCC 1°,Resolución Individual Pre,19,M,48,V,C,VC,1,1,1
+3778,346,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,V,I,VI,2,0,0
+3779,346,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,I,C,IC,3,0,1
+3780,346,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,I,I,II,4,1,0
+3781,346,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,V,C,VC,5,1,1
+3782,346,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,V,I,VI,6,1,1
+3783,346,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,I,C,IC,7,0,1
+3784,346,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,48,I,I,II,8,0,1
+3785,346,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,V,C,VC,1,1,1
+3786,346,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,V,I,VI,2,1,1
+3787,346,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,I,C,IC,3,1,0
+3788,346,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,I,I,II,4,1,0
+3789,346,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,V,C,VC,5,1,1
+3790,346,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,V,I,VI,6,1,1
+3791,346,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,I,C,IC,7,1,0
+3792,346,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,48,I,I,II,8,1,0
+3793,346,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,48,V,C,VC,1,1,1
+3794,346,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,48,V,I,VI,2,1,1
+3795,346,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,48,I,C,IC,3,1,0
+3796,346,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,48,I,I,II,4,1,0
+3797,346,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,48,V,C,VC,5,1,1
+3798,346,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,48,V,I,VI,6,1,1
+3799,346,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,48,I,C,IC,7,1,0
+3800,346,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,48,I,I,II,8,1,0
+3801,347,Metodología de la investigación I UCC 1°,Resolución Individual Pre,20,F,49,V,C,VC,1,1,1
+3802,347,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,V,I,VI,2,1,1
+3803,347,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,I,C,IC,3,1,0
+3804,347,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,I,I,II,4,0,1
+3805,347,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,V,C,VC,5,1,1
+3806,347,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,V,I,VI,6,0,0
+3807,347,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,I,C,IC,7,0,1
+3808,347,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,I,I,II,8,0,1
+3809,347,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,V,C,VC,1,1,1
+3810,347,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,V,I,VI,2,1,1
+3811,347,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,I,C,IC,3,0,1
+3812,347,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,I,I,II,4,0,1
+3813,347,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,V,C,VC,5,1,1
+3814,347,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,V,I,VI,6,1,1
+3815,347,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,I,C,IC,7,1,0
+3816,347,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,I,I,II,8,0,1
+3817,348,Metodología de la investigación I UCC 1°,Resolución Individual Pre,19,F,49,V,C,VC,1,1,1
+3818,348,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,V,I,VI,2,1,1
+3819,348,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,I,C,IC,3,1,0
+3820,348,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,I,I,II,4,0,1
+3821,348,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,V,C,VC,5,1,1
+3822,348,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,V,I,VI,6,1,1
+3823,348,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,I,C,IC,7,0,1
+3824,348,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,I,I,II,8,0,1
+3825,348,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,V,C,VC,1,1,1
+3826,348,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,V,I,VI,2,1,1
+3827,348,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,I,C,IC,3,0,1
+3828,348,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,I,I,II,4,0,1
+3829,348,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,V,C,VC,5,1,1
+3830,348,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,V,I,VI,6,1,1
+3831,348,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,I,C,IC,7,1,0
+3832,348,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,I,I,II,8,0,1
+3833,349,Metodología de la investigación I UCC 1°,Resolución Individual Pre,18,F,49,V,C,VC,1,0,0
+3834,349,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,V,I,VI,2,0,0
+3835,349,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,I,C,IC,3,0,1
+3836,349,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,I,I,II,4,0,1
+3837,349,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,V,C,VC,5,1,1
+3838,349,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,V,I,VI,6,0,0
+3839,349,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,I,C,IC,7,1,0
+3840,349,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,I,I,II,8,0,1
+3841,349,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,V,C,VC,1,1,1
+3842,349,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,V,I,VI,2,1,1
+3843,349,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,I,C,IC,3,0,1
+3844,349,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,I,I,II,4,0,1
+3845,349,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,V,C,VC,5,1,1
+3846,349,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,V,I,VI,6,1,1
+3847,349,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,I,C,IC,7,1,0
+3848,349,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,I,I,II,8,0,1
+3849,350,Metodología de la investigación I UCC 1°,Resolución Individual Pre,19,F,49,V,C,VC,1,1,1
+3850,350,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,V,I,VI,2,0,0
+3851,350,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,I,C,IC,3,0,1
+3852,350,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,I,I,II,4,0,1
+3853,350,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,V,C,VC,5,1,1
+3854,350,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,V,I,VI,6,1,1
+3855,350,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,I,C,IC,7,1,0
+3856,350,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,49,I,I,II,8,0,1
+3857,350,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,V,C,VC,1,1,1
+3858,350,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,V,I,VI,2,1,1
+3859,350,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,I,C,IC,3,0,1
+3860,350,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,I,I,II,4,0,1
+3861,350,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,V,C,VC,5,1,1
+3862,350,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,V,I,VI,6,1,1
+3863,350,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,I,C,IC,7,1,0
+3864,350,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,49,I,I,II,8,0,1
+3865,350,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,49,V,C,VC,1,1,1
+3866,350,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,49,V,I,VI,2,1,1
+3867,350,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,49,I,C,IC,3,0,1
+3868,350,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,49,I,I,II,4,0,1
+3869,350,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,49,V,C,VC,5,1,1
+3870,350,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,49,V,I,VI,6,1,1
+3871,350,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,49,I,C,IC,7,1,0
+3872,350,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,49,I,I,II,8,0,1
+3873,351,Metodología de la investigación I UCC 1°,Resolución Individual Pre,20,F,50,V,C,VC,1,1,1
+3874,351,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,V,I,VI,2,1,1
+3875,351,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,I,C,IC,3,1,0
+3876,351,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,I,I,II,4,0,1
+3877,351,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,V,C,VC,5,1,1
+3878,351,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,V,I,VI,6,1,1
+3879,351,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,I,C,IC,7,1,0
+3880,351,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,I,I,II,8,0,1
+3881,351,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,V,C,VC,1,1,1
+3882,351,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,V,I,VI,2,1,1
+3883,351,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,I,C,IC,3,1,0
+3884,351,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,I,I,II,4,0,1
+3885,351,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,V,C,VC,5,1,1
+3886,351,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,V,I,VI,6,1,1
+3887,351,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,I,C,IC,7,1,0
+3888,351,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,I,I,II,8,0,1
+3889,352,Metodología de la investigación I UCC 1°,Resolución Individual Pre,21,F,50,V,C,VC,1,1,1
+3890,352,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,V,I,VI,2,1,1
+3891,352,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,I,C,IC,3,0,1
+3892,352,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,I,I,II,4,0,1
+3893,352,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,V,C,VC,5,1,1
+3894,352,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,V,I,VI,6,1,1
+3895,352,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,I,C,IC,7,1,0
+3896,352,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,I,I,II,8,0,1
+3897,352,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,V,C,VC,1,1,1
+3898,352,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,V,I,VI,2,1,1
+3899,352,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,I,C,IC,3,1,0
+3900,352,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,I,I,II,4,0,1
+3901,352,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,V,C,VC,5,1,1
+3902,352,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,V,I,VI,6,1,1
+3903,352,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,I,C,IC,7,1,0
+3904,352,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,I,I,II,8,0,1
+3905,353,Metodología de la investigación I UCC 1°,Resolución Individual Pre,19,F,50,V,C,VC,1,1,1
+3906,353,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,V,I,VI,2,1,1
+3907,353,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,I,C,IC,3,1,0
+3908,353,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,I,I,II,4,0,1
+3909,353,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,V,C,VC,5,1,1
+3910,353,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,V,I,VI,6,1,1
+3911,353,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,I,C,IC,7,0,1
+3912,353,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,I,I,II,8,0,1
+3913,353,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,V,C,VC,1,1,1
+3914,353,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,V,I,VI,2,1,1
+3915,353,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,I,C,IC,3,1,0
+3916,353,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,I,I,II,4,0,1
+3917,353,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,V,C,VC,5,1,1
+3918,353,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,V,I,VI,6,1,1
+3919,353,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,I,C,IC,7,1,0
+3920,353,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,I,I,II,8,0,1
+3921,354,Metodología de la investigación I UCC 1°,Resolución Individual Pre,21,F,50,V,C,VC,1,1,1
+3922,354,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,V,I,VI,2,1,1
+3923,354,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,I,C,IC,3,0,1
+3924,354,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,I,I,II,4,0,1
+3925,354,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,V,C,VC,5,1,1
+3926,354,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,V,I,VI,6,1,1
+3927,354,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,I,C,IC,7,1,0
+3928,354,Metodología de la investigación I UCC 1°,Resolución Individual Pre, , ,50,I,I,II,8,1,0
+3929,354,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,V,C,VC,1,1,1
+3930,354,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,V,I,VI,2,1,1
+3931,354,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,I,C,IC,3,1,0
+3932,354,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,I,I,II,4,0,1
+3933,354,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,V,C,VC,5,1,1
+3934,354,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,V,I,VI,6,1,1
+3935,354,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,I,C,IC,7,1,0
+3936,354,Metodología de la investigación I UCC 1°,Resolución Individual Post, , ,50,I,I,II,8,0,1
+3937,354,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,50,V,C,VC,1,1,1
+3938,354,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,50,V,I,VI,2,1,1
+3939,354,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,50,I,C,IC,3,1,0
+3940,354,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,50,I,I,II,4,0,1
+3941,354,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,50,V,C,VC,5,1,1
+3942,354,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,50,V,I,VI,6,1,1
+3943,354,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,50,I,C,IC,7,1,0
+3944,354,Metodología de la investigación I UCC 1°,Resolución Grupal, , ,50,I,I,II,8,0,1

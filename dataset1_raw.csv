@@ -1,0 +1,1913 @@
+num,Participante,Lugar_admin,Modalidad,Edad,Género,Grupo,Validez,Creencia,ValidezxCreencia,Silogismo,Aceptación,Correctas
+1,1,Biología UNC 1°,Resolución Individual,18,M, ,V,C,VC,1,1,1
+2,1,Biología UNC 1°,Resolución Individual,18,M, ,V,I,VI,2,1,1
+3,1,Biología UNC 1°,Resolución Individual,18,M, ,I,C,IC,3,0,1
+4,1,Biología UNC 1°,Resolución Individual,18,M, ,I,I,II,4,0,1
+5,1,Biología UNC 1°,Resolución Individual,18,M, ,V,C,VC,5,1,1
+6,1,Biología UNC 1°,Resolución Individual,18,M, ,V,I,VI,6,1,1
+7,1,Biología UNC 1°,Resolución Individual,18,M, ,I,C,IC,7,1,0
+8,1,Biología UNC 1°,Resolución Individual,18,M, ,I,I,II,8,0,1
+9,2,Biología UNC 1°,Resolución Individual,23,F, ,V,C,VC,1,1,1
+10,2,Biología UNC 1°,Resolución Individual,23,F, ,V,I,VI,2,1,1
+11,2,Biología UNC 1°,Resolución Individual,23,F, ,I,C,IC,3,0,1
+12,2,Biología UNC 1°,Resolución Individual,23,F, ,I,I,II,4,0,1
+13,2,Biología UNC 1°,Resolución Individual,23,F, ,V,C,VC,5,1,1
+14,2,Biología UNC 1°,Resolución Individual,23,F, ,V,I,VI,6,1,1
+15,2,Biología UNC 1°,Resolución Individual,23,F, ,I,C,IC,7,1,0
+16,2,Biología UNC 1°,Resolución Individual,23,F, ,I,I,II,8,1,0
+17,3,Biología UNC 1°,Resolución Individual,20,F, ,V,C,VC,1,1,1
+18,3,Biología UNC 1°,Resolución Individual,20,F, ,V,I,VI,2,0,0
+19,3,Biología UNC 1°,Resolución Individual,20,F, ,I,C,IC,3,0,1
+20,3,Biología UNC 1°,Resolución Individual,20,F, ,I,I,II,4,0,1
+21,3,Biología UNC 1°,Resolución Individual,20,F, ,V,C,VC,5,0,0
+22,3,Biología UNC 1°,Resolución Individual,20,F, ,V,I,VI,6,0,0
+23,3,Biología UNC 1°,Resolución Individual,20,F, ,I,C,IC,7,1,0
+24,3,Biología UNC 1°,Resolución Individual,20,F, ,I,I,II,8,0,1
+25,4,Biología UNC 1°,Resolución Individual,25,F, ,V,C,VC,1,1,1
+26,4,Biología UNC 1°,Resolución Individual,25,F, ,V,I,VI,2,1,1
+27,4,Biología UNC 1°,Resolución Individual,25,F, ,I,C,IC,3,0,1
+28,4,Biología UNC 1°,Resolución Individual,25,F, ,I,I,II,4,0,1
+29,4,Biología UNC 1°,Resolución Individual,25,F, ,V,C,VC,5,1,1
+30,4,Biología UNC 1°,Resolución Individual,25,F, ,V,I,VI,6,1,1
+31,4,Biología UNC 1°,Resolución Individual,25,F, ,I,C,IC,7,1,0
+32,4,Biología UNC 1°,Resolución Individual,25,F, ,I,I,II,8,0,1
+33,5,Biología UNC 1°,Resolución Individual,20,F, ,V,C,VC,1,1,1
+34,5,Biología UNC 1°,Resolución Individual,20,F, ,V,I,VI,2,0,0
+35,5,Biología UNC 1°,Resolución Individual,20,F, ,I,C,IC,3,0,1
+36,5,Biología UNC 1°,Resolución Individual,20,F, ,I,I,II,4,0,1
+37,5,Biología UNC 1°,Resolución Individual,20,F, ,V,C,VC,5,1,1
+38,5,Biología UNC 1°,Resolución Individual,20,F, ,V,I,VI,6,1,1
+39,5,Biología UNC 1°,Resolución Individual,20,F, ,I,C,IC,7,1,0
+40,5,Biología UNC 1°,Resolución Individual,20,F, ,I,I,II,8,0,1
+41,6,Biología UNC 1°,Resolución Individual, , , ,V,C,VC,1,1,1
+42,6,Biología UNC 1°,Resolución Individual, , , ,V,I,VI,2,1,1
+43,6,Biología UNC 1°,Resolución Individual, , , ,I,C,IC,3,1,0
+44,6,Biología UNC 1°,Resolución Individual, , , ,I,I,II,4,0,1
+45,6,Biología UNC 1°,Resolución Individual, , , ,V,C,VC,5,1,1
+46,6,Biología UNC 1°,Resolución Individual, , , ,V,I,VI,6,1,1
+47,6,Biología UNC 1°,Resolución Individual, , , ,I,C,IC,7,0,1
+48,6,Biología UNC 1°,Resolución Individual, , , ,I,I,II,8,0,1
+49,7,Biología UNC 1°,Resolución Individual,24,F, ,V,C,VC,1,1,1
+50,7,Biología UNC 1°,Resolución Individual,24,F, ,V,I,VI,2,0,0
+51,7,Biología UNC 1°,Resolución Individual,24,F, ,I,C,IC,3,0,1
+52,7,Biología UNC 1°,Resolución Individual,24,F, ,I,I,II,4,0,1
+53,7,Biología UNC 1°,Resolución Individual,24,F, ,V,C,VC,5,1,1
+54,7,Biología UNC 1°,Resolución Individual,24,F, ,V,I,VI,6,0,0
+55,7,Biología UNC 1°,Resolución Individual,24,F, ,I,C,IC,7,0,1
+56,7,Biología UNC 1°,Resolución Individual,24,F, ,I,I,II,8,1,0
+57,8,Biología UNC 1°,Resolución Individual,27,F, ,V,C,VC,1,1,1
+58,8,Biología UNC 1°,Resolución Individual,27,F, ,V,I,VI,2,0,0
+59,8,Biología UNC 1°,Resolución Individual,27,F, ,I,C,IC,3,1,0
+60,8,Biología UNC 1°,Resolución Individual,27,F, ,I,I,II,4,0,1
+61,8,Biología UNC 1°,Resolución Individual,27,F, ,V,C,VC,5,1,1
+62,8,Biología UNC 1°,Resolución Individual,27,F, ,V,I,VI,6,0,0
+63,8,Biología UNC 1°,Resolución Individual,27,F, ,I,C,IC,7,0,1
+64,8,Biología UNC 1°,Resolución Individual,27,F, ,I,I,II,8,0,1
+65,9,Biología UNC 1°,Resolución Individual,19,F, ,V,C,VC,1,1,1
+66,9,Biología UNC 1°,Resolución Individual,19,F, ,V,I,VI,2,1,1
+67,9,Biología UNC 1°,Resolución Individual,19,F, ,I,C,IC,3,0,1
+68,9,Biología UNC 1°,Resolución Individual,19,F, ,I,I,II,4,1,0
+69,9,Biología UNC 1°,Resolución Individual,19,F, ,V,C,VC,5,1,1
+70,9,Biología UNC 1°,Resolución Individual,19,F, ,V,I,VI,6,0,0
+71,9,Biología UNC 1°,Resolución Individual,19,F, ,I,C,IC,7,1,0
+72,9,Biología UNC 1°,Resolución Individual,19,F, ,I,I,II,8,1,0
+73,10,Biología UNC 1°,Resolución Individual,32,F, ,V,C,VC,1,1,1
+74,10,Biología UNC 1°,Resolución Individual,32,F, ,V,I,VI,2,1,1
+75,10,Biología UNC 1°,Resolución Individual,32,F, ,I,C,IC,3,1,0
+76,10,Biología UNC 1°,Resolución Individual,32,F, ,I,I,II,4,0,1
+77,10,Biología UNC 1°,Resolución Individual,32,F, ,V,C,VC,5,1,1
+78,10,Biología UNC 1°,Resolución Individual,32,F, ,V,I,VI,6,1,1
+79,10,Biología UNC 1°,Resolución Individual,32,F, ,I,C,IC,7,0,1
+80,10,Biología UNC 1°,Resolución Individual,32,F, ,I,I,II,8,0,1
+81,11,Biología UNC 1°,Resolución Individual,23,M, ,V,C,VC,1,1,1
+82,11,Biología UNC 1°,Resolución Individual,23,M, ,V,I,VI,2,1,1
+83,11,Biología UNC 1°,Resolución Individual,23,M, ,I,C,IC,3,0,1
+84,11,Biología UNC 1°,Resolución Individual,23,M, ,I,I,II,4,0,1
+85,11,Biología UNC 1°,Resolución Individual,23,M, ,V,C,VC,5,1,1
+86,11,Biología UNC 1°,Resolución Individual,23,M, ,V,I,VI,6,1,1
+87,11,Biología UNC 1°,Resolución Individual,23,M, ,I,C,IC,7,0,1
+88,11,Biología UNC 1°,Resolución Individual,23,M, ,I,I,II,8,0,1
+89,12,Biología UNC 1°,Resolución Individual,22,M, ,V,C,VC,1,1,1
+90,12,Biología UNC 1°,Resolución Individual,22,M, ,V,I,VI,2,1,1
+91,12,Biología UNC 1°,Resolución Individual,22,M, ,I,C,IC,3,0,1
+92,12,Biología UNC 1°,Resolución Individual,22,M, ,I,I,II,4,0,1
+93,12,Biología UNC 1°,Resolución Individual,22,M, ,V,C,VC,5,1,1
+94,12,Biología UNC 1°,Resolución Individual,22,M, ,V,I,VI,6,1,1
+95,12,Biología UNC 1°,Resolución Individual,22,M, ,I,C,IC,7,0,1
+96,12,Biología UNC 1°,Resolución Individual,22,M, ,I,I,II,8,0,1
+97,13,Biología UNC 1°,Resolución Individual,19,O, ,V,C,VC,1,1,1
+98,13,Biología UNC 1°,Resolución Individual,19,O, ,V,I,VI,2,1,1
+99,13,Biología UNC 1°,Resolución Individual,19,O, ,I,C,IC,3,0,1
+100,13,Biología UNC 1°,Resolución Individual,19,O, ,I,I,II,4,0,1
+101,13,Biología UNC 1°,Resolución Individual,19,O, ,V,C,VC,5,1,1
+102,13,Biología UNC 1°,Resolución Individual,19,O, ,V,I,VI,6,1,1
+103,13,Biología UNC 1°,Resolución Individual,19,O, ,I,C,IC,7,1,0
+104,13,Biología UNC 1°,Resolución Individual,19,O, ,I,I,II,8,1,0
+105,14,Biología UNC 1°,Resolución Individual,36,F, ,V,C,VC,1,0,0
+106,14,Biología UNC 1°,Resolución Individual,36,F, ,V,I,VI,2,0,0
+107,14,Biología UNC 1°,Resolución Individual,36,F, ,I,C,IC,3,0,1
+108,14,Biología UNC 1°,Resolución Individual,36,F, ,I,I,II,4,0,1
+109,14,Biología UNC 1°,Resolución Individual,36,F, ,V,C,VC,5,1,1
+110,14,Biología UNC 1°,Resolución Individual,36,F, ,V,I,VI,6,1,1
+111,14,Biología UNC 1°,Resolución Individual,36,F, ,I,C,IC,7,0,1
+112,14,Biología UNC 1°,Resolución Individual,36,F, ,I,I,II,8,0,1
+113,15,Biología UNC 1°,Resolución Individual,19,F, ,V,C,VC,1,1,1
+114,15,Biología UNC 1°,Resolución Individual,19,F, ,V,I,VI,2,1,1
+115,15,Biología UNC 1°,Resolución Individual,19,F, ,I,C,IC,3,0,1
+116,15,Biología UNC 1°,Resolución Individual,19,F, ,I,I,II,4,0,1
+117,15,Biología UNC 1°,Resolución Individual,19,F, ,V,C,VC,5,1,1
+118,15,Biología UNC 1°,Resolución Individual,19,F, ,V,I,VI,6,1,1
+119,15,Biología UNC 1°,Resolución Individual,19,F, ,I,C,IC,7,0,1
+120,15,Biología UNC 1°,Resolución Individual,19,F, ,I,I,II,8,0,1
+121,16,Biología UNC 1°,Resolución Individual,47,F, ,V,C,VC,1,1,1
+122,16,Biología UNC 1°,Resolución Individual,47,F, ,V,I,VI,2,0,0
+123,16,Biología UNC 1°,Resolución Individual,47,F, ,I,C,IC,3,1,0
+124,16,Biología UNC 1°,Resolución Individual,47,F, ,I,I,II,4,0,1
+125,16,Biología UNC 1°,Resolución Individual,47,F, ,V,C,VC,5,1,1
+126,16,Biología UNC 1°,Resolución Individual,47,F, ,V,I,VI,6,1,1
+127,16,Biología UNC 1°,Resolución Individual,47,F, ,I,C,IC,7,0,1
+128,16,Biología UNC 1°,Resolución Individual,47,F, ,I,I,II,8,1,0
+129,17,Biología UNC 1°,Resolución Individual,57,F, ,V,C,VC,1,1,1
+130,17,Biología UNC 1°,Resolución Individual,57,F, ,V,I,VI,2,0,0
+131,17,Biología UNC 1°,Resolución Individual,57,F, ,I,C,IC,3,0,1
+132,17,Biología UNC 1°,Resolución Individual,57,F, ,I,I,II,4,0,1
+133,17,Biología UNC 1°,Resolución Individual,57,F, ,V,C,VC,5,1,1
+134,17,Biología UNC 1°,Resolución Individual,57,F, ,V,I,VI,6,0,0
+135,17,Biología UNC 1°,Resolución Individual,57,F, ,I,C,IC,7,0,1
+136,17,Biología UNC 1°,Resolución Individual,57,F, ,I,I,II,8,0,1
+137,18,Biología UNC 1°,Resolución Individual,18,F, ,V,C,VC,1,1,1
+138,18,Biología UNC 1°,Resolución Individual,18,F, ,V,I,VI,2,1,1
+139,18,Biología UNC 1°,Resolución Individual,18,F, ,I,C,IC,3,1,0
+140,18,Biología UNC 1°,Resolución Individual,18,F, ,I,I,II,4,0,1
+141,18,Biología UNC 1°,Resolución Individual,18,F, ,V,C,VC,5,1,1
+142,18,Biología UNC 1°,Resolución Individual,18,F, ,V,I,VI,6,0,0
+143,18,Biología UNC 1°,Resolución Individual,18,F, ,I,C,IC,7,0,1
+144,18,Biología UNC 1°,Resolución Individual,18,F, ,I,I,II,8,0,1
+145,19,Biología UNC 1°,Resolución Individual,18,M, ,V,C,VC,1,0,0
+146,19,Biología UNC 1°,Resolución Individual,18,M, ,V,I,VI,2,1,1
+147,19,Biología UNC 1°,Resolución Individual,18,M, ,I,C,IC,3,1,0
+148,19,Biología UNC 1°,Resolución Individual,18,M, ,I,I,II,4,0,1
+149,19,Biología UNC 1°,Resolución Individual,18,M, ,V,C,VC,5,1,1
+150,19,Biología UNC 1°,Resolución Individual,18,M, ,V,I,VI,6,1,1
+151,19,Biología UNC 1°,Resolución Individual,18,M, ,I,C,IC,7,1,0
+152,19,Biología UNC 1°,Resolución Individual,18,M, ,I,I,II,8,0,1
+153,20,Biología UNC 1°,Resolución Individual,19,F, ,V,C,VC,1,1,1
+154,20,Biología UNC 1°,Resolución Individual,19,F, ,V,I,VI,2,1,1
+155,20,Biología UNC 1°,Resolución Individual,19,F, ,I,C,IC,3,0,1
+156,20,Biología UNC 1°,Resolución Individual,19,F, ,I,I,II,4,0,1
+157,20,Biología UNC 1°,Resolución Individual,19,F, ,V,C,VC,5,1,1
+158,20,Biología UNC 1°,Resolución Individual,19,F, ,V,I,VI,6,1,1
+159,20,Biología UNC 1°,Resolución Individual,19,F, ,I,C,IC,7,0,1
+160,20,Biología UNC 1°,Resolución Individual,19,F, ,I,I,II,8,0,1
+161,21,Biología UNC 1°,Resolución Individual,26,F, ,V,C,VC,1,1,1
+162,21,Biología UNC 1°,Resolución Individual,26,F, ,V,I,VI,2,1,1
+163,21,Biología UNC 1°,Resolución Individual,26,F, ,I,C,IC,3,0,1
+164,21,Biología UNC 1°,Resolución Individual,26,F, ,I,I,II,4,0,1
+165,21,Biología UNC 1°,Resolución Individual,26,F, ,V,C,VC,5,1,1
+166,21,Biología UNC 1°,Resolución Individual,26,F, ,V,I,VI,6,1,1
+167,21,Biología UNC 1°,Resolución Individual,26,F, ,I,C,IC,7,1,0
+168,21,Biología UNC 1°,Resolución Individual,26,F, ,I,I,II,8,0,1
+169,22,Biología UNC 1°,Resolución Individual,19,F, ,V,C,VC,1,1,1
+170,22,Biología UNC 1°,Resolución Individual,19,F, ,V,I,VI,2,1,1
+171,22,Biología UNC 1°,Resolución Individual,19,F, ,I,C,IC,3,0,1
+172,22,Biología UNC 1°,Resolución Individual,19,F, ,I,I,II,4,0,1
+173,22,Biología UNC 1°,Resolución Individual,19,F, ,V,C,VC,5,1,1
+174,22,Biología UNC 1°,Resolución Individual,19,F, ,V,I,VI,6,1,1
+175,22,Biología UNC 1°,Resolución Individual,19,F, ,I,C,IC,7,1,0
+176,22,Biología UNC 1°,Resolución Individual,19,F, ,I,I,II,8,0,1
+177,23,Biología UNC 1°,Resolución Individual,19,F, ,V,C,VC,1,1,1
+178,23,Biología UNC 1°,Resolución Individual,19,F, ,V,I,VI,2,0,0
+179,23,Biología UNC 1°,Resolución Individual,19,F, ,I,C,IC,3,1,0
+180,23,Biología UNC 1°,Resolución Individual,19,F, ,I,I,II,4,0,1
+181,23,Biología UNC 1°,Resolución Individual,19,F, ,V,C,VC,5,1,1
+182,23,Biología UNC 1°,Resolución Individual,19,F, ,V,I,VI,6,1,1
+183,23,Biología UNC 1°,Resolución Individual,19,F, ,I,C,IC,7,0,1
+184,23,Biología UNC 1°,Resolución Individual,19,F, ,I,I,II,8,0,1
+185,24,Biología UNC 1°,Resolución Individual,20,F, ,V,C,VC,1,1,1
+186,24,Biología UNC 1°,Resolución Individual,20,F, ,V,I,VI,2,0,0
+187,24,Biología UNC 1°,Resolución Individual,20,F, ,I,C,IC,3,1,0
+188,24,Biología UNC 1°,Resolución Individual,20,F, ,I,I,II,4,0,1
+189,24,Biología UNC 1°,Resolución Individual,20,F, ,V,C,VC,5,1,1
+190,24,Biología UNC 1°,Resolución Individual,20,F, ,V,I,VI,6,0,0
+191,24,Biología UNC 1°,Resolución Individual,20,F, ,I,C,IC,7,1,0
+192,24,Biología UNC 1°,Resolución Individual,20,F, ,I,I,II,8,0,1
+193,25,Biología UNC 1°,Resolución Individual,20,F, ,V,C,VC,1,1,1
+194,25,Biología UNC 1°,Resolución Individual,20,F, ,V,I,VI,2,1,1
+195,25,Biología UNC 1°,Resolución Individual,20,F, ,I,C,IC,3,0,1
+196,25,Biología UNC 1°,Resolución Individual,20,F, ,I,I,II,4,0,1
+197,25,Biología UNC 1°,Resolución Individual,20,F, ,V,C,VC,5,0,0
+198,25,Biología UNC 1°,Resolución Individual,20,F, ,V,I,VI,6,0,0
+199,25,Biología UNC 1°,Resolución Individual,20,F, ,I,C,IC,7,1,0
+200,25,Biología UNC 1°,Resolución Individual,20,F, ,I,I,II,8,0,1
+201,26,Biología UNC 1°,Resolución Individual,19,F, ,V,C,VC,1,0,0
+202,26,Biología UNC 1°,Resolución Individual,19,F, ,V,I,VI,2,1,1
+203,26,Biología UNC 1°,Resolución Individual,19,F, ,I,C,IC,3,0,1
+204,26,Biología UNC 1°,Resolución Individual,19,F, ,I,I,II,4,0,1
+205,26,Biología UNC 1°,Resolución Individual,19,F, ,V,C,VC,5,1,1
+206,26,Biología UNC 1°,Resolución Individual,19,F, ,V,I,VI,6,1,1
+207,26,Biología UNC 1°,Resolución Individual,19,F, ,I,C,IC,7,1,0
+208,26,Biología UNC 1°,Resolución Individual,19,F, ,I,I,II,8,0,1
+209,27,Biología UNC 1°,Resolución Individual,18,F, ,V,C,VC,1,0,0
+210,27,Biología UNC 1°,Resolución Individual,18,F, ,V,I,VI,2,1,1
+211,27,Biología UNC 1°,Resolución Individual,18,F, ,I,C,IC,3,0,1
+212,27,Biología UNC 1°,Resolución Individual,18,F, ,I,I,II,4,0,1
+213,27,Biología UNC 1°,Resolución Individual,18,F, ,V,C,VC,5,1,1
+214,27,Biología UNC 1°,Resolución Individual,18,F, ,V,I,VI,6,1,1
+215,27,Biología UNC 1°,Resolución Individual,18,F, ,I,C,IC,7,0,1
+216,27,Biología UNC 1°,Resolución Individual,18,F, ,I,I,II,8,0,1
+217,28,Biología UNC 1°,Resolución Individual,26,F, ,V,C,VC,1,1,1
+218,28,Biología UNC 1°,Resolución Individual,26,F, ,V,I,VI,2,1,1
+219,28,Biología UNC 1°,Resolución Individual,26,F, ,I,C,IC,3,0,1
+220,28,Biología UNC 1°,Resolución Individual,26,F, ,I,I,II,4,0,1
+221,28,Biología UNC 1°,Resolución Individual,26,F, ,V,C,VC,5,1,1
+222,28,Biología UNC 1°,Resolución Individual,26,F, ,V,I,VI,6,1,1
+223,28,Biología UNC 1°,Resolución Individual,26,F, ,I,C,IC,7,1,0
+224,28,Biología UNC 1°,Resolución Individual,26,F, ,I,I,II,8,0,1
+225,29,Biología UNC 1°,Resolución Individual,19,M, ,V,C,VC,1,1,1
+226,29,Biología UNC 1°,Resolución Individual,19,M, ,V,I,VI,2,0,0
+227,29,Biología UNC 1°,Resolución Individual,19,M, ,I,C,IC,3,0,1
+228,29,Biología UNC 1°,Resolución Individual,19,M, ,I,I,II,4,1,0
+229,29,Biología UNC 1°,Resolución Individual,19,M, ,V,C,VC,5,1,1
+230,29,Biología UNC 1°,Resolución Individual,19,M, ,V,I,VI,6,1,1
+231,29,Biología UNC 1°,Resolución Individual,19,M, ,I,C,IC,7,0,1
+232,29,Biología UNC 1°,Resolución Individual,19,M, ,I,I,II,8,0,1
+233,30,Biología UNC 1°,Resolución Individual,30,F, ,V,C,VC,1,1,1
+234,30,Biología UNC 1°,Resolución Individual,30,F, ,V,I,VI,2,1,1
+235,30,Biología UNC 1°,Resolución Individual,30,F, ,I,C,IC,3,1,0
+236,30,Biología UNC 1°,Resolución Individual,30,F, ,I,I,II,4,0,1
+237,30,Biología UNC 1°,Resolución Individual,30,F, ,V,C,VC,5,1,1
+238,30,Biología UNC 1°,Resolución Individual,30,F, ,V,I,VI,6,0,0
+239,30,Biología UNC 1°,Resolución Individual,30,F, ,I,C,IC,7,0,1
+240,30,Biología UNC 1°,Resolución Individual,30,F, ,I,I,II,8,0,1
+241,31,Biología UNC 1°,Resolución Individual,20,F, ,V,C,VC,1,1,1
+242,31,Biología UNC 1°,Resolución Individual,20,F, ,V,I,VI,2,0,0
+243,31,Biología UNC 1°,Resolución Individual,20,F, ,I,C,IC,3,0,1
+244,31,Biología UNC 1°,Resolución Individual,20,F, ,I,I,II,4,0,1
+245,31,Biología UNC 1°,Resolución Individual,20,F, ,V,C,VC,5,1,1
+246,31,Biología UNC 1°,Resolución Individual,20,F, ,V,I,VI,6,0,0
+247,31,Biología UNC 1°,Resolución Individual,20,F, ,I,C,IC,7,1,0
+248,31,Biología UNC 1°,Resolución Individual,20,F, ,I,I,II,8,0,1
+249,32,Biología UNC 1°,Resolución Individual,35,M, ,V,C,VC,1,1,1
+250,32,Biología UNC 1°,Resolución Individual,35,M, ,V,I,VI,2,1,1
+251,32,Biología UNC 1°,Resolución Individual,35,M, ,I,C,IC,3,0,1
+252,32,Biología UNC 1°,Resolución Individual,35,M, ,I,I,II,4,0,1
+253,32,Biología UNC 1°,Resolución Individual,35,M, ,V,C,VC,5,1,1
+254,32,Biología UNC 1°,Resolución Individual,35,M, ,V,I,VI,6,1,1
+255,32,Biología UNC 1°,Resolución Individual,35,M, ,I,C,IC,7,1,0
+256,32,Biología UNC 1°,Resolución Individual,35,M, ,I,I,II,8,1,0
+257,33,Biología UNC 1°,Resolución Individual,18,F, ,V,C,VC,1,1,1
+258,33,Biología UNC 1°,Resolución Individual,18,F, ,V,I,VI,2,0,0
+259,33,Biología UNC 1°,Resolución Individual,18,F, ,I,C,IC,3,1,0
+260,33,Biología UNC 1°,Resolución Individual,18,F, ,I,I,II,4,0,1
+261,33,Biología UNC 1°,Resolución Individual,18,F, ,V,C,VC,5,1,1
+262,33,Biología UNC 1°,Resolución Individual,18,F, ,V,I,VI,6,0,0
+263,33,Biología UNC 1°,Resolución Individual,18,F, ,I,C,IC,7,1,0
+264,33,Biología UNC 1°,Resolución Individual,18,F, ,I,I,II,8,0,1
+265,34,Biología UNC 1°,Resolución Individual,20,F, ,V,C,VC,1,0,0
+266,34,Biología UNC 1°,Resolución Individual,20,F, ,V,I,VI,2,0,0
+267,34,Biología UNC 1°,Resolución Individual,20,F, ,I,C,IC,3,1,0
+268,34,Biología UNC 1°,Resolución Individual,20,F, ,I,I,II,4,0,1
+269,34,Biología UNC 1°,Resolución Individual,20,F, ,V,C,VC,5,1,1
+270,34,Biología UNC 1°,Resolución Individual,20,F, ,V,I,VI,6,0,0
+271,34,Biología UNC 1°,Resolución Individual,20,F, ,I,C,IC,7,1,0
+272,34,Biología UNC 1°,Resolución Individual,20,F, ,I,I,II,8,0,1
+273,35,Biología UNC 1°,Resolución Individual,25,F, ,V,C,VC,1,1,1
+274,35,Biología UNC 1°,Resolución Individual,25,F, ,V,I,VI,2,0,0
+275,35,Biología UNC 1°,Resolución Individual,25,F, ,I,C,IC,3,1,0
+276,35,Biología UNC 1°,Resolución Individual,25,F, ,I,I,II,4,0,1
+277,35,Biología UNC 1°,Resolución Individual,25,F, ,V,C,VC,5,1,1
+278,35,Biología UNC 1°,Resolución Individual,25,F, ,V,I,VI,6,0,0
+279,35,Biología UNC 1°,Resolución Individual,25,F, ,I,C,IC,7,0,1
+280,35,Biología UNC 1°,Resolución Individual,25,F, ,I,I,II,8,0,1
+281,36,Psicología Experimental UNC 3°,Resolución Individual, , , ,V,C,VC,1,1,1
+282,36,Psicología Experimental UNC 3°,Resolución Individual, , , ,V,I,VI,2,0,0
+283,36,Psicología Experimental UNC 3°,Resolución Individual, , , ,I,C,IC,3,0,1
+284,36,Psicología Experimental UNC 3°,Resolución Individual, , , ,I,I,II,4,0,1
+285,36,Psicología Experimental UNC 3°,Resolución Individual, , , ,V,C,VC,5,1,1
+286,36,Psicología Experimental UNC 3°,Resolución Individual, , , ,V,I,VI,6,0,0
+287,36,Psicología Experimental UNC 3°,Resolución Individual, , , ,I,C,IC,7,0,1
+288,36,Psicología Experimental UNC 3°,Resolución Individual, , , ,I,I,II,8,0,1
+289,37,Psicología Experimental UNC 3°,Resolución Individual,29,F, ,V,C,VC,1,1,1
+290,37,Psicología Experimental UNC 3°,Resolución Individual,29,F, ,V,I,VI,2,0,0
+291,37,Psicología Experimental UNC 3°,Resolución Individual,29,F, ,I,C,IC,3,0,1
+292,37,Psicología Experimental UNC 3°,Resolución Individual,29,F, ,I,I,II,4,0,1
+293,37,Psicología Experimental UNC 3°,Resolución Individual,29,F, ,V,C,VC,5,1,1
+294,37,Psicología Experimental UNC 3°,Resolución Individual,29,F, ,V,I,VI,6,0,0
+295,37,Psicología Experimental UNC 3°,Resolución Individual,29,F, ,I,C,IC,7,0,1
+296,37,Psicología Experimental UNC 3°,Resolución Individual,29,F, ,I,I,II,8,1,0
+297,38,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,V,C,VC,1,1,1
+298,38,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,V,I,VI,2,1,1
+299,38,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,I,C,IC,3,0,1
+300,38,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,I,I,II,4,0,1
+301,38,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,V,C,VC,5,0,0
+302,38,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,V,I,VI,6,0,0
+303,38,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,I,C,IC,7,0,1
+304,38,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,I,I,II,8,0,1
+305,39,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,C,VC,1,0,0
+306,39,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,I,VI,2,0,0
+307,39,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,C,IC,3,0,1
+308,39,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,I,II,4,0,1
+309,39,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,C,VC,5,1,1
+310,39,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,I,VI,6,0,0
+311,39,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,C,IC,7,0,1
+312,39,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,I,II,8,0,1
+313,40,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,C,VC,1,1,1
+314,40,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,I,VI,2,0,0
+315,40,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,C,IC,3,0,1
+316,40,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,I,II,4,0,1
+317,40,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,C,VC,5,1,1
+318,40,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,I,VI,6,0,0
+319,40,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,C,IC,7,1,0
+320,40,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,I,II,8,0,1
+321,41,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,C,VC,1,1,1
+322,41,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,I,VI,2,1,1
+323,41,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,C,IC,3,1,0
+324,41,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,I,II,4,1,0
+325,41,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,C,VC,5,1,1
+326,41,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,I,VI,6,1,1
+327,41,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,C,IC,7,1,0
+328,41,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,I,II,8,0,1
+329,42,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,C,VC,1,1,1
+330,42,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,I,VI,2,1,1
+331,42,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,C,IC,3,0,1
+332,42,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,I,II,4,0,1
+333,42,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,C,VC,5,1,1
+334,42,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,I,VI,6,1,1
+335,42,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,C,IC,7,1,0
+336,42,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,I,II,8,0,1
+337,43,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,C,VC,1,0,0
+338,43,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,I,VI,2,1,1
+339,43,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,C,IC,3,0,1
+340,43,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,I,II,4,1,0
+341,43,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,C,VC,5,1,1
+342,43,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,I,VI,6,1,1
+343,43,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,C,IC,7,1,0
+344,43,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,I,II,8,0,1
+345,44,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,C,VC,1,1,1
+346,44,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,I,VI,2,0,0
+347,44,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,C,IC,3,1,0
+348,44,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,I,II,4,0,1
+349,44,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,C,VC,5,1,1
+350,44,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,I,VI,6,0,0
+351,44,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,C,IC,7,0,1
+352,44,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,I,II,8,0,1
+353,45,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,C,VC,1,0,0
+354,45,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,I,VI,2,0,0
+355,45,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,C,IC,3,0,1
+356,45,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,I,II,4,0,1
+357,45,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,C,VC,5,0,0
+358,45,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,I,VI,6,0,0
+359,45,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,C,IC,7,1,0
+360,45,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,I,II,8,1,0
+361,46,Psicología Experimental UNC 3°,Resolución Individual,24,F, ,V,C,VC,1,0,0
+362,46,Psicología Experimental UNC 3°,Resolución Individual,24,F, ,V,I,VI,2,1,1
+363,46,Psicología Experimental UNC 3°,Resolución Individual,24,F, ,I,C,IC,3,0,1
+364,46,Psicología Experimental UNC 3°,Resolución Individual,24,F, ,I,I,II,4,1,0
+365,46,Psicología Experimental UNC 3°,Resolución Individual,24,F, ,V,C,VC,5,1,1
+366,46,Psicología Experimental UNC 3°,Resolución Individual,24,F, ,V,I,VI,6,1,1
+367,46,Psicología Experimental UNC 3°,Resolución Individual,24,F, ,I,C,IC,7,0,1
+368,46,Psicología Experimental UNC 3°,Resolución Individual,24,F, ,I,I,II,8,0,1
+369,47,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,C,VC,1,1,1
+370,47,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,I,VI,2,1,1
+371,47,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,C,IC,3,0,1
+372,47,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,I,II,4,0,1
+373,47,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,C,VC,5,1,1
+374,47,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,I,VI,6,1,1
+375,47,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,C,IC,7,1,0
+376,47,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,I,II,8,1,0
+377,48,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,C,VC,1,1,1
+378,48,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,I,VI,2,1,1
+379,48,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,C,IC,3,0,1
+380,48,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,I,II,4,0,1
+381,48,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,C,VC,5,1,1
+382,48,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,I,VI,6,1,1
+383,48,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,C,IC,7,1,0
+384,48,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,I,II,8,0,1
+385,49,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,C,VC,1,1,1
+386,49,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,I,VI,2,1,1
+387,49,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,C,IC,3,0,1
+388,49,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,I,II,4,0,1
+389,49,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,C,VC,5,1,1
+390,49,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,I,VI,6,0,0
+391,49,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,C,IC,7,0,1
+392,49,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,I,II,8,0,1
+393,50,Psicología Experimental UNC 3°,Resolución Individual,23,F, ,V,C,VC,1,1,1
+394,50,Psicología Experimental UNC 3°,Resolución Individual,23,F, ,V,I,VI,2,0,0
+395,50,Psicología Experimental UNC 3°,Resolución Individual,23,F, ,I,C,IC,3,0,1
+396,50,Psicología Experimental UNC 3°,Resolución Individual,23,F, ,I,I,II,4,0,1
+397,50,Psicología Experimental UNC 3°,Resolución Individual,23,F, ,V,C,VC,5,1,1
+398,50,Psicología Experimental UNC 3°,Resolución Individual,23,F, ,V,I,VI,6,0,0
+399,50,Psicología Experimental UNC 3°,Resolución Individual,23,F, ,I,C,IC,7,0,1
+400,50,Psicología Experimental UNC 3°,Resolución Individual,23,F, ,I,I,II,8,0,1
+401,51,Psicología Experimental UNC 3°,Resolución Individual,23,F, ,V,C,VC,1,0,0
+402,51,Psicología Experimental UNC 3°,Resolución Individual,23,F, ,V,I,VI,2,1,1
+403,51,Psicología Experimental UNC 3°,Resolución Individual,23,F, ,I,C,IC,3,0,1
+404,51,Psicología Experimental UNC 3°,Resolución Individual,23,F, ,I,I,II,4,0,1
+405,51,Psicología Experimental UNC 3°,Resolución Individual,23,F, ,V,C,VC,5,0,0
+406,51,Psicología Experimental UNC 3°,Resolución Individual,23,F, ,V,I,VI,6,0,0
+407,51,Psicología Experimental UNC 3°,Resolución Individual,23,F, ,I,C,IC,7,1,0
+408,51,Psicología Experimental UNC 3°,Resolución Individual,23,F, ,I,I,II,8,0,1
+409,52,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,V,C,VC,1,0,0
+410,52,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,V,I,VI,2,0,0
+411,52,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,I,C,IC,3,0,1
+412,52,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,I,I,II,4,0,1
+413,52,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,V,C,VC,5,0,0
+414,52,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,V,I,VI,6,0,0
+415,52,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,I,C,IC,7,1,0
+416,52,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,I,I,II,8,0,1
+417,53,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,C,VC,1,1,1
+418,53,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,I,VI,2,0,0
+419,53,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,C,IC,3,0,1
+420,53,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,I,II,4,0,1
+421,53,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,C,VC,5,1,1
+422,53,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,I,VI,6,1,1
+423,53,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,C,IC,7,0,1
+424,53,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,I,II,8,0,1
+425,54,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,V,C,VC,1,1,1
+426,54,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,V,I,VI,2,0,0
+427,54,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,I,C,IC,3,0,1
+428,54,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,I,I,II,4,0,1
+429,54,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,V,C,VC,5,1,1
+430,54,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,V,I,VI,6,0,0
+431,54,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,I,C,IC,7,0,1
+432,54,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,I,I,II,8,0,1
+433,55,Psicología Experimental UNC 3°,Resolución Individual,28,F, ,V,C,VC,1,1,1
+434,55,Psicología Experimental UNC 3°,Resolución Individual,28,F, ,V,I,VI,2,0,0
+435,55,Psicología Experimental UNC 3°,Resolución Individual,28,F, ,I,C,IC,3,1,0
+436,55,Psicología Experimental UNC 3°,Resolución Individual,28,F, ,I,I,II,4,0,1
+437,55,Psicología Experimental UNC 3°,Resolución Individual,28,F, ,V,C,VC,5,0,0
+438,55,Psicología Experimental UNC 3°,Resolución Individual,28,F, ,V,I,VI,6,0,0
+439,55,Psicología Experimental UNC 3°,Resolución Individual,28,F, ,I,C,IC,7,0,1
+440,55,Psicología Experimental UNC 3°,Resolución Individual,28,F, ,I,I,II,8,0,1
+441,56,Psicología Experimental UNC 3°,Resolución Individual,51,F, ,V,C,VC,1,0,0
+442,56,Psicología Experimental UNC 3°,Resolución Individual,51,F, ,V,I,VI,2,1,1
+443,56,Psicología Experimental UNC 3°,Resolución Individual,51,F, ,I,C,IC,3,0,1
+444,56,Psicología Experimental UNC 3°,Resolución Individual,51,F, ,I,I,II,4,1,0
+445,56,Psicología Experimental UNC 3°,Resolución Individual,51,F, ,V,C,VC,5,0,0
+446,56,Psicología Experimental UNC 3°,Resolución Individual,51,F, ,V,I,VI,6,1,1
+447,56,Psicología Experimental UNC 3°,Resolución Individual,51,F, ,I,C,IC,7,0,1
+448,56,Psicología Experimental UNC 3°,Resolución Individual,51,F, ,I,I,II,8,1,0
+449,57,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,V,C,VC,1,1,1
+450,57,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,V,I,VI,2,1,1
+451,57,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,I,C,IC,3,0,1
+452,57,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,I,I,II,4,0,1
+453,57,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,V,C,VC,5,1,1
+454,57,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,V,I,VI,6,0,0
+455,57,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,I,C,IC,7,0,1
+456,57,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,I,I,II,8,0,1
+457,58,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,C,VC,1,1,1
+458,58,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,I,VI,2,0,0
+459,58,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,C,IC,3,0,1
+460,58,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,I,II,4,1,0
+461,58,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,C,VC,5,1,1
+462,58,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,I,VI,6,0,0
+463,58,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,C,IC,7,1,0
+464,58,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,I,II,8,1,0
+465,59,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,C,VC,1,1,1
+466,59,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,I,VI,2,1,1
+467,59,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,C,IC,3,0,1
+468,59,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,I,II,4,0,1
+469,59,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,C,VC,5,1,1
+470,59,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,I,VI,6,1,1
+471,59,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,C,IC,7,1,0
+472,59,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,I,II,8,0,1
+473,60,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,C,VC,1,1,1
+474,60,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,I,VI,2,1,1
+475,60,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,C,IC,3,0,1
+476,60,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,I,II,4,0,1
+477,60,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,C,VC,5,1,1
+478,60,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,I,VI,6,1,1
+479,60,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,C,IC,7,0,1
+480,60,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,I,II,8,0,1
+481,61,Psicología Experimental UNC 3°,Resolución Individual,21,O, ,V,C,VC,1,1,1
+482,61,Psicología Experimental UNC 3°,Resolución Individual,21,O, ,V,I,VI,2,1,1
+483,61,Psicología Experimental UNC 3°,Resolución Individual,21,O, ,I,C,IC,3,0,1
+484,61,Psicología Experimental UNC 3°,Resolución Individual,21,O, ,I,I,II,4,0,1
+485,61,Psicología Experimental UNC 3°,Resolución Individual,21,O, ,V,C,VC,5,0,0
+486,61,Psicología Experimental UNC 3°,Resolución Individual,21,O, ,V,I,VI,6,1,1
+487,61,Psicología Experimental UNC 3°,Resolución Individual,21,O, ,I,C,IC,7,0,1
+488,61,Psicología Experimental UNC 3°,Resolución Individual,21,O, ,I,I,II,8,0,1
+489,62,Psicología Experimental UNC 3°,Resolución Individual,21,M, ,V,C,VC,1,1,1
+490,62,Psicología Experimental UNC 3°,Resolución Individual,21,M, ,V,I,VI,2,0,0
+491,62,Psicología Experimental UNC 3°,Resolución Individual,21,M, ,I,C,IC,3,0,1
+492,62,Psicología Experimental UNC 3°,Resolución Individual,21,M, ,I,I,II,4,0,1
+493,62,Psicología Experimental UNC 3°,Resolución Individual,21,M, ,V,C,VC,5,1,1
+494,62,Psicología Experimental UNC 3°,Resolución Individual,21,M, ,V,I,VI,6,0,0
+495,62,Psicología Experimental UNC 3°,Resolución Individual,21,M, ,I,C,IC,7,0,1
+496,62,Psicología Experimental UNC 3°,Resolución Individual,21,M, ,I,I,II,8,0,1
+497,63,Psicología Experimental UNC 3°,Resolución Individual,37,F, ,V,C,VC,1,1,1
+498,63,Psicología Experimental UNC 3°,Resolución Individual,37,F, ,V,I,VI,2,0,0
+499,63,Psicología Experimental UNC 3°,Resolución Individual,37,F, ,I,C,IC,3,0,1
+500,63,Psicología Experimental UNC 3°,Resolución Individual,37,F, ,I,I,II,4,0,1
+501,63,Psicología Experimental UNC 3°,Resolución Individual,37,F, ,V,C,VC,5,1,1
+502,63,Psicología Experimental UNC 3°,Resolución Individual,37,F, ,V,I,VI,6,1,1
+503,63,Psicología Experimental UNC 3°,Resolución Individual,37,F, ,I,C,IC,7,1,0
+504,63,Psicología Experimental UNC 3°,Resolución Individual,37,F, ,I,I,II,8,1,0
+505,64,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,C,VC,1,1,1
+506,64,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,I,VI,2,1,1
+507,64,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,C,IC,3,1,0
+508,64,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,I,II,4,0,1
+509,64,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,C,VC,5,1,1
+510,64,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,I,VI,6,1,1
+511,64,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,C,IC,7,0,1
+512,64,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,I,II,8,0,1
+513,65,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,C,VC,1,1,1
+514,65,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,I,VI,2,0,0
+515,65,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,C,IC,3,1,0
+516,65,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,I,II,4,0,1
+517,65,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,C,VC,5,0,0
+518,65,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,I,VI,6,0,0
+519,65,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,C,IC,7,1,0
+520,65,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,I,II,8,0,1
+521,66,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,C,VC,1,0,0
+522,66,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,I,VI,2,0,0
+523,66,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,C,IC,3,0,1
+524,66,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,I,II,4,0,1
+525,66,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,C,VC,5,1,1
+526,66,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,I,VI,6,0,0
+527,66,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,C,IC,7,1,0
+528,66,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,I,II,8,0,1
+529,67,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,C,VC,1,1,1
+530,67,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,I,VI,2,0,0
+531,67,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,C,IC,3,0,1
+532,67,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,I,II,4,0,1
+533,67,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,C,VC,5,0,0
+534,67,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,I,VI,6,0,0
+535,67,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,C,IC,7,0,1
+536,67,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,I,II,8,0,1
+537,68,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,C,VC,1,1,1
+538,68,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,I,VI,2,0,0
+539,68,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,C,IC,3,1,0
+540,68,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,I,II,4,0,1
+541,68,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,C,VC,5,0,0
+542,68,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,I,VI,6,1,1
+543,68,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,C,IC,7,0,1
+544,68,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,I,II,8,0,1
+545,69,Psicología Experimental UNC 3°,Resolución Individual,24,F, ,V,C,VC,1,1,1
+546,69,Psicología Experimental UNC 3°,Resolución Individual,24,F, ,V,I,VI,2,1,1
+547,69,Psicología Experimental UNC 3°,Resolución Individual,24,F, ,I,C,IC,3,1,0
+548,69,Psicología Experimental UNC 3°,Resolución Individual,24,F, ,I,I,II,4,0,1
+549,69,Psicología Experimental UNC 3°,Resolución Individual,24,F, ,V,C,VC,5,1,1
+550,69,Psicología Experimental UNC 3°,Resolución Individual,24,F, ,V,I,VI,6,1,1
+551,69,Psicología Experimental UNC 3°,Resolución Individual,24,F, ,I,C,IC,7,0,1
+552,69,Psicología Experimental UNC 3°,Resolución Individual,24,F, ,I,I,II,8,0,1
+553,70,Psicología Experimental UNC 3°,Resolución Individual,24,F, ,V,C,VC,1,1,1
+554,70,Psicología Experimental UNC 3°,Resolución Individual,24,F, ,V,I,VI,2,0,0
+555,70,Psicología Experimental UNC 3°,Resolución Individual,24,F, ,I,C,IC,3,1,0
+556,70,Psicología Experimental UNC 3°,Resolución Individual,24,F, ,I,I,II,4,0,1
+557,70,Psicología Experimental UNC 3°,Resolución Individual,24,F, ,V,C,VC,5,0,0
+558,70,Psicología Experimental UNC 3°,Resolución Individual,24,F, ,V,I,VI,6,0,0
+559,70,Psicología Experimental UNC 3°,Resolución Individual,24,F, ,I,C,IC,7,1,0
+560,70,Psicología Experimental UNC 3°,Resolución Individual,24,F, ,I,I,II,8,0,1
+561,71,Psicología Experimental UNC 3°,Resolución Individual,23,F, ,V,C,VC,1,1,1
+562,71,Psicología Experimental UNC 3°,Resolución Individual,23,F, ,V,I,VI,2,1,1
+563,71,Psicología Experimental UNC 3°,Resolución Individual,23,F, ,I,C,IC,3,1,0
+564,71,Psicología Experimental UNC 3°,Resolución Individual,23,F, ,I,I,II,4,0,1
+565,71,Psicología Experimental UNC 3°,Resolución Individual,23,F, ,V,C,VC,5,1,1
+566,71,Psicología Experimental UNC 3°,Resolución Individual,23,F, ,V,I,VI,6,1,1
+567,71,Psicología Experimental UNC 3°,Resolución Individual,23,F, ,I,C,IC,7,1,0
+568,71,Psicología Experimental UNC 3°,Resolución Individual,23,F, ,I,I,II,8,0,1
+569,72,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,C,VC,1,1,1
+570,72,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,I,VI,2,1,1
+571,72,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,C,IC,3,0,1
+572,72,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,I,II,4,0,1
+573,72,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,C,VC,5,1,1
+574,72,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,I,VI,6,1,1
+575,72,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,C,IC,7,0,1
+576,72,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,I,II,8,0,1
+577,73,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,C,VC,1,1,1
+578,73,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,I,VI,2,1,1
+579,73,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,C,IC,3,1,0
+580,73,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,I,II,4,0,1
+581,73,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,C,VC,5,1,1
+582,73,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,I,VI,6,1,1
+583,73,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,C,IC,7,1,0
+584,73,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,I,II,8,0,1
+585,74,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,C,VC,1,1,1
+586,74,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,I,VI,2,1,1
+587,74,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,C,IC,3,0,1
+588,74,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,I,II,4,0,1
+589,74,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,C,VC,5,1,1
+590,74,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,I,VI,6,1,1
+591,74,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,C,IC,7,1,0
+592,74,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,I,II,8,0,1
+593,75,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,V,C,VC,1,1,1
+594,75,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,V,I,VI,2,0,0
+595,75,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,I,C,IC,3,1,0
+596,75,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,I,I,II,4,0,1
+597,75,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,V,C,VC,5,0,0
+598,75,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,V,I,VI,6,0,0
+599,75,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,I,C,IC,7,0,1
+600,75,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,I,I,II,8,0,1
+601,76,Psicología Experimental UNC 3°,Resolución Individual,20,M, ,V,C,VC,1,1,1
+602,76,Psicología Experimental UNC 3°,Resolución Individual,20,M, ,V,I,VI,2,0,0
+603,76,Psicología Experimental UNC 3°,Resolución Individual,20,M, ,I,C,IC,3,0,1
+604,76,Psicología Experimental UNC 3°,Resolución Individual,20,M, ,I,I,II,4,0,1
+605,76,Psicología Experimental UNC 3°,Resolución Individual,20,M, ,V,C,VC,5,1,1
+606,76,Psicología Experimental UNC 3°,Resolución Individual,20,M, ,V,I,VI,6,1,1
+607,76,Psicología Experimental UNC 3°,Resolución Individual,20,M, ,I,C,IC,7,0,1
+608,76,Psicología Experimental UNC 3°,Resolución Individual,20,M, ,I,I,II,8,1,0
+609,77,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,V,C,VC,1,1,1
+610,77,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,V,I,VI,2,0,0
+611,77,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,I,C,IC,3,0,1
+612,77,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,I,I,II,4,0,1
+613,77,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,V,C,VC,5,1,1
+614,77,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,V,I,VI,6,0,0
+615,77,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,I,C,IC,7,1,0
+616,77,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,I,I,II,8,0,1
+617,78,Psicología Experimental UNC 3°,Resolución Individual,58,M, ,V,C,VC,1,1,1
+618,78,Psicología Experimental UNC 3°,Resolución Individual,58,M, ,V,I,VI,2,0,0
+619,78,Psicología Experimental UNC 3°,Resolución Individual,58,M, ,I,C,IC,3,0,1
+620,78,Psicología Experimental UNC 3°,Resolución Individual,58,M, ,I,I,II,4,0,1
+621,78,Psicología Experimental UNC 3°,Resolución Individual,58,M, ,V,C,VC,5,1,1
+622,78,Psicología Experimental UNC 3°,Resolución Individual,58,M, ,V,I,VI,6,1,1
+623,78,Psicología Experimental UNC 3°,Resolución Individual,58,M, ,I,C,IC,7,1,0
+624,78,Psicología Experimental UNC 3°,Resolución Individual,58,M, ,I,I,II,8,0,1
+625,79,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,V,C,VC,1,1,1
+626,79,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,V,I,VI,2,0,0
+627,79,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,I,C,IC,3,1,0
+628,79,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,I,I,II,4,0,1
+629,79,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,V,C,VC,5,0,0
+630,79,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,V,I,VI,6,0,0
+631,79,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,I,C,IC,7,0,1
+632,79,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,I,I,II,8,0,1
+633,80,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,C,VC,1,1,1
+634,80,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,I,VI,2,1,1
+635,80,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,C,IC,3,0,1
+636,80,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,I,II,4,0,1
+637,80,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,C,VC,5,1,1
+638,80,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,I,VI,6,1,1
+639,80,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,C,IC,7,0,1
+640,80,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,I,II,8,0,1
+641,81,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,C,VC,1,1,1
+642,81,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,I,VI,2,1,1
+643,81,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,C,IC,3,0,1
+644,81,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,I,II,4,0,1
+645,81,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,C,VC,5,1,1
+646,81,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,I,VI,6,1,1
+647,81,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,C,IC,7,0,1
+648,81,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,I,II,8,0,1
+649,82,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,V,C,VC,1,0,0
+650,82,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,V,I,VI,2,0,0
+651,82,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,I,C,IC,3,0,1
+652,82,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,I,I,II,4,0,1
+653,82,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,V,C,VC,5,1,1
+654,82,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,V,I,VI,6,1,1
+655,82,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,I,C,IC,7,1,0
+656,82,Psicología Experimental UNC 3°,Resolución Individual,23,M, ,I,I,II,8,0,1
+657,83,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,C,VC,1,1,1
+658,83,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,I,VI,2,0,0
+659,83,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,C,IC,3,1,0
+660,83,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,I,II,4,0,1
+661,83,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,C,VC,5,1,1
+662,83,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,I,VI,6,1,1
+663,83,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,C,IC,7,1,0
+664,83,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,I,II,8,1,0
+665,84,Psicología Experimental UNC 3°,Resolución Individual,32,F, ,V,C,VC,1,0,0
+666,84,Psicología Experimental UNC 3°,Resolución Individual,32,F, ,V,I,VI,2,1,1
+667,84,Psicología Experimental UNC 3°,Resolución Individual,32,F, ,I,C,IC,3,0,1
+668,84,Psicología Experimental UNC 3°,Resolución Individual,32,F, ,I,I,II,4,0,1
+669,84,Psicología Experimental UNC 3°,Resolución Individual,32,F, ,V,C,VC,5,1,1
+670,84,Psicología Experimental UNC 3°,Resolución Individual,32,F, ,V,I,VI,6,1,1
+671,84,Psicología Experimental UNC 3°,Resolución Individual,32,F, ,I,C,IC,7,0,1
+672,84,Psicología Experimental UNC 3°,Resolución Individual,32,F, ,I,I,II,8,0,1
+673,85,Psicología Experimental UNC 3°,Resolución Individual,27,M, ,V,C,VC,1,1,1
+674,85,Psicología Experimental UNC 3°,Resolución Individual,27,M, ,V,I,VI,2,0,0
+675,85,Psicología Experimental UNC 3°,Resolución Individual,27,M, ,I,C,IC,3,0,1
+676,85,Psicología Experimental UNC 3°,Resolución Individual,27,M, ,I,I,II,4,0,1
+677,85,Psicología Experimental UNC 3°,Resolución Individual,27,M, ,V,C,VC,5,0,0
+678,85,Psicología Experimental UNC 3°,Resolución Individual,27,M, ,V,I,VI,6,0,0
+679,85,Psicología Experimental UNC 3°,Resolución Individual,27,M, ,I,C,IC,7,1,0
+680,85,Psicología Experimental UNC 3°,Resolución Individual,27,M, ,I,I,II,8,0,1
+681,86,Psicología Experimental UNC 3°,Resolución Individual,20,M, ,V,C,VC,1,1,1
+682,86,Psicología Experimental UNC 3°,Resolución Individual,20,M, ,V,I,VI,2,1,1
+683,86,Psicología Experimental UNC 3°,Resolución Individual,20,M, ,I,C,IC,3,1,0
+684,86,Psicología Experimental UNC 3°,Resolución Individual,20,M, ,I,I,II,4,0,1
+685,86,Psicología Experimental UNC 3°,Resolución Individual,20,M, ,V,C,VC,5,1,1
+686,86,Psicología Experimental UNC 3°,Resolución Individual,20,M, ,V,I,VI,6,1,1
+687,86,Psicología Experimental UNC 3°,Resolución Individual,20,M, ,I,C,IC,7,1,0
+688,86,Psicología Experimental UNC 3°,Resolución Individual,20,M, ,I,I,II,8,0,1
+689,87,Psicología Experimental UNC 3°,Resolución Individual,24,M, ,V,C,VC,1,1,1
+690,87,Psicología Experimental UNC 3°,Resolución Individual,24,M, ,V,I,VI,2,0,0
+691,87,Psicología Experimental UNC 3°,Resolución Individual,24,M, ,I,C,IC,3,0,1
+692,87,Psicología Experimental UNC 3°,Resolución Individual,24,M, ,I,I,II,4,0,1
+693,87,Psicología Experimental UNC 3°,Resolución Individual,24,M, ,V,C,VC,5,1,1
+694,87,Psicología Experimental UNC 3°,Resolución Individual,24,M, ,V,I,VI,6,0,0
+695,87,Psicología Experimental UNC 3°,Resolución Individual,24,M, ,I,C,IC,7,0,1
+696,87,Psicología Experimental UNC 3°,Resolución Individual,24,M, ,I,I,II,8,0,1
+697,88,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,C,VC,1,0,0
+698,88,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,I,VI,2,1,1
+699,88,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,C,IC,3,0,1
+700,88,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,I,II,4,0,1
+701,88,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,C,VC,5,1,1
+702,88,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,I,VI,6,1,1
+703,88,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,C,IC,7,0,1
+704,88,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,I,II,8,0,1
+705,89,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,C,VC,1,1,1
+706,89,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,I,VI,2,0,0
+707,89,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,C,IC,3,0,1
+708,89,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,I,II,4,0,1
+709,89,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,C,VC,5,1,1
+710,89,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,I,VI,6,0,0
+711,89,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,C,IC,7,0,1
+712,89,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,I,II,8,0,1
+713,90,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,V,C,VC,1,1,1
+714,90,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,V,I,VI,2,0,0
+715,90,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,I,C,IC,3,0,1
+716,90,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,I,I,II,4,0,1
+717,90,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,V,C,VC,5,1,1
+718,90,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,V,I,VI,6,1,1
+719,90,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,I,C,IC,7,1,0
+720,90,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,I,I,II,8,0,1
+721,91,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,C,VC,1,1,1
+722,91,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,I,VI,2,0,0
+723,91,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,C,IC,3,1,0
+724,91,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,I,II,4,0,1
+725,91,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,C,VC,5,1,1
+726,91,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,V,I,VI,6,0,0
+727,91,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,C,IC,7,1,0
+728,91,Psicología Experimental UNC 3°,Resolución Individual,22,F, ,I,I,II,8,0,1
+729,92,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,C,VC,1,1,1
+730,92,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,I,VI,2,1,1
+731,92,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,C,IC,3,0,1
+732,92,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,I,II,4,0,1
+733,92,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,C,VC,5,1,1
+734,92,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,I,VI,6,1,1
+735,92,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,C,IC,7,1,0
+736,92,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,I,II,8,0,1
+737,93,Psicología Experimental UNC 3°,Resolución Individual,39,F, ,V,C,VC,1,1,1
+738,93,Psicología Experimental UNC 3°,Resolución Individual,39,F, ,V,I,VI,2,1,1
+739,93,Psicología Experimental UNC 3°,Resolución Individual,39,F, ,I,C,IC,3,0,1
+740,93,Psicología Experimental UNC 3°,Resolución Individual,39,F, ,I,I,II,4,0,1
+741,93,Psicología Experimental UNC 3°,Resolución Individual,39,F, ,V,C,VC,5,1,1
+742,93,Psicología Experimental UNC 3°,Resolución Individual,39,F, ,V,I,VI,6,1,1
+743,93,Psicología Experimental UNC 3°,Resolución Individual,39,F, ,I,C,IC,7,1,0
+744,93,Psicología Experimental UNC 3°,Resolución Individual,39,F, ,I,I,II,8,0,1
+745,94,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,C,VC,1,1,1
+746,94,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,I,VI,2,1,1
+747,94,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,C,IC,3,0,1
+748,94,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,I,II,4,0,1
+749,94,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,C,VC,5,1,1
+750,94,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,I,VI,6,1,1
+751,94,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,C,IC,7,0,1
+752,94,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,I,II,8,0,1
+753,95,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,C,VC,1,1,1
+754,95,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,I,VI,2,1,1
+755,95,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,C,IC,3,0,1
+756,95,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,I,II,4,0,1
+757,95,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,C,VC,5,0,0
+758,95,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,V,I,VI,6,0,0
+759,95,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,C,IC,7,0,1
+760,95,Psicología Experimental UNC 3°,Resolución Individual,21,F, ,I,I,II,8,0,1
+761,96,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,C,VC,1,1,1
+762,96,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,I,VI,2,1,1
+763,96,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,C,IC,3,0,1
+764,96,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,I,II,4,0,1
+765,96,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,C,VC,5,1,1
+766,96,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,V,I,VI,6,1,1
+767,96,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,C,IC,7,1,0
+768,96,Psicología Experimental UNC 3°,Resolución Individual,20,F, ,I,I,II,8,0,1
+769,97,Psicología Experimental UNC 3°,Resolución Individual,24,M, ,V,C,VC,1,1,1
+770,97,Psicología Experimental UNC 3°,Resolución Individual,24,M, ,V,I,VI,2,0,0
+771,97,Psicología Experimental UNC 3°,Resolución Individual,24,M, ,I,C,IC,3,0,1
+772,97,Psicología Experimental UNC 3°,Resolución Individual,24,M, ,I,I,II,4,0,1
+773,97,Psicología Experimental UNC 3°,Resolución Individual,24,M, ,V,C,VC,5,1,1
+774,97,Psicología Experimental UNC 3°,Resolución Individual,24,M, ,V,I,VI,6,0,0
+775,97,Psicología Experimental UNC 3°,Resolución Individual,24,M, ,I,C,IC,7,0,1
+776,97,Psicología Experimental UNC 3°,Resolución Individual,24,M, ,I,I,II,8,0,1
+777,98,Psicología Experimental UNC 3°,Resolución Individual,52,M, ,V,C,VC,1,1,1
+778,98,Psicología Experimental UNC 3°,Resolución Individual,52,M, ,V,I,VI,2,0,0
+779,98,Psicología Experimental UNC 3°,Resolución Individual,52,M, ,I,C,IC,3,1,0
+780,98,Psicología Experimental UNC 3°,Resolución Individual,52,M, ,I,I,II,4,0,1
+781,98,Psicología Experimental UNC 3°,Resolución Individual,52,M, ,V,C,VC,5,1,1
+782,98,Psicología Experimental UNC 3°,Resolución Individual,52,M, ,V,I,VI,6,0,0
+783,98,Psicología Experimental UNC 3°,Resolución Individual,52,M, ,I,C,IC,7,0,1
+784,98,Psicología Experimental UNC 3°,Resolución Individual,52,M, ,I,I,II,8,0,1
+785,99,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,V,C,VC,1,1,1
+786,99,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,V,I,VI,2,0,0
+787,99,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,I,C,IC,3,0,1
+788,99,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,I,I,II,4,0,1
+789,99,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,V,C,VC,5,1,1
+790,99,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,V,I,VI,6,0,0
+791,99,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,I,C,IC,7,1,0
+792,99,Psicología Experimental UNC 3°,Resolución Individual,22,M, ,I,I,II,8,0,1
+793,100,Metodología de la investigación II UCC 3°,Resolución Individual,22,F, ,V,C,VC,1,1,1
+794,100,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,2,1,1
+795,100,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,3,0,1
+796,100,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,4,0,1
+797,100,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,C,VC,5,1,1
+798,100,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,6,1,1
+799,100,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,7,0,1
+800,100,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,8,0,1
+801,101,Metodología de la investigación II UCC 3°,Resolución Individual,21,F, ,V,C,VC,1,1,1
+802,101,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,2,1,1
+803,101,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,3,1,0
+804,101,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,4,1,0
+805,101,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,C,VC,5,1,1
+806,101,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,6,0,0
+807,101,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,7,1,0
+808,101,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,8,1,0
+809,102,Metodología de la investigación II UCC 3°,Resolución Individual,23,M, ,V,C,VC,1,1,1
+810,102,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,2,1,1
+811,102,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,3,1,0
+812,102,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,4,0,1
+813,102,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,C,VC,5,1,1
+814,102,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,6,0,0
+815,102,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,7,1,0
+816,102,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,8,0,1
+817,103,Metodología de la investigación II UCC 3°,Resolución Individual,21,F, ,V,C,VC,1,1,1
+818,103,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,2,0,0
+819,103,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,3,0,1
+820,103,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,4,0,1
+821,103,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,C,VC,5,1,1
+822,103,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,6,1,1
+823,103,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,7,1,0
+824,103,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,8,1,0
+825,104,Metodología de la investigación II UCC 3°,Resolución Individual,23,F, ,V,C,VC,1,0,0
+826,104,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,2,1,1
+827,104,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,3,0,1
+828,104,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,4,0,1
+829,104,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,C,VC,5,1,1
+830,104,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,6,0,0
+831,104,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,7,1,0
+832,104,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,8,0,1
+833,105,Metodología de la investigación II UCC 3°,Resolución Individual,22,F, ,V,C,VC,1,1,1
+834,105,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,2,0,0
+835,105,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,3,0,1
+836,105,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,4,1,0
+837,105,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,C,VC,5,1,1
+838,105,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,6,0,0
+839,105,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,7,1,0
+840,105,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,8,0,1
+841,106,Metodología de la investigación II UCC 3°,Resolución Individual,22,F, ,V,C,VC,1,1,1
+842,106,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,2,0,0
+843,106,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,3,1,0
+844,106,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,4,0,1
+845,106,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,C,VC,5,1,1
+846,106,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,6,0,0
+847,106,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,7,1,0
+848,106,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,8,0,1
+849,107,Metodología de la investigación II UCC 3°,Resolución Individual,22,F, ,V,C,VC,1,0,0
+850,107,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,2,0,0
+851,107,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,3,1,0
+852,107,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,4,0,1
+853,107,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,C,VC,5,1,1
+854,107,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,6,1,1
+855,107,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,7,0,1
+856,107,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,8,0,1
+857,108,Metodología de la investigación II UCC 3°,Resolución Individual,21,F, ,V,C,VC,1,1,1
+858,108,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,2,0,0
+859,108,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,3,0,1
+860,108,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,4,0,1
+861,108,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,C,VC,5,1,1
+862,108,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,6,1,1
+863,108,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,7,0,1
+864,108,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,8,0,1
+865,109,Metodología de la investigación II UCC 3°,Resolución Individual,22,F, ,V,C,VC,1,1,1
+866,109,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,2,0,0
+867,109,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,3,1,0
+868,109,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,4,0,1
+869,109,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,C,VC,5,1,1
+870,109,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,6,0,0
+871,109,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,7,1,0
+872,109,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,8,0,1
+873,110,Metodología de la investigación II UCC 3°,Resolución Individual,24,F, ,V,C,VC,1,1,1
+874,110,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,2,0,0
+875,110,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,3,0,1
+876,110,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,4,1,0
+877,110,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,C,VC,5,0,0
+878,110,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,6,1,1
+879,110,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,7,0,1
+880,110,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,8,0,1
+881,111,Metodología de la investigación II UCC 3°,Resolución Individual,21,F, ,V,C,VC,1,1,1
+882,111,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,2,0,0
+883,111,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,3,0,1
+884,111,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,4,0,1
+885,111,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,C,VC,5,1,1
+886,111,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,6,0,0
+887,111,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,7,0,1
+888,111,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,8,0,1
+889,112,Metodología de la investigación II UCC 3°,Resolución Individual,23,M, ,V,C,VC,1,1,1
+890,112,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,2,0,0
+891,112,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,3,0,1
+892,112,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,4,0,1
+893,112,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,C,VC,5,1,1
+894,112,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,6,1,1
+895,112,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,7,0,1
+896,112,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,8,0,1
+897,113,Metodología de la investigación II UCC 3°,Resolución Individual,22,F, ,V,C,VC,1,1,1
+898,113,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,2,1,1
+899,113,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,3,0,1
+900,113,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,4,1,0
+901,113,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,C,VC,5,1,1
+902,113,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,6,1,1
+903,113,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,7,0,1
+904,113,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,8,0,1
+905,114,Metodología de la investigación II UCC 3°,Resolución Individual,21,M, ,V,C,VC,1,1,1
+906,114,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,2,0,0
+907,114,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,3,0,1
+908,114,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,4,0,1
+909,114,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,C,VC,5,1,1
+910,114,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,6,1,1
+911,114,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,7,1,0
+912,114,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,8,1,0
+913,115,Metodología de la investigación II UCC 3°,Resolución Individual,22,F, ,V,C,VC,1,1,1
+914,115,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,2,1,1
+915,115,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,3,0,1
+916,115,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,4,0,1
+917,115,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,C,VC,5,1,1
+918,115,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,6,1,1
+919,115,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,7,1,0
+920,115,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,8,0,1
+921,116,Metodología de la investigación II UCC 3°,Resolución Individual,21,F, ,V,C,VC,1,1,1
+922,116,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,2,1,1
+923,116,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,3,0,1
+924,116,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,4,0,1
+925,116,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,C,VC,5,1,1
+926,116,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,6,1,1
+927,116,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,7,1,0
+928,116,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,8,0,1
+929,117,Metodología de la investigación II UCC 3°,Resolución Individual,22,F, ,V,C,VC,1,0,0
+930,117,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,2,0,0
+931,117,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,3,1,0
+932,117,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,4,0,1
+933,117,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,C,VC,5,1,1
+934,117,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,6,0,0
+935,117,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,7,1,0
+936,117,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,8,0,1
+937,118,Metodología de la investigación II UCC 3°,Resolución Individual,23,F, ,V,C,VC,1,0,0
+938,118,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,2,1,1
+939,118,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,3,0,1
+940,118,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,4,1,0
+941,118,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,C,VC,5,1,1
+942,118,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,6,1,1
+943,118,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,7,0,1
+944,118,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,8,0,1
+945,119,Metodología de la investigación II UCC 3°,Resolución Individual, ,F, ,V,C,VC,1,1,1
+946,119,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,2,0,0
+947,119,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,3,0,1
+948,119,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,4,0,1
+949,119,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,C,VC,5,1,1
+950,119,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,V,I,VI,6,0,0
+951,119,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,C,IC,7,0,1
+952,119,Metodología de la investigación II UCC 3°,Resolución Individual, , , ,I,I,II,8,0,1
+953,120,Técnicas Psicométricas UCC 3°,Resolución Grupal,20,F,1,V,C,VC,1,1,1
+954,120,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,V,I,VI,2,1,1
+955,120,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,I,C,IC,3,1,0
+956,120,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,I,I,II,4,1,0
+957,120,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,V,C,VC,5,1,1
+958,120,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,V,I,VI,6,1,1
+959,120,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,I,C,IC,7,1,0
+960,120,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,I,I,II,8,0,1
+961,121,Técnicas Psicométricas UCC 3°,Resolución Grupal,22,F,1,V,C,VC,1,1,1
+962,121,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,V,I,VI,2,1,1
+963,121,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,I,C,IC,3,1,0
+964,121,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,I,I,II,4,1,0
+965,121,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,V,C,VC,5,1,1
+966,121,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,V,I,VI,6,1,1
+967,121,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,I,C,IC,7,1,0
+968,121,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,I,I,II,8,0,1
+969,122,Técnicas Psicométricas UCC 3°,Resolución Grupal,24,F,1,V,C,VC,1,1,1
+970,122,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,V,I,VI,2,1,1
+971,122,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,I,C,IC,3,1,0
+972,122,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,I,I,II,4,1,0
+973,122,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,V,C,VC,5,1,1
+974,122,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,V,I,VI,6,1,1
+975,122,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,I,C,IC,7,1,0
+976,122,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,I,I,II,8,0,1
+977,123,Técnicas Psicométricas UCC 3°,Resolución Grupal,21,F,1,V,C,VC,1,1,1
+978,123,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,V,I,VI,2,1,1
+979,123,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,I,C,IC,3,1,0
+980,123,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,I,I,II,4,1,0
+981,123,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,V,C,VC,5,1,1
+982,123,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,V,I,VI,6,1,1
+983,123,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,I,C,IC,7,1,0
+984,123,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,I,I,II,8,0,1
+985,124,Técnicas Psicométricas UCC 3°,Resolución Grupal,20,M,1,V,C,VC,1,1,1
+986,124,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,V,I,VI,2,1,1
+987,124,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,I,C,IC,3,1,0
+988,124,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,I,I,II,4,1,0
+989,124,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,V,C,VC,5,1,1
+990,124,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,V,I,VI,6,1,1
+991,124,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,I,C,IC,7,1,0
+992,124,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,1,I,I,II,8,0,1
+993,125,Técnicas Psicométricas UCC 3°,Resolución Grupal,21,F,2,V,C,VC,1,1,1
+994,125,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,V,I,VI,2,0,0
+995,125,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,I,C,IC,3,1,0
+996,125,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,I,I,II,4,0,1
+997,125,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,V,C,VC,5,1,1
+998,125,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,V,I,VI,6,0,0
+999,125,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,I,C,IC,7,0,1
+1000,125,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,I,I,II,8,0,1
+1001,126,Técnicas Psicométricas UCC 3°,Resolución Grupal,20,F,2,V,C,VC,1,1,1
+1002,126,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,V,I,VI,2,0,0
+1003,126,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,I,C,IC,3,1,0
+1004,126,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,I,I,II,4,0,1
+1005,126,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,V,C,VC,5,1,1
+1006,126,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,V,I,VI,6,0,0
+1007,126,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,I,C,IC,7,0,1
+1008,126,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,I,I,II,8,0,1
+1009,127,Técnicas Psicométricas UCC 3°,Resolución Grupal,21,F,2,V,C,VC,1,1,1
+1010,127,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,V,I,VI,2,0,0
+1011,127,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,I,C,IC,3,1,0
+1012,127,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,I,I,II,4,0,1
+1013,127,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,V,C,VC,5,1,1
+1014,127,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,V,I,VI,6,0,0
+1015,127,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,I,C,IC,7,0,1
+1016,127,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,I,I,II,8,0,1
+1017,128,Técnicas Psicométricas UCC 3°,Resolución Grupal,21,F,2,V,C,VC,1,1,1
+1018,128,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,V,I,VI,2,0,0
+1019,128,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,I,C,IC,3,1,0
+1020,128,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,I,I,II,4,0,1
+1021,128,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,V,C,VC,5,1,1
+1022,128,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,V,I,VI,6,0,0
+1023,128,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,I,C,IC,7,0,1
+1024,128,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,I,I,II,8,0,1
+1025,129,Técnicas Psicométricas UCC 3°,Resolución Grupal,23,M,2,V,C,VC,1,1,1
+1026,129,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,V,I,VI,2,0,0
+1027,129,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,I,C,IC,3,1,0
+1028,129,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,I,I,II,4,0,1
+1029,129,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,V,C,VC,5,1,1
+1030,129,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,V,I,VI,6,0,0
+1031,129,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,I,C,IC,7,0,1
+1032,129,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,2,I,I,II,8,0,1
+1033,130,Técnicas Psicométricas UCC 3°,Resolución Grupal,20,F,3,V,C,VC,1,1,1
+1034,130,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,V,I,VI,2,0,0
+1035,130,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,I,C,IC,3,0,1
+1036,130,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,I,I,II,4,0,1
+1037,130,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,V,C,VC,5,1,1
+1038,130,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,V,I,VI,6,0,0
+1039,130,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,I,C,IC,7,1,0
+1040,130,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,I,I,II,8,0,1
+1041,131,Técnicas Psicométricas UCC 3°,Resolución Grupal,22,F,3,V,C,VC,1,1,1
+1042,131,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,V,I,VI,2,0,0
+1043,131,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,I,C,IC,3,0,1
+1044,131,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,I,I,II,4,0,1
+1045,131,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,V,C,VC,5,1,1
+1046,131,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,V,I,VI,6,0,0
+1047,131,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,I,C,IC,7,1,0
+1048,131,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,I,I,II,8,0,1
+1049,132,Técnicas Psicométricas UCC 3°,Resolución Grupal,20,F,3,V,C,VC,1,1,1
+1050,132,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,V,I,VI,2,0,0
+1051,132,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,I,C,IC,3,0,1
+1052,132,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,I,I,II,4,0,1
+1053,132,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,V,C,VC,5,1,1
+1054,132,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,V,I,VI,6,0,0
+1055,132,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,I,C,IC,7,1,0
+1056,132,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,I,I,II,8,0,1
+1057,133,Técnicas Psicométricas UCC 3°,Resolución Grupal,21,F,3,V,C,VC,1,1,1
+1058,133,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,V,I,VI,2,0,0
+1059,133,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,I,C,IC,3,0,1
+1060,133,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,I,I,II,4,0,1
+1061,133,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,V,C,VC,5,1,1
+1062,133,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,V,I,VI,6,0,0
+1063,133,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,I,C,IC,7,1,0
+1064,133,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,I,I,II,8,0,1
+1065,134,Técnicas Psicométricas UCC 3°,Resolución Grupal,22,F,3,V,C,VC,1,1,1
+1066,134,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,V,I,VI,2,0,0
+1067,134,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,I,C,IC,3,0,1
+1068,134,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,I,I,II,4,0,1
+1069,134,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,V,C,VC,5,1,1
+1070,134,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,V,I,VI,6,0,0
+1071,134,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,I,C,IC,7,1,0
+1072,134,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,3,I,I,II,8,0,1
+1073,135,Técnicas Psicométricas UCC 3°,Resolución Grupal,20,F,4,V,C,VC,1,1,1
+1074,135,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,V,I,VI,2,0,0
+1075,135,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,I,C,IC,3,1,0
+1076,135,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,I,I,II,4,0,1
+1077,135,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,V,C,VC,5,1,1
+1078,135,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,V,I,VI,6,0,0
+1079,135,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,I,C,IC,7,1,0
+1080,135,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,I,I,II,8,0,1
+1081,136,Técnicas Psicométricas UCC 3°,Resolución Grupal,23,F,4,V,C,VC,1,1,1
+1082,136,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,V,I,VI,2,0,0
+1083,136,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,I,C,IC,3,1,0
+1084,136,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,I,I,II,4,0,1
+1085,136,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,V,C,VC,5,1,1
+1086,136,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,V,I,VI,6,0,0
+1087,136,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,I,C,IC,7,1,0
+1088,136,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,I,I,II,8,0,1
+1089,137,Técnicas Psicométricas UCC 3°,Resolución Grupal,22,F,4,V,C,VC,1,1,1
+1090,137,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,V,I,VI,2,0,0
+1091,137,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,I,C,IC,3,1,0
+1092,137,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,I,I,II,4,0,1
+1093,137,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,V,C,VC,5,1,1
+1094,137,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,V,I,VI,6,0,0
+1095,137,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,I,C,IC,7,1,0
+1096,137,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,I,I,II,8,0,1
+1097,138,Técnicas Psicométricas UCC 3°,Resolución Grupal,20,F,4,V,C,VC,1,1,1
+1098,138,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,V,I,VI,2,0,0
+1099,138,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,I,C,IC,3,1,0
+1100,138,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,I,I,II,4,0,1
+1101,138,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,V,C,VC,5,1,1
+1102,138,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,V,I,VI,6,0,0
+1103,138,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,I,C,IC,7,1,0
+1104,138,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,4,I,I,II,8,0,1
+1105,139,Técnicas Psicométricas UCC 3°,Resolución Grupal,27,F,5,V,C,VC,1,1,1
+1106,139,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,V,I,VI,2,1,1
+1107,139,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,I,C,IC,3,0,1
+1108,139,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,I,I,II,4,0,1
+1109,139,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,V,C,VC,5,1,1
+1110,139,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,V,I,VI,6,1,1
+1111,139,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,I,C,IC,7,0,1
+1112,139,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,I,I,II,8,0,1
+1113,140,Técnicas Psicométricas UCC 3°,Resolución Grupal,18,F,5,V,C,VC,1,1,1
+1114,140,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,V,I,VI,2,1,1
+1115,140,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,I,C,IC,3,0,1
+1116,140,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,I,I,II,4,0,1
+1117,140,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,V,C,VC,5,1,1
+1118,140,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,V,I,VI,6,1,1
+1119,140,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,I,C,IC,7,0,1
+1120,140,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,I,I,II,8,0,1
+1121,141,Técnicas Psicométricas UCC 3°,Resolución Grupal,22,F,5,V,C,VC,1,1,1
+1122,141,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,V,I,VI,2,1,1
+1123,141,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,I,C,IC,3,0,1
+1124,141,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,I,I,II,4,0,1
+1125,141,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,V,C,VC,5,1,1
+1126,141,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,V,I,VI,6,1,1
+1127,141,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,I,C,IC,7,0,1
+1128,141,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,I,I,II,8,0,1
+1129,142,Técnicas Psicométricas UCC 3°,Resolución Grupal,21,F,5,V,C,VC,1,1,1
+1130,142,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,V,I,VI,2,1,1
+1131,142,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,I,C,IC,3,0,1
+1132,142,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,I,I,II,4,0,1
+1133,142,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,V,C,VC,5,1,1
+1134,142,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,V,I,VI,6,1,1
+1135,142,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,I,C,IC,7,0,1
+1136,142,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,I,I,II,8,0,1
+1137,143,Técnicas Psicométricas UCC 3°,Resolución Grupal,19,F,5,V,C,VC,1,1,1
+1138,143,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,V,I,VI,2,1,1
+1139,143,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,I,C,IC,3,0,1
+1140,143,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,I,I,II,4,0,1
+1141,143,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,V,C,VC,5,1,1
+1142,143,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,V,I,VI,6,1,1
+1143,143,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,I,C,IC,7,0,1
+1144,143,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,5,I,I,II,8,0,1
+1145,144,Técnicas Psicométricas UCC 3°,Resolución Grupal,26,F,6,V,C,VC,1,1,1
+1146,144,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,V,I,VI,2,1,1
+1147,144,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,I,C,IC,3,0,1
+1148,144,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,I,I,II,4,0,1
+1149,144,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,V,C,VC,5,1,1
+1150,144,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,V,I,VI,6,1,1
+1151,144,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,I,C,IC,7,0,1
+1152,144,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,I,I,II,8,0,1
+1153,145,Técnicas Psicométricas UCC 3°,Resolución Grupal,23,F,6,V,C,VC,1,1,1
+1154,145,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,V,I,VI,2,1,1
+1155,145,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,I,C,IC,3,0,1
+1156,145,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,I,I,II,4,0,1
+1157,145,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,V,C,VC,5,1,1
+1158,145,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,V,I,VI,6,1,1
+1159,145,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,I,C,IC,7,0,1
+1160,145,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,I,I,II,8,0,1
+1161,146,Técnicas Psicométricas UCC 3°,Resolución Grupal,21,F,6,V,C,VC,1,1,1
+1162,146,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,V,I,VI,2,1,1
+1163,146,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,I,C,IC,3,0,1
+1164,146,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,I,I,II,4,0,1
+1165,146,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,V,C,VC,5,1,1
+1166,146,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,V,I,VI,6,1,1
+1167,146,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,I,C,IC,7,0,1
+1168,146,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,I,I,II,8,0,1
+1169,147,Técnicas Psicométricas UCC 3°,Resolución Grupal,24,M,6,V,C,VC,1,1,1
+1170,147,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,V,I,VI,2,1,1
+1171,147,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,I,C,IC,3,0,1
+1172,147,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,I,I,II,4,0,1
+1173,147,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,V,C,VC,5,1,1
+1174,147,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,V,I,VI,6,1,1
+1175,147,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,I,C,IC,7,0,1
+1176,147,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,I,I,II,8,0,1
+1177,148,Técnicas Psicométricas UCC 3°,Resolución Grupal,20,F,6,V,C,VC,1,1,1
+1178,148,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,V,I,VI,2,1,1
+1179,148,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,I,C,IC,3,0,1
+1180,148,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,I,I,II,4,0,1
+1181,148,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,V,C,VC,5,1,1
+1182,148,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,V,I,VI,6,1,1
+1183,148,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,I,C,IC,7,0,1
+1184,148,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,6,I,I,II,8,0,1
+1185,149,Técnicas Psicométricas UCC 3°,Resolución Grupal,21,F,7,V,C,VC,1,1,1
+1186,149,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,V,I,VI,2,1,1
+1187,149,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,I,C,IC,3,0,1
+1188,149,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,I,I,II,4,0,1
+1189,149,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,V,C,VC,5,1,1
+1190,149,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,V,I,VI,6,1,1
+1191,149,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,I,C,IC,7,0,1
+1192,149,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,I,I,II,8,0,1
+1193,150,Técnicas Psicométricas UCC 3°,Resolución Grupal,20,F,7,V,C,VC,1,1,1
+1194,150,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,V,I,VI,2,1,1
+1195,150,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,I,C,IC,3,0,1
+1196,150,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,I,I,II,4,0,1
+1197,150,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,V,C,VC,5,1,1
+1198,150,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,V,I,VI,6,1,1
+1199,150,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,I,C,IC,7,0,1
+1200,150,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,I,I,II,8,0,1
+1201,151,Técnicas Psicométricas UCC 3°,Resolución Grupal,22,F,7,V,C,VC,1,1,1
+1202,151,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,V,I,VI,2,1,1
+1203,151,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,I,C,IC,3,0,1
+1204,151,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,I,I,II,4,0,1
+1205,151,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,V,C,VC,5,1,1
+1206,151,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,V,I,VI,6,1,1
+1207,151,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,I,C,IC,7,0,1
+1208,151,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,I,I,II,8,0,1
+1209,152,Técnicas Psicométricas UCC 3°,Resolución Grupal,25,F,7,V,C,VC,1,1,1
+1210,152,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,V,I,VI,2,1,1
+1211,152,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,I,C,IC,3,0,1
+1212,152,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,I,I,II,4,0,1
+1213,152,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,V,C,VC,5,1,1
+1214,152,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,V,I,VI,6,1,1
+1215,152,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,I,C,IC,7,0,1
+1216,152,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,I,I,II,8,0,1
+1217,153,Técnicas Psicométricas UCC 3°,Resolución Grupal,24,F,7,V,C,VC,1,1,1
+1218,153,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,V,I,VI,2,1,1
+1219,153,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,I,C,IC,3,0,1
+1220,153,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,I,I,II,4,0,1
+1221,153,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,V,C,VC,5,1,1
+1222,153,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,V,I,VI,6,1,1
+1223,153,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,I,C,IC,7,0,1
+1224,153,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,7,I,I,II,8,0,1
+1225,154,Técnicas Psicométricas UCC 3°,Resolución Grupal,23,M,8,V,C,VC,1,1,1
+1226,154,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,V,I,VI,2,0,0
+1227,154,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,I,C,IC,3,0,1
+1228,154,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,I,I,II,4,0,1
+1229,154,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,V,C,VC,5,1,1
+1230,154,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,V,I,VI,6,1,1
+1231,154,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,I,C,IC,7,1,0
+1232,154,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,I,I,II,8,0,1
+1233,155,Técnicas Psicométricas UCC 3°,Resolución Grupal,21,F,8,V,C,VC,1,1,1
+1234,155,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,V,I,VI,2,0,0
+1235,155,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,I,C,IC,3,0,1
+1236,155,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,I,I,II,4,0,1
+1237,155,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,V,C,VC,5,1,1
+1238,155,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,V,I,VI,6,1,1
+1239,155,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,I,C,IC,7,1,0
+1240,155,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,I,I,II,8,0,1
+1241,156,Técnicas Psicométricas UCC 3°,Resolución Grupal,23,F,8,V,C,VC,1,1,1
+1242,156,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,V,I,VI,2,0,0
+1243,156,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,I,C,IC,3,0,1
+1244,156,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,I,I,II,4,0,1
+1245,156,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,V,C,VC,5,1,1
+1246,156,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,V,I,VI,6,1,1
+1247,156,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,I,C,IC,7,1,0
+1248,156,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,I,I,II,8,0,1
+1249,157,Técnicas Psicométricas UCC 3°,Resolución Grupal,22,F,8,V,C,VC,1,1,1
+1250,157,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,V,I,VI,2,0,0
+1251,157,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,I,C,IC,3,0,1
+1252,157,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,I,I,II,4,0,1
+1253,157,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,V,C,VC,5,1,1
+1254,157,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,V,I,VI,6,1,1
+1255,157,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,I,C,IC,7,1,0
+1256,157,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,I,I,II,8,0,1
+1257,158,Técnicas Psicométricas UCC 3°,Resolución Grupal,25,F,8,V,C,VC,1,1,1
+1258,158,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,V,I,VI,2,0,0
+1259,158,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,I,C,IC,3,0,1
+1260,158,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,I,I,II,4,0,1
+1261,158,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,V,C,VC,5,1,1
+1262,158,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,V,I,VI,6,1,1
+1263,158,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,I,C,IC,7,1,0
+1264,158,Técnicas Psicométricas UCC 3°,Resolución Grupal, , ,8,I,I,II,8,0,1
+1265,159,Biología UNC 4°,Resolución Grupal,33,M,9,V,C,VC,1,0,0
+1266,159,Biología UNC 4°,Resolución Grupal, , ,9,V,I,VI,2,1,1
+1267,159,Biología UNC 4°,Resolución Grupal, , ,9,I,C,IC,3,0,1
+1268,159,Biología UNC 4°,Resolución Grupal, , ,9,I,I,II,4,0,1
+1269,159,Biología UNC 4°,Resolución Grupal, , ,9,V,C,VC,5,1,1
+1270,159,Biología UNC 4°,Resolución Grupal, , ,9,V,I,VI,6,1,1
+1271,159,Biología UNC 4°,Resolución Grupal, , ,9,I,C,IC,7,1,0
+1272,159,Biología UNC 4°,Resolución Grupal, , ,9,I,I,II,8,1,0
+1273,160,Biología UNC 4°,Resolución Grupal,29,F,9,V,C,VC,1,0,0
+1274,160,Biología UNC 4°,Resolución Grupal, , ,9,V,I,VI,2,1,1
+1275,160,Biología UNC 4°,Resolución Grupal, , ,9,I,C,IC,3,0,1
+1276,160,Biología UNC 4°,Resolución Grupal, , ,9,I,I,II,4,0,1
+1277,160,Biología UNC 4°,Resolución Grupal, , ,9,V,C,VC,5,1,1
+1278,160,Biología UNC 4°,Resolución Grupal, , ,9,V,I,VI,6,1,1
+1279,160,Biología UNC 4°,Resolución Grupal, , ,9,I,C,IC,7,1,0
+1280,160,Biología UNC 4°,Resolución Grupal, , ,9,I,I,II,8,1,0
+1281,161,Biología UNC 4°,Resolución Grupal,26,F,9,V,C,VC,1,0,0
+1282,161,Biología UNC 4°,Resolución Grupal, , ,9,V,I,VI,2,1,1
+1283,161,Biología UNC 4°,Resolución Grupal, , ,9,I,C,IC,3,0,1
+1284,161,Biología UNC 4°,Resolución Grupal, , ,9,I,I,II,4,0,1
+1285,161,Biología UNC 4°,Resolución Grupal, , ,9,V,C,VC,5,1,1
+1286,161,Biología UNC 4°,Resolución Grupal, , ,9,V,I,VI,6,1,1
+1287,161,Biología UNC 4°,Resolución Grupal, , ,9,I,C,IC,7,1,0
+1288,161,Biología UNC 4°,Resolución Grupal, , ,9,I,I,II,8,1,0
+1289,162,Biología UNC 4°,Resolución Grupal,26,F,9,V,C,VC,1,0,0
+1290,162,Biología UNC 4°,Resolución Grupal, , ,9,V,I,VI,2,1,1
+1291,162,Biología UNC 4°,Resolución Grupal, , ,9,I,C,IC,3,0,1
+1292,162,Biología UNC 4°,Resolución Grupal, , ,9,I,I,II,4,0,1
+1293,162,Biología UNC 4°,Resolución Grupal, , ,9,V,C,VC,5,1,1
+1294,162,Biología UNC 4°,Resolución Grupal, , ,9,V,I,VI,6,1,1
+1295,162,Biología UNC 4°,Resolución Grupal, , ,9,I,C,IC,7,1,0
+1296,162,Biología UNC 4°,Resolución Grupal, , ,9,I,I,II,8,1,0
+1297,163,Biología UNC 4°,Resolución Grupal,45,F,10,V,C,VC,1,0,0
+1298,163,Biología UNC 4°,Resolución Grupal, , ,10,V,I,VI,2,1,1
+1299,163,Biología UNC 4°,Resolución Grupal, , ,10,I,C,IC,3,0,1
+1300,163,Biología UNC 4°,Resolución Grupal, , ,10,I,I,II,4,0,1
+1301,163,Biología UNC 4°,Resolución Grupal, , ,10,V,C,VC,5,1,1
+1302,163,Biología UNC 4°,Resolución Grupal, , ,10,V,I,VI,6,1,1
+1303,163,Biología UNC 4°,Resolución Grupal, , ,10,I,C,IC,7,1,0
+1304,163,Biología UNC 4°,Resolución Grupal, , ,10,I,I,II,8,0,1
+1305,164,Biología UNC 4°,Resolución Grupal,27,M,10,V,C,VC,1,0,0
+1306,164,Biología UNC 4°,Resolución Grupal, , ,10,V,I,VI,2,1,1
+1307,164,Biología UNC 4°,Resolución Grupal, , ,10,I,C,IC,3,0,1
+1308,164,Biología UNC 4°,Resolución Grupal, , ,10,I,I,II,4,0,1
+1309,164,Biología UNC 4°,Resolución Grupal, , ,10,V,C,VC,5,1,1
+1310,164,Biología UNC 4°,Resolución Grupal, , ,10,V,I,VI,6,1,1
+1311,164,Biología UNC 4°,Resolución Grupal, , ,10,I,C,IC,7,1,0
+1312,164,Biología UNC 4°,Resolución Grupal, , ,10,I,I,II,8,0,1
+1313,165,Biología UNC 4°,Resolución Grupal,31,M,10,V,C,VC,1,0,0
+1314,165,Biología UNC 4°,Resolución Grupal, , ,10,V,I,VI,2,1,1
+1315,165,Biología UNC 4°,Resolución Grupal, , ,10,I,C,IC,3,0,1
+1316,165,Biología UNC 4°,Resolución Grupal, , ,10,I,I,II,4,0,1
+1317,165,Biología UNC 4°,Resolución Grupal, , ,10,V,C,VC,5,1,1
+1318,165,Biología UNC 4°,Resolución Grupal, , ,10,V,I,VI,6,1,1
+1319,165,Biología UNC 4°,Resolución Grupal, , ,10,I,C,IC,7,1,0
+1320,165,Biología UNC 4°,Resolución Grupal, , ,10,I,I,II,8,0,1
+1321,166,Biología UNC 4°,Resolución Grupal,24,M,10,V,C,VC,1,0,0
+1322,166,Biología UNC 4°,Resolución Grupal, , ,10,V,I,VI,2,1,1
+1323,166,Biología UNC 4°,Resolución Grupal, , ,10,I,C,IC,3,0,1
+1324,166,Biología UNC 4°,Resolución Grupal, , ,10,I,I,II,4,0,1
+1325,166,Biología UNC 4°,Resolución Grupal, , ,10,V,C,VC,5,1,1
+1326,166,Biología UNC 4°,Resolución Grupal, , ,10,V,I,VI,6,1,1
+1327,166,Biología UNC 4°,Resolución Grupal, , ,10,I,C,IC,7,1,0
+1328,166,Biología UNC 4°,Resolución Grupal, , ,10,I,I,II,8,0,1
+1329,167,Biología UNC 4°,Resolución Grupal,25,F,11,V,C,VC,1,1,1
+1330,167,Biología UNC 4°,Resolución Grupal, , ,11,V,I,VI,2,1,1
+1331,167,Biología UNC 4°,Resolución Grupal, , ,11,I,C,IC,3,0,1
+1332,167,Biología UNC 4°,Resolución Grupal, , ,11,I,I,II,4,0,1
+1333,167,Biología UNC 4°,Resolución Grupal, , ,11,V,C,VC,5,1,1
+1334,167,Biología UNC 4°,Resolución Grupal, , ,11,V,I,VI,6,1,1
+1335,167,Biología UNC 4°,Resolución Grupal, , ,11,I,C,IC,7,1,0
+1336,167,Biología UNC 4°,Resolución Grupal, , ,11,I,I,II,8,0,1
+1337,168,Biología UNC 4°,Resolución Grupal,27,M,11,V,C,VC,1,1,1
+1338,168,Biología UNC 4°,Resolución Grupal, , ,11,V,I,VI,2,1,1
+1339,168,Biología UNC 4°,Resolución Grupal, , ,11,I,C,IC,3,0,1
+1340,168,Biología UNC 4°,Resolución Grupal, , ,11,I,I,II,4,0,1
+1341,168,Biología UNC 4°,Resolución Grupal, , ,11,V,C,VC,5,1,1
+1342,168,Biología UNC 4°,Resolución Grupal, , ,11,V,I,VI,6,1,1
+1343,168,Biología UNC 4°,Resolución Grupal, , ,11,I,C,IC,7,1,0
+1344,168,Biología UNC 4°,Resolución Grupal, , ,11,I,I,II,8,0,1
+1345,169,Biología UNC 4°,Resolución Grupal,29,F,11,V,C,VC,1,1,1
+1346,169,Biología UNC 4°,Resolución Grupal, , ,11,V,I,VI,2,1,1
+1347,169,Biología UNC 4°,Resolución Grupal, , ,11,I,C,IC,3,0,1
+1348,169,Biología UNC 4°,Resolución Grupal, , ,11,I,I,II,4,0,1
+1349,169,Biología UNC 4°,Resolución Grupal, , ,11,V,C,VC,5,1,1
+1350,169,Biología UNC 4°,Resolución Grupal, , ,11,V,I,VI,6,1,1
+1351,169,Biología UNC 4°,Resolución Grupal, , ,11,I,C,IC,7,1,0
+1352,169,Biología UNC 4°,Resolución Grupal, , ,11,I,I,II,8,0,1
+1353,170,Biología UNC 4°,Resolución Grupal,31,F,11,V,C,VC,1,1,1
+1354,170,Biología UNC 4°,Resolución Grupal, , ,11,V,I,VI,2,1,1
+1355,170,Biología UNC 4°,Resolución Grupal, , ,11,I,C,IC,3,0,1
+1356,170,Biología UNC 4°,Resolución Grupal, , ,11,I,I,II,4,0,1
+1357,170,Biología UNC 4°,Resolución Grupal, , ,11,V,C,VC,5,1,1
+1358,170,Biología UNC 4°,Resolución Grupal, , ,11,V,I,VI,6,1,1
+1359,170,Biología UNC 4°,Resolución Grupal, , ,11,I,C,IC,7,1,0
+1360,170,Biología UNC 4°,Resolución Grupal, , ,11,I,I,II,8,0,1
+1361,171,Técnicas Proyectivas UNC 4°,Resolución Grupal,23,F,12,V,C,VC,1,1,1
+1362,171,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,V,I,VI,2,0,0
+1363,171,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,I,C,IC,3,1,0
+1364,171,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,I,I,II,4,0,1
+1365,171,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,V,C,VC,5,1,1
+1366,171,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,V,I,VI,6,1,1
+1367,171,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,I,C,IC,7,1,0
+1368,171,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,I,I,II,8,0,1
+1369,172,Técnicas Proyectivas UNC 4°,Resolución Grupal,41,F,12,V,C,VC,1,1,1
+1370,172,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,V,I,VI,2,0,0
+1371,172,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,I,C,IC,3,1,0
+1372,172,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,I,I,II,4,0,1
+1373,172,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,V,C,VC,5,1,1
+1374,172,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,V,I,VI,6,1,1
+1375,172,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,I,C,IC,7,1,0
+1376,172,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,I,I,II,8,0,1
+1377,173,Técnicas Proyectivas UNC 4°,Resolución Grupal,22,M,12,V,C,VC,1,1,1
+1378,173,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,V,I,VI,2,0,0
+1379,173,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,I,C,IC,3,1,0
+1380,173,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,I,I,II,4,0,1
+1381,173,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,V,C,VC,5,1,1
+1382,173,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,V,I,VI,6,1,1
+1383,173,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,I,C,IC,7,1,0
+1384,173,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,I,I,II,8,0,1
+1385,174,Técnicas Proyectivas UNC 4°,Resolución Grupal,23,M,12,V,C,VC,1,1,1
+1386,174,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,V,I,VI,2,0,0
+1387,174,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,I,C,IC,3,1,0
+1388,174,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,I,I,II,4,0,1
+1389,174,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,V,C,VC,5,1,1
+1390,174,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,V,I,VI,6,1,1
+1391,174,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,I,C,IC,7,1,0
+1392,174,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,I,I,II,8,0,1
+1393,175,Técnicas Proyectivas UNC 4°,Resolución Grupal,24,F,12,V,C,VC,1,1,1
+1394,175,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,V,I,VI,2,0,0
+1395,175,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,I,C,IC,3,1,0
+1396,175,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,I,I,II,4,0,1
+1397,175,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,V,C,VC,5,1,1
+1398,175,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,V,I,VI,6,1,1
+1399,175,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,I,C,IC,7,1,0
+1400,175,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,12,I,I,II,8,0,1
+1401,176,Técnicas Proyectivas UNC 4°,Resolución Grupal,22,F,13,V,C,VC,1,1,1
+1402,176,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,V,I,VI,2,1,1
+1403,176,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,I,C,IC,3,1,0
+1404,176,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,I,I,II,4,0,1
+1405,176,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,V,C,VC,5,1,1
+1406,176,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,V,I,VI,6,1,1
+1407,176,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,I,C,IC,7,0,1
+1408,176,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,I,I,II,8,0,1
+1409,177,Técnicas Proyectivas UNC 4°,Resolución Grupal,21,F,13,V,C,VC,1,1,1
+1410,177,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,V,I,VI,2,1,1
+1411,177,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,I,C,IC,3,1,0
+1412,177,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,I,I,II,4,0,1
+1413,177,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,V,C,VC,5,1,1
+1414,177,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,V,I,VI,6,1,1
+1415,177,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,I,C,IC,7,0,1
+1416,177,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,I,I,II,8,0,1
+1417,178,Técnicas Proyectivas UNC 4°,Resolución Grupal,21,F,13,V,C,VC,1,1,1
+1418,178,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,V,I,VI,2,1,1
+1419,178,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,I,C,IC,3,1,0
+1420,178,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,I,I,II,4,0,1
+1421,178,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,V,C,VC,5,1,1
+1422,178,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,V,I,VI,6,1,1
+1423,178,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,I,C,IC,7,0,1
+1424,178,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,I,I,II,8,0,1
+1425,179,Técnicas Proyectivas UNC 4°,Resolución Grupal,21,M,13,V,C,VC,1,1,1
+1426,179,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,V,I,VI,2,1,1
+1427,179,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,I,C,IC,3,1,0
+1428,179,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,I,I,II,4,0,1
+1429,179,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,V,C,VC,5,1,1
+1430,179,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,V,I,VI,6,1,1
+1431,179,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,I,C,IC,7,0,1
+1432,179,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,I,I,II,8,0,1
+1433,180,Técnicas Proyectivas UNC 4°,Resolución Grupal,21,F,13,V,C,VC,1,1,1
+1434,180,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,V,I,VI,2,1,1
+1435,180,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,I,C,IC,3,1,0
+1436,180,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,I,I,II,4,0,1
+1437,180,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,V,C,VC,5,1,1
+1438,180,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,V,I,VI,6,1,1
+1439,180,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,I,C,IC,7,0,1
+1440,180,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,13,I,I,II,8,0,1
+1441,181,Técnicas Proyectivas UNC 4°,Resolución Grupal,22,F,14,V,C,VC,1,1,1
+1442,181,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,V,I,VI,2,1,1
+1443,181,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,I,C,IC,3,0,1
+1444,181,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,I,I,II,4,0,1
+1445,181,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,V,C,VC,5,1,1
+1446,181,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,V,I,VI,6,1,1
+1447,181,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,I,C,IC,7,0,1
+1448,181,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,I,I,II,8,0,1
+1449,182,Técnicas Proyectivas UNC 4°,Resolución Grupal,24,F,14,V,C,VC,1,1,1
+1450,182,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,V,I,VI,2,1,1
+1451,182,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,I,C,IC,3,0,1
+1452,182,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,I,I,II,4,0,1
+1453,182,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,V,C,VC,5,1,1
+1454,182,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,V,I,VI,6,1,1
+1455,182,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,I,C,IC,7,0,1
+1456,182,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,I,I,II,8,0,1
+1457,183,Técnicas Proyectivas UNC 4°,Resolución Grupal,23,F,14,V,C,VC,1,1,1
+1458,183,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,V,I,VI,2,1,1
+1459,183,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,I,C,IC,3,0,1
+1460,183,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,I,I,II,4,0,1
+1461,183,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,V,C,VC,5,1,1
+1462,183,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,V,I,VI,6,1,1
+1463,183,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,I,C,IC,7,0,1
+1464,183,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,I,I,II,8,0,1
+1465,184,Técnicas Proyectivas UNC 4°,Resolución Grupal,23,F,14,V,C,VC,1,1,1
+1466,184,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,V,I,VI,2,1,1
+1467,184,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,I,C,IC,3,0,1
+1468,184,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,I,I,II,4,0,1
+1469,184,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,V,C,VC,5,1,1
+1470,184,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,V,I,VI,6,1,1
+1471,184,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,I,C,IC,7,0,1
+1472,184,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,14,I,I,II,8,0,1
+1473,185,Técnicas Proyectivas UNC 4°,Resolución Grupal,41,F,15,V,C,VC,1,1,1
+1474,185,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,V,I,VI,2,0,0
+1475,185,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,I,C,IC,3,0,1
+1476,185,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,I,I,II,4,0,1
+1477,185,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,V,C,VC,5,1,1
+1478,185,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,V,I,VI,6,0,0
+1479,185,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,I,C,IC,7,1,0
+1480,185,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,I,I,II,8,0,1
+1481,186,Técnicas Proyectivas UNC 4°,Resolución Grupal,39,M,15,V,C,VC,1,1,1
+1482,186,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,V,I,VI,2,0,0
+1483,186,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,I,C,IC,3,0,1
+1484,186,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,I,I,II,4,0,1
+1485,186,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,V,C,VC,5,1,1
+1486,186,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,V,I,VI,6,0,0
+1487,186,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,I,C,IC,7,1,0
+1488,186,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,I,I,II,8,0,1
+1489,187,Técnicas Proyectivas UNC 4°,Resolución Grupal,37,F,15,V,C,VC,1,1,1
+1490,187,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,V,I,VI,2,0,0
+1491,187,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,I,C,IC,3,0,1
+1492,187,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,I,I,II,4,0,1
+1493,187,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,V,C,VC,5,1,1
+1494,187,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,V,I,VI,6,0,0
+1495,187,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,I,C,IC,7,1,0
+1496,187,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,I,I,II,8,0,1
+1497,188,Técnicas Proyectivas UNC 4°,Resolución Grupal,22,F,15,V,C,VC,1,1,1
+1498,188,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,V,I,VI,2,0,0
+1499,188,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,I,C,IC,3,0,1
+1500,188,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,I,I,II,4,0,1
+1501,188,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,V,C,VC,5,1,1
+1502,188,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,V,I,VI,6,0,0
+1503,188,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,I,C,IC,7,1,0
+1504,188,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,I,I,II,8,0,1
+1505,189,Técnicas Proyectivas UNC 4°,Resolución Grupal,21,F,15,V,C,VC,1,1,1
+1506,189,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,V,I,VI,2,0,0
+1507,189,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,I,C,IC,3,0,1
+1508,189,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,I,I,II,4,0,1
+1509,189,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,V,C,VC,5,1,1
+1510,189,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,V,I,VI,6,0,0
+1511,189,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,I,C,IC,7,1,0
+1512,189,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,15,I,I,II,8,0,1
+1513,190,Técnicas Proyectivas UNC 4°,Resolución Grupal,24,F,16,V,C,VC,1,1,1
+1514,190,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,V,I,VI,2,0,0
+1515,190,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,I,C,IC,3,0,1
+1516,190,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,I,I,II,4,0,1
+1517,190,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,V,C,VC,5,1,1
+1518,190,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,V,I,VI,6,0,0
+1519,190,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,I,C,IC,7,1,0
+1520,190,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,I,I,II,8,0,1
+1521,191,Técnicas Proyectivas UNC 4°,Resolución Grupal,23,F,16,V,C,VC,1,1,1
+1522,191,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,V,I,VI,2,0,0
+1523,191,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,I,C,IC,3,0,1
+1524,191,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,I,I,II,4,0,1
+1525,191,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,V,C,VC,5,1,1
+1526,191,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,V,I,VI,6,0,0
+1527,191,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,I,C,IC,7,1,0
+1528,191,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,I,I,II,8,0,1
+1529,192,Técnicas Proyectivas UNC 4°,Resolución Grupal,26,F,16,V,C,VC,1,1,1
+1530,192,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,V,I,VI,2,0,0
+1531,192,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,I,C,IC,3,0,1
+1532,192,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,I,I,II,4,0,1
+1533,192,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,V,C,VC,5,1,1
+1534,192,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,V,I,VI,6,0,0
+1535,192,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,I,C,IC,7,1,0
+1536,192,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,I,I,II,8,0,1
+1537,193,Técnicas Proyectivas UNC 4°,Resolución Grupal,22,F,16,V,C,VC,1,1,1
+1538,193,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,V,I,VI,2,0,0
+1539,193,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,I,C,IC,3,0,1
+1540,193,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,I,I,II,4,0,1
+1541,193,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,V,C,VC,5,1,1
+1542,193,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,V,I,VI,6,0,0
+1543,193,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,I,C,IC,7,1,0
+1544,193,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,I,I,II,8,0,1
+1545,194,Técnicas Proyectivas UNC 4°,Resolución Grupal,21,F,16,V,C,VC,1,1,1
+1546,194,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,V,I,VI,2,0,0
+1547,194,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,I,C,IC,3,0,1
+1548,194,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,I,I,II,4,0,1
+1549,194,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,V,C,VC,5,1,1
+1550,194,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,V,I,VI,6,0,0
+1551,194,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,I,C,IC,7,1,0
+1552,194,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,16,I,I,II,8,0,1
+1553,195,Técnicas Proyectivas UNC 4°,Resolución Grupal,24,F,17,V,C,VC,1,1,1
+1554,195,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,17,V,I,VI,2,1,1
+1555,195,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,17,I,C,IC,3,0,1
+1556,195,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,17,I,I,II,4,0,1
+1557,195,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,17,V,C,VC,5,1,1
+1558,195,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,17,V,I,VI,6,1,1
+1559,195,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,17,I,C,IC,7,0,1
+1560,195,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,17,I,I,II,8,0,1
+1561,196,Técnicas Proyectivas UNC 4°,Resolución Grupal,21,F,17,V,C,VC,1,1,1
+1562,196,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,17,V,I,VI,2,1,1
+1563,196,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,17,I,C,IC,3,0,1
+1564,196,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,17,I,I,II,4,0,1
+1565,196,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,17,V,C,VC,5,1,1
+1566,196,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,17,V,I,VI,6,1,1
+1567,196,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,17,I,C,IC,7,0,1
+1568,196,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,17,I,I,II,8,0,1
+1569,197,Técnicas Proyectivas UNC 4°,Resolución Grupal,29,F,17,V,C,VC,1,1,1
+1570,197,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,17,V,I,VI,2,1,1
+1571,197,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,17,I,C,IC,3,0,1
+1572,197,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,17,I,I,II,4,0,1
+1573,197,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,17,V,C,VC,5,1,1
+1574,197,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,17,V,I,VI,6,1,1
+1575,197,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,17,I,C,IC,7,0,1
+1576,197,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,17,I,I,II,8,0,1
+1577,198,Técnicas Proyectivas UNC 4°,Resolución Grupal,22,M,18,V,C,VC,1,1,1
+1578,198,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,V,I,VI,2,1,1
+1579,198,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,I,C,IC,3,0,1
+1580,198,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,I,I,II,4,0,1
+1581,198,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,V,C,VC,5,1,1
+1582,198,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,V,I,VI,6,1,1
+1583,198,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,I,C,IC,7,0,1
+1584,198,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,I,I,II,8,0,1
+1585,199,Técnicas Proyectivas UNC 4°,Resolución Grupal,22,F,18,V,C,VC,1,1,1
+1586,199,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,V,I,VI,2,1,1
+1587,199,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,I,C,IC,3,0,1
+1588,199,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,I,I,II,4,0,1
+1589,199,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,V,C,VC,5,1,1
+1590,199,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,V,I,VI,6,1,1
+1591,199,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,I,C,IC,7,0,1
+1592,199,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,I,I,II,8,0,1
+1593,200,Técnicas Proyectivas UNC 4°,Resolución Grupal,28,M,18,V,C,VC,1,1,1
+1594,200,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,V,I,VI,2,1,1
+1595,200,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,I,C,IC,3,0,1
+1596,200,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,I,I,II,4,0,1
+1597,200,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,V,C,VC,5,1,1
+1598,200,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,V,I,VI,6,1,1
+1599,200,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,I,C,IC,7,0,1
+1600,200,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,I,I,II,8,0,1
+1601,201,Técnicas Proyectivas UNC 4°,Resolución Grupal,23,M,18,V,C,VC,1,1,1
+1602,201,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,V,I,VI,2,1,1
+1603,201,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,I,C,IC,3,0,1
+1604,201,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,I,I,II,4,0,1
+1605,201,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,V,C,VC,5,1,1
+1606,201,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,V,I,VI,6,1,1
+1607,201,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,I,C,IC,7,0,1
+1608,201,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,I,I,II,8,0,1
+1609,202,Técnicas Proyectivas UNC 4°,Resolución Grupal,21,F,18,V,C,VC,1,1,1
+1610,202,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,V,I,VI,2,1,1
+1611,202,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,I,C,IC,3,0,1
+1612,202,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,I,I,II,4,0,1
+1613,202,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,V,C,VC,5,1,1
+1614,202,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,V,I,VI,6,1,1
+1615,202,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,I,C,IC,7,0,1
+1616,202,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,18,I,I,II,8,0,1
+1617,203,Técnicas Proyectivas UNC 4°,Resolución Grupal,22,F,19,V,C,VC,1,1,1
+1618,203,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,V,I,VI,2,1,1
+1619,203,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,I,C,IC,3,0,1
+1620,203,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,I,I,II,4,0,1
+1621,203,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,V,C,VC,5,1,1
+1622,203,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,V,I,VI,6,1,1
+1623,203,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,I,C,IC,7,1,0
+1624,203,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,I,I,II,8,0,1
+1625,204,Técnicas Proyectivas UNC 4°,Resolución Grupal,28,F,19,V,C,VC,1,1,1
+1626,204,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,V,I,VI,2,1,1
+1627,204,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,I,C,IC,3,0,1
+1628,204,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,I,I,II,4,0,1
+1629,204,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,V,C,VC,5,1,1
+1630,204,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,V,I,VI,6,1,1
+1631,204,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,I,C,IC,7,1,0
+1632,204,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,I,I,II,8,0,1
+1633,205,Técnicas Proyectivas UNC 4°,Resolución Grupal,22,M,19,V,C,VC,1,1,1
+1634,205,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,V,I,VI,2,1,1
+1635,205,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,I,C,IC,3,0,1
+1636,205,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,I,I,II,4,0,1
+1637,205,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,V,C,VC,5,1,1
+1638,205,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,V,I,VI,6,1,1
+1639,205,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,I,C,IC,7,1,0
+1640,205,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,I,I,II,8,0,1
+1641,206,Técnicas Proyectivas UNC 4°,Resolución Grupal,30,M,19,V,C,VC,1,1,1
+1642,206,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,V,I,VI,2,1,1
+1643,206,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,I,C,IC,3,0,1
+1644,206,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,I,I,II,4,0,1
+1645,206,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,V,C,VC,5,1,1
+1646,206,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,V,I,VI,6,1,1
+1647,206,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,I,C,IC,7,1,0
+1648,206,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,I,I,II,8,0,1
+1649,207,Técnicas Proyectivas UNC 4°,Resolución Grupal,23,F,19,V,C,VC,1,1,1
+1650,207,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,V,I,VI,2,1,1
+1651,207,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,I,C,IC,3,0,1
+1652,207,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,I,I,II,4,0,1
+1653,207,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,V,C,VC,5,1,1
+1654,207,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,V,I,VI,6,1,1
+1655,207,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,I,C,IC,7,1,0
+1656,207,Técnicas Proyectivas UNC 4°,Resolución Grupal, , ,19,I,I,II,8,0,1
+1657,208,Criminología Siglo 21 1°,Resolución Grupal,22,M,20,V,C,VC,1,1,1
+1658,208,Criminología Siglo 21 1°,Resolución Grupal, , ,20,V,I,VI,2,1,1
+1659,208,Criminología Siglo 21 1°,Resolución Grupal, , ,20,I,C,IC,3,1,0
+1660,208,Criminología Siglo 21 1°,Resolución Grupal, , ,20,I,I,II,4,0,1
+1661,208,Criminología Siglo 21 1°,Resolución Grupal, , ,20,V,C,VC,5,1,1
+1662,208,Criminología Siglo 21 1°,Resolución Grupal, , ,20,V,I,VI,6,1,1
+1663,208,Criminología Siglo 21 1°,Resolución Grupal, , ,20,I,C,IC,7,1,0
+1664,208,Criminología Siglo 21 1°,Resolución Grupal, , ,20,I,I,II,8,0,1
+1665,209,Criminología Siglo 21 1°,Resolución Grupal,19,M,20,V,C,VC,1,1,1
+1666,209,Criminología Siglo 21 1°,Resolución Grupal, , ,20,V,I,VI,2,1,1
+1667,209,Criminología Siglo 21 1°,Resolución Grupal, , ,20,I,C,IC,3,1,0
+1668,209,Criminología Siglo 21 1°,Resolución Grupal, , ,20,I,I,II,4,0,1
+1669,209,Criminología Siglo 21 1°,Resolución Grupal, , ,20,V,C,VC,5,1,1
+1670,209,Criminología Siglo 21 1°,Resolución Grupal, , ,20,V,I,VI,6,1,1
+1671,209,Criminología Siglo 21 1°,Resolución Grupal, , ,20,I,C,IC,7,1,0
+1672,209,Criminología Siglo 21 1°,Resolución Grupal, , ,20,I,I,II,8,0,1
+1673,210,Criminología Siglo 21 1°,Resolución Grupal,18,M,20,V,C,VC,1,1,1
+1674,210,Criminología Siglo 21 1°,Resolución Grupal, , ,20,V,I,VI,2,1,1
+1675,210,Criminología Siglo 21 1°,Resolución Grupal, , ,20,I,C,IC,3,1,0
+1676,210,Criminología Siglo 21 1°,Resolución Grupal, , ,20,I,I,II,4,0,1
+1677,210,Criminología Siglo 21 1°,Resolución Grupal, , ,20,V,C,VC,5,1,1
+1678,210,Criminología Siglo 21 1°,Resolución Grupal, , ,20,V,I,VI,6,1,1
+1679,210,Criminología Siglo 21 1°,Resolución Grupal, , ,20,I,C,IC,7,1,0
+1680,210,Criminología Siglo 21 1°,Resolución Grupal, , ,20,I,I,II,8,0,1
+1681,211,Criminología Siglo 21 1°,Resolución Grupal,19,F,20,V,C,VC,1,1,1
+1682,211,Criminología Siglo 21 1°,Resolución Grupal, , ,20,V,I,VI,2,1,1
+1683,211,Criminología Siglo 21 1°,Resolución Grupal, , ,20,I,C,IC,3,1,0
+1684,211,Criminología Siglo 21 1°,Resolución Grupal, , ,20,I,I,II,4,0,1
+1685,211,Criminología Siglo 21 1°,Resolución Grupal, , ,20,V,C,VC,5,1,1
+1686,211,Criminología Siglo 21 1°,Resolución Grupal, , ,20,V,I,VI,6,1,1
+1687,211,Criminología Siglo 21 1°,Resolución Grupal, , ,20,I,C,IC,7,1,0
+1688,211,Criminología Siglo 21 1°,Resolución Grupal, , ,20,I,I,II,8,0,1
+1689,212,Criminología Siglo 21 1°,Resolución Grupal,22,F,20,V,C,VC,1,1,1
+1690,212,Criminología Siglo 21 1°,Resolución Grupal, , ,20,V,I,VI,2,1,1
+1691,212,Criminología Siglo 21 1°,Resolución Grupal, , ,20,I,C,IC,3,1,0
+1692,212,Criminología Siglo 21 1°,Resolución Grupal, , ,20,I,I,II,4,0,1
+1693,212,Criminología Siglo 21 1°,Resolución Grupal, , ,20,V,C,VC,5,1,1
+1694,212,Criminología Siglo 21 1°,Resolución Grupal, , ,20,V,I,VI,6,1,1
+1695,212,Criminología Siglo 21 1°,Resolución Grupal, , ,20,I,C,IC,7,1,0
+1696,212,Criminología Siglo 21 1°,Resolución Grupal, , ,20,I,I,II,8,0,1
+1697,213,Criminología Siglo 21 1°,Resolución Grupal,19,F,21,V,C,VC,1,0,0
+1698,213,Criminología Siglo 21 1°,Resolución Grupal, , ,21,V,I,VI,2,0,0
+1699,213,Criminología Siglo 21 1°,Resolución Grupal, , ,21,I,C,IC,3,1,0
+1700,213,Criminología Siglo 21 1°,Resolución Grupal, , ,21,I,I,II,4,0,1
+1701,213,Criminología Siglo 21 1°,Resolución Grupal, , ,21,V,C,VC,5,1,1
+1702,213,Criminología Siglo 21 1°,Resolución Grupal, , ,21,V,I,VI,6,1,1
+1703,213,Criminología Siglo 21 1°,Resolución Grupal, , ,21,I,C,IC,7,1,0
+1704,213,Criminología Siglo 21 1°,Resolución Grupal, , ,21,I,I,II,8,0,1
+1705,214,Criminología Siglo 21 1°,Resolución Grupal,21,F,21,V,C,VC,1,0,0
+1706,214,Criminología Siglo 21 1°,Resolución Grupal, , ,21,V,I,VI,2,0,0
+1707,214,Criminología Siglo 21 1°,Resolución Grupal, , ,21,I,C,IC,3,1,0
+1708,214,Criminología Siglo 21 1°,Resolución Grupal, , ,21,I,I,II,4,0,1
+1709,214,Criminología Siglo 21 1°,Resolución Grupal, , ,21,V,C,VC,5,1,1
+1710,214,Criminología Siglo 21 1°,Resolución Grupal, , ,21,V,I,VI,6,1,1
+1711,214,Criminología Siglo 21 1°,Resolución Grupal, , ,21,I,C,IC,7,1,0
+1712,214,Criminología Siglo 21 1°,Resolución Grupal, , ,21,I,I,II,8,0,1
+1713,215,Criminología Siglo 21 1°,Resolución Grupal,18,F,21,V,C,VC,1,0,0
+1714,215,Criminología Siglo 21 1°,Resolución Grupal, , ,21,V,I,VI,2,0,0
+1715,215,Criminología Siglo 21 1°,Resolución Grupal, , ,21,I,C,IC,3,1,0
+1716,215,Criminología Siglo 21 1°,Resolución Grupal, , ,21,I,I,II,4,0,1
+1717,215,Criminología Siglo 21 1°,Resolución Grupal, , ,21,V,C,VC,5,1,1
+1718,215,Criminología Siglo 21 1°,Resolución Grupal, , ,21,V,I,VI,6,1,1
+1719,215,Criminología Siglo 21 1°,Resolución Grupal, , ,21,I,C,IC,7,1,0
+1720,215,Criminología Siglo 21 1°,Resolución Grupal, , ,21,I,I,II,8,0,1
+1721,216,Criminología Siglo 21 1°,Resolución Grupal,19,F,21,V,C,VC,1,0,0
+1722,216,Criminología Siglo 21 1°,Resolución Grupal, , ,21,V,I,VI,2,0,0
+1723,216,Criminología Siglo 21 1°,Resolución Grupal, , ,21,I,C,IC,3,1,0
+1724,216,Criminología Siglo 21 1°,Resolución Grupal, , ,21,I,I,II,4,0,1
+1725,216,Criminología Siglo 21 1°,Resolución Grupal, , ,21,V,C,VC,5,1,1
+1726,216,Criminología Siglo 21 1°,Resolución Grupal, , ,21,V,I,VI,6,1,1
+1727,216,Criminología Siglo 21 1°,Resolución Grupal, , ,21,I,C,IC,7,1,0
+1728,216,Criminología Siglo 21 1°,Resolución Grupal, , ,21,I,I,II,8,0,1
+1729,217,Criminología Siglo 21 1°,Resolución Grupal,18,F,21,V,C,VC,1,0,0
+1730,217,Criminología Siglo 21 1°,Resolución Grupal, , ,21,V,I,VI,2,0,0
+1731,217,Criminología Siglo 21 1°,Resolución Grupal, , ,21,I,C,IC,3,1,0
+1732,217,Criminología Siglo 21 1°,Resolución Grupal, , ,21,I,I,II,4,0,1
+1733,217,Criminología Siglo 21 1°,Resolución Grupal, , ,21,V,C,VC,5,1,1
+1734,217,Criminología Siglo 21 1°,Resolución Grupal, , ,21,V,I,VI,6,1,1
+1735,217,Criminología Siglo 21 1°,Resolución Grupal, , ,21,I,C,IC,7,1,0
+1736,217,Criminología Siglo 21 1°,Resolución Grupal, , ,21,I,I,II,8,0,1
+1737,218,Criminología Siglo 21 1°,Resolución Grupal,18,F,22,V,C,VC,1,1,1
+1738,218,Criminología Siglo 21 1°,Resolución Grupal, , ,22,V,I,VI,2,0,0
+1739,218,Criminología Siglo 21 1°,Resolución Grupal, , ,22,I,C,IC,3,0,1
+1740,218,Criminología Siglo 21 1°,Resolución Grupal, , ,22,I,I,II,4,0,1
+1741,218,Criminología Siglo 21 1°,Resolución Grupal, , ,22,V,C,VC,5,1,1
+1742,218,Criminología Siglo 21 1°,Resolución Grupal, , ,22,V,I,VI,6,1,1
+1743,218,Criminología Siglo 21 1°,Resolución Grupal, , ,22,I,C,IC,7,1,0
+1744,218,Criminología Siglo 21 1°,Resolución Grupal, , ,22,I,I,II,8,0,1
+1745,219,Criminología Siglo 21 1°,Resolución Grupal,19,F,22,V,C,VC,1,1,1
+1746,219,Criminología Siglo 21 1°,Resolución Grupal, , ,22,V,I,VI,2,0,0
+1747,219,Criminología Siglo 21 1°,Resolución Grupal, , ,22,I,C,IC,3,0,1
+1748,219,Criminología Siglo 21 1°,Resolución Grupal, , ,22,I,I,II,4,0,1
+1749,219,Criminología Siglo 21 1°,Resolución Grupal, , ,22,V,C,VC,5,1,1
+1750,219,Criminología Siglo 21 1°,Resolución Grupal, , ,22,V,I,VI,6,1,1
+1751,219,Criminología Siglo 21 1°,Resolución Grupal, , ,22,I,C,IC,7,1,0
+1752,219,Criminología Siglo 21 1°,Resolución Grupal, , ,22,I,I,II,8,0,1
+1753,220,Criminología Siglo 21 1°,Resolución Grupal,18,F,22,V,C,VC,1,1,1
+1754,220,Criminología Siglo 21 1°,Resolución Grupal, , ,22,V,I,VI,2,0,0
+1755,220,Criminología Siglo 21 1°,Resolución Grupal, , ,22,I,C,IC,3,0,1
+1756,220,Criminología Siglo 21 1°,Resolución Grupal, , ,22,I,I,II,4,0,1
+1757,220,Criminología Siglo 21 1°,Resolución Grupal, , ,22,V,C,VC,5,1,1
+1758,220,Criminología Siglo 21 1°,Resolución Grupal, , ,22,V,I,VI,6,1,1
+1759,220,Criminología Siglo 21 1°,Resolución Grupal, , ,22,I,C,IC,7,1,0
+1760,220,Criminología Siglo 21 1°,Resolución Grupal, , ,22,I,I,II,8,0,1
+1761,221,Criminología Siglo 21 1°,Resolución Grupal,18,F,22,V,C,VC,1,1,1
+1762,221,Criminología Siglo 21 1°,Resolución Grupal, , ,22,V,I,VI,2,0,0
+1763,221,Criminología Siglo 21 1°,Resolución Grupal, , ,22,I,C,IC,3,0,1
+1764,221,Criminología Siglo 21 1°,Resolución Grupal, , ,22,I,I,II,4,0,1
+1765,221,Criminología Siglo 21 1°,Resolución Grupal, , ,22,V,C,VC,5,1,1
+1766,221,Criminología Siglo 21 1°,Resolución Grupal, , ,22,V,I,VI,6,1,1
+1767,221,Criminología Siglo 21 1°,Resolución Grupal, , ,22,I,C,IC,7,1,0
+1768,221,Criminología Siglo 21 1°,Resolución Grupal, , ,22,I,I,II,8,0,1
+1769,222,Criminología Siglo 21 1°,Resolución Grupal,20,F,22,V,C,VC,1,1,1
+1770,222,Criminología Siglo 21 1°,Resolución Grupal, , ,22,V,I,VI,2,0,0
+1771,222,Criminología Siglo 21 1°,Resolución Grupal, , ,22,I,C,IC,3,0,1
+1772,222,Criminología Siglo 21 1°,Resolución Grupal, , ,22,I,I,II,4,0,1
+1773,222,Criminología Siglo 21 1°,Resolución Grupal, , ,22,V,C,VC,5,1,1
+1774,222,Criminología Siglo 21 1°,Resolución Grupal, , ,22,V,I,VI,6,1,1
+1775,222,Criminología Siglo 21 1°,Resolución Grupal, , ,22,I,C,IC,7,1,0
+1776,222,Criminología Siglo 21 1°,Resolución Grupal, , ,22,I,I,II,8,0,1
+1777,223,Criminología Siglo 21 1°,Resolución Grupal,19,M,23,V,C,VC,1,1,1
+1778,223,Criminología Siglo 21 1°,Resolución Grupal, , ,23,V,I,VI,2,1,1
+1779,223,Criminología Siglo 21 1°,Resolución Grupal, , ,23,I,C,IC,3,1,0
+1780,223,Criminología Siglo 21 1°,Resolución Grupal, , ,23,I,I,II,4,1,0
+1781,223,Criminología Siglo 21 1°,Resolución Grupal, , ,23,V,C,VC,5,1,1
+1782,223,Criminología Siglo 21 1°,Resolución Grupal, , ,23,V,I,VI,6,1,1
+1783,223,Criminología Siglo 21 1°,Resolución Grupal, , ,23,I,C,IC,7,0,1
+1784,223,Criminología Siglo 21 1°,Resolución Grupal, , ,23,I,I,II,8,0,1
+1785,224,Criminología Siglo 21 1°,Resolución Grupal,19,F,23,V,C,VC,1,1,1
+1786,224,Criminología Siglo 21 1°,Resolución Grupal, , ,23,V,I,VI,2,1,1
+1787,224,Criminología Siglo 21 1°,Resolución Grupal, , ,23,I,C,IC,3,1,0
+1788,224,Criminología Siglo 21 1°,Resolución Grupal, , ,23,I,I,II,4,1,0
+1789,224,Criminología Siglo 21 1°,Resolución Grupal, , ,23,V,C,VC,5,1,1
+1790,224,Criminología Siglo 21 1°,Resolución Grupal, , ,23,V,I,VI,6,1,1
+1791,224,Criminología Siglo 21 1°,Resolución Grupal, , ,23,I,C,IC,7,0,1
+1792,224,Criminología Siglo 21 1°,Resolución Grupal, , ,23,I,I,II,8,0,1
+1793,225,Criminología Siglo 21 1°,Resolución Grupal,22,F,23,V,C,VC,1,1,1
+1794,225,Criminología Siglo 21 1°,Resolución Grupal, , ,23,V,I,VI,2,1,1
+1795,225,Criminología Siglo 21 1°,Resolución Grupal, , ,23,I,C,IC,3,1,0
+1796,225,Criminología Siglo 21 1°,Resolución Grupal, , ,23,I,I,II,4,1,0
+1797,225,Criminología Siglo 21 1°,Resolución Grupal, , ,23,V,C,VC,5,1,1
+1798,225,Criminología Siglo 21 1°,Resolución Grupal, , ,23,V,I,VI,6,1,1
+1799,225,Criminología Siglo 21 1°,Resolución Grupal, , ,23,I,C,IC,7,0,1
+1800,225,Criminología Siglo 21 1°,Resolución Grupal, , ,23,I,I,II,8,0,1
+1801,226,Criminología Siglo 21 1°,Resolución Grupal,19,F,24,V,C,VC,1,1,1
+1802,226,Criminología Siglo 21 1°,Resolución Grupal, , ,24,V,I,VI,2,1,1
+1803,226,Criminología Siglo 21 1°,Resolución Grupal, , ,24,I,C,IC,3,0,1
+1804,226,Criminología Siglo 21 1°,Resolución Grupal, , ,24,I,I,II,4,1,0
+1805,226,Criminología Siglo 21 1°,Resolución Grupal, , ,24,V,C,VC,5,1,1
+1806,226,Criminología Siglo 21 1°,Resolución Grupal, , ,24,V,I,VI,6,1,1
+1807,226,Criminología Siglo 21 1°,Resolución Grupal, , ,24,I,C,IC,7,0,1
+1808,226,Criminología Siglo 21 1°,Resolución Grupal, , ,24,I,I,II,8,0,1
+1809,227,Criminología Siglo 21 1°,Resolución Grupal,19,F,24,V,C,VC,1,1,1
+1810,227,Criminología Siglo 21 1°,Resolución Grupal, , ,24,V,I,VI,2,1,1
+1811,227,Criminología Siglo 21 1°,Resolución Grupal, , ,24,I,C,IC,3,0,1
+1812,227,Criminología Siglo 21 1°,Resolución Grupal, , ,24,I,I,II,4,1,0
+1813,227,Criminología Siglo 21 1°,Resolución Grupal, , ,24,V,C,VC,5,1,1
+1814,227,Criminología Siglo 21 1°,Resolución Grupal, , ,24,V,I,VI,6,1,1
+1815,227,Criminología Siglo 21 1°,Resolución Grupal, , ,24,I,C,IC,7,0,1
+1816,227,Criminología Siglo 21 1°,Resolución Grupal, , ,24,I,I,II,8,0,1
+1817,228,Criminología Siglo 21 1°,Resolución Grupal,21,F,24,V,C,VC,1,1,1
+1818,228,Criminología Siglo 21 1°,Resolución Grupal, , ,24,V,I,VI,2,1,1
+1819,228,Criminología Siglo 21 1°,Resolución Grupal, , ,24,I,C,IC,3,0,1
+1820,228,Criminología Siglo 21 1°,Resolución Grupal, , ,24,I,I,II,4,1,0
+1821,228,Criminología Siglo 21 1°,Resolución Grupal, , ,24,V,C,VC,5,1,1
+1822,228,Criminología Siglo 21 1°,Resolución Grupal, , ,24,V,I,VI,6,1,1
+1823,228,Criminología Siglo 21 1°,Resolución Grupal, , ,24,I,C,IC,7,0,1
+1824,228,Criminología Siglo 21 1°,Resolución Grupal, , ,24,I,I,II,8,0,1
+1825,229,Criminología Siglo 21 1°,Resolución Grupal,19,F,24,V,C,VC,1,1,1
+1826,229,Criminología Siglo 21 1°,Resolución Grupal, , ,24,V,I,VI,2,1,1
+1827,229,Criminología Siglo 21 1°,Resolución Grupal, , ,24,I,C,IC,3,0,1
+1828,229,Criminología Siglo 21 1°,Resolución Grupal, , ,24,I,I,II,4,1,0
+1829,229,Criminología Siglo 21 1°,Resolución Grupal, , ,24,V,C,VC,5,1,1
+1830,229,Criminología Siglo 21 1°,Resolución Grupal, , ,24,V,I,VI,6,1,1
+1831,229,Criminología Siglo 21 1°,Resolución Grupal, , ,24,I,C,IC,7,0,1
+1832,229,Criminología Siglo 21 1°,Resolución Grupal, , ,24,I,I,II,8,0,1
+1833,230,Criminología Siglo 21 1°,Resolución Grupal,19,F,24,V,C,VC,1,1,1
+1834,230,Criminología Siglo 21 1°,Resolución Grupal, , ,24,V,I,VI,2,1,1
+1835,230,Criminología Siglo 21 1°,Resolución Grupal, , ,24,I,C,IC,3,0,1
+1836,230,Criminología Siglo 21 1°,Resolución Grupal, , ,24,I,I,II,4,1,0
+1837,230,Criminología Siglo 21 1°,Resolución Grupal, , ,24,V,C,VC,5,1,1
+1838,230,Criminología Siglo 21 1°,Resolución Grupal, , ,24,V,I,VI,6,1,1
+1839,230,Criminología Siglo 21 1°,Resolución Grupal, , ,24,I,C,IC,7,0,1
+1840,230,Criminología Siglo 21 1°,Resolución Grupal, , ,24,I,I,II,8,0,1
+1841,231,Criminología Siglo 21 1°,Resolución Grupal,30,F,25,V,C,VC,1,1,1
+1842,231,Criminología Siglo 21 1°,Resolución Grupal, , ,25,V,I,VI,2,1,1
+1843,231,Criminología Siglo 21 1°,Resolución Grupal, , ,25,I,C,IC,3,1,0
+1844,231,Criminología Siglo 21 1°,Resolución Grupal, , ,25,I,I,II,4,1,0
+1845,231,Criminología Siglo 21 1°,Resolución Grupal, , ,25,V,C,VC,5,1,1
+1846,231,Criminología Siglo 21 1°,Resolución Grupal, , ,25,V,I,VI,6,1,1
+1847,231,Criminología Siglo 21 1°,Resolución Grupal, , ,25,I,C,IC,7,1,0
+1848,231,Criminología Siglo 21 1°,Resolución Grupal, , ,25,I,I,II,8,0,1
+1849,232,Criminología Siglo 21 1°,Resolución Grupal,18,F,25,V,C,VC,1,1,1
+1850,232,Criminología Siglo 21 1°,Resolución Grupal, , ,25,V,I,VI,2,1,1
+1851,232,Criminología Siglo 21 1°,Resolución Grupal, , ,25,I,C,IC,3,1,0
+1852,232,Criminología Siglo 21 1°,Resolución Grupal, , ,25,I,I,II,4,1,0
+1853,232,Criminología Siglo 21 1°,Resolución Grupal, , ,25,V,C,VC,5,1,1
+1854,232,Criminología Siglo 21 1°,Resolución Grupal, , ,25,V,I,VI,6,1,1
+1855,232,Criminología Siglo 21 1°,Resolución Grupal, , ,25,I,C,IC,7,1,0
+1856,232,Criminología Siglo 21 1°,Resolución Grupal, , ,25,I,I,II,8,0,1
+1857,233,Criminología Siglo 21 1°,Resolución Grupal,19,M,25,V,C,VC,1,1,1
+1858,233,Criminología Siglo 21 1°,Resolución Grupal, , ,25,V,I,VI,2,1,1
+1859,233,Criminología Siglo 21 1°,Resolución Grupal, , ,25,I,C,IC,3,1,0
+1860,233,Criminología Siglo 21 1°,Resolución Grupal, , ,25,I,I,II,4,1,0
+1861,233,Criminología Siglo 21 1°,Resolución Grupal, , ,25,V,C,VC,5,1,1
+1862,233,Criminología Siglo 21 1°,Resolución Grupal, , ,25,V,I,VI,6,1,1
+1863,233,Criminología Siglo 21 1°,Resolución Grupal, , ,25,I,C,IC,7,1,0
+1864,233,Criminología Siglo 21 1°,Resolución Grupal, , ,25,I,I,II,8,0,1
+1865,234,Criminología Siglo 21 1°,Resolución Grupal,19,F,25,V,C,VC,1,1,1
+1866,234,Criminología Siglo 21 1°,Resolución Grupal, , ,25,V,I,VI,2,1,1
+1867,234,Criminología Siglo 21 1°,Resolución Grupal, , ,25,I,C,IC,3,1,0
+1868,234,Criminología Siglo 21 1°,Resolución Grupal, , ,25,I,I,II,4,1,0
+1869,234,Criminología Siglo 21 1°,Resolución Grupal, , ,25,V,C,VC,5,1,1
+1870,234,Criminología Siglo 21 1°,Resolución Grupal, , ,25,V,I,VI,6,1,1
+1871,234,Criminología Siglo 21 1°,Resolución Grupal, , ,25,I,C,IC,7,1,0
+1872,234,Criminología Siglo 21 1°,Resolución Grupal, , ,25,I,I,II,8,0,1
+1873,235,Criminología Siglo 21 1°,Resolución Grupal,18,F,25,V,C,VC,1,1,1
+1874,235,Criminología Siglo 21 1°,Resolución Grupal, , ,25,V,I,VI,2,1,1
+1875,235,Criminología Siglo 21 1°,Resolución Grupal, , ,25,I,C,IC,3,1,0
+1876,235,Criminología Siglo 21 1°,Resolución Grupal, , ,25,I,I,II,4,1,0
+1877,235,Criminología Siglo 21 1°,Resolución Grupal, , ,25,V,C,VC,5,1,1
+1878,235,Criminología Siglo 21 1°,Resolución Grupal, , ,25,V,I,VI,6,1,1
+1879,235,Criminología Siglo 21 1°,Resolución Grupal, , ,25,I,C,IC,7,1,0
+1880,235,Criminología Siglo 21 1°,Resolución Grupal, , ,25,I,I,II,8,0,1
+1881,236,Criminología Siglo 21 1°,Resolución Grupal,18,F,26,V,C,VC,1,1,1
+1882,236,Criminología Siglo 21 1°,Resolución Grupal, , ,26,V,I,VI,2,0,0
+1883,236,Criminología Siglo 21 1°,Resolución Grupal, , ,26,I,C,IC,3,1,0
+1884,236,Criminología Siglo 21 1°,Resolución Grupal, , ,26,I,I,II,4,0,1
+1885,236,Criminología Siglo 21 1°,Resolución Grupal, , ,26,V,C,VC,5,1,1
+1886,236,Criminología Siglo 21 1°,Resolución Grupal, , ,26,V,I,VI,6,0,0
+1887,236,Criminología Siglo 21 1°,Resolución Grupal, , ,26,I,C,IC,7,1,0
+1888,236,Criminología Siglo 21 1°,Resolución Grupal, , ,26,I,I,II,8,0,1
+1889,237,Criminología Siglo 21 1°,Resolución Grupal,18,F,26,V,C,VC,1,1,1
+1890,237,Criminología Siglo 21 1°,Resolución Grupal, , ,26,V,I,VI,2,0,0
+1891,237,Criminología Siglo 21 1°,Resolución Grupal, , ,26,I,C,IC,3,1,0
+1892,237,Criminología Siglo 21 1°,Resolución Grupal, , ,26,I,I,II,4,0,1
+1893,237,Criminología Siglo 21 1°,Resolución Grupal, , ,26,V,C,VC,5,1,1
+1894,237,Criminología Siglo 21 1°,Resolución Grupal, , ,26,V,I,VI,6,0,0
+1895,237,Criminología Siglo 21 1°,Resolución Grupal, , ,26,I,C,IC,7,1,0
+1896,237,Criminología Siglo 21 1°,Resolución Grupal, , ,26,I,I,II,8,0,1
+1897,238,Criminología Siglo 21 1°,Resolución Grupal,18,F,26,V,C,VC,1,1,1
+1898,238,Criminología Siglo 21 1°,Resolución Grupal, , ,26,V,I,VI,2,0,0
+1899,238,Criminología Siglo 21 1°,Resolución Grupal, , ,26,I,C,IC,3,1,0
+1900,238,Criminología Siglo 21 1°,Resolución Grupal, , ,26,I,I,II,4,0,1
+1901,238,Criminología Siglo 21 1°,Resolución Grupal, , ,26,V,C,VC,5,1,1
+1902,238,Criminología Siglo 21 1°,Resolución Grupal, , ,26,V,I,VI,6,0,0
+1903,238,Criminología Siglo 21 1°,Resolución Grupal, , ,26,I,C,IC,7,1,0
+1904,238,Criminología Siglo 21 1°,Resolución Grupal, , ,26,I,I,II,8,0,1
+1905,239,Criminología Siglo 21 1°,Resolución Grupal,18,F,26,V,C,VC,1,1,1
+1906,239,Criminología Siglo 21 1°,Resolución Grupal, , ,26,V,I,VI,2,0,0
+1907,239,Criminología Siglo 21 1°,Resolución Grupal, , ,26,I,C,IC,3,1,0
+1908,239,Criminología Siglo 21 1°,Resolución Grupal, , ,26,I,I,II,4,0,1
+1909,239,Criminología Siglo 21 1°,Resolución Grupal, , ,26,V,C,VC,5,1,1
+1910,239,Criminología Siglo 21 1°,Resolución Grupal, , ,26,V,I,VI,6,0,0
+1911,239,Criminología Siglo 21 1°,Resolución Grupal, , ,26,I,C,IC,7,1,0
+1912,239,Criminología Siglo 21 1°,Resolución Grupal, , ,26,I,I,II,8,0,1
