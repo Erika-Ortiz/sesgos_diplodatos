@@ -1,6 +1,6 @@
-# ¡Bienvenidos a la mentoría "Sesgos Cognitivos en Razonamientos Lógicos"! 
+# ¡Bienvenidos a la mentoría *Sesgos Cognitivos en Razonamientos Lógicos*! 
 
-**Mentora**: Lic. Erika R. Ortiz
+**Mentora**: Lic. Erika R. Ortiz <br>
 **email**: erikarortiz@gmail.com 
 
 
