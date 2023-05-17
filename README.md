@@ -1,4 +1,9 @@
 # ¡Bienvenidos a la mentoría "Sesgos Cognitivos en Razonamientos Lógicos"! 
+
+**Mentora**: Lic. Erika R. Ortiz
+**email**: erikarortiz@gmail.com 
+
+
 <br>
 En este proyecto, nos adentraremos en un tema que ha despertado gran interés en diferentes disciplinas: la influencia del conocimiento previo y sus efectos en el razonamiento lógico. Focalizaremos en el denominado "sesgo de creencia", caracterizado como la tendencia sistemática a evaluar la validez lógica de un argumento en función de la credibilidad de su conclusión. Es decir, tenemos la inclinación aceptar aquellos argumentos con conclusiones creíbles y a rechazar aquellos con conclusiones increíbles, sin importar la forma lógica de los argumentos en sí. <br>
 <br></br>
