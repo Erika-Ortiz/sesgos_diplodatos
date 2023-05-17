@@ -91,7 +91,8 @@ Prestaremos especial atención a:<br>
 - Trabajaremos en la identificación de *outliers*, imputación de valores faltantes, conversión de datos categóricos, etc.
 - Una actividad destacada será la creación de una columna llamada "índice de creencia", que será nuestra variable a predecir en el siguiente práctico ☺
 
-**Entrega 27/07 - Video de presentación intermedia del proyecto y dataset**
+**Entrega 27/07 - Video de presentación intermedia del proyecto y dataset**<br>
+
 **Entrega 11/09 - Práctico 3 de aprendizaje supervisado**, que consistirá en aplicar algoritmos de regresión de aprendizaje supervisado para predecir los índices de creencias en razonamientos lógicos y detectar posibles sesgos.
 - Comenzaremos utilizando un modelo base (*baseline model*) como referencia para comparar con otros modelos en la resolución de nuestro problema.
 - Realizaremos optimización de hiperpárametros utilizando técnicas como grid search y random search.
