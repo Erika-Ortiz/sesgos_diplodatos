@@ -1,0 +1,585 @@
+Participante,Modalidad,Edad,Género,Grupo,Validez_sil1,Validez_sil2,Validez_sil3,Validez_sil4,Validez_sil5,Validez_sil6,Validez_sil7,Validez_sil8,Creencia_sil1,Creencia_sil2,Creencia_sil3,Creencia_sil4,Creencia_sil5,Creencia_sil6,Creencia_sil7,Creencia_sil8,ValidezxCreencia_sil1,ValidezxCreencia_sil2,ValidezxCreencia_sil3,ValidezxCreencia_sil4,ValidezxCreencia_sil5,ValidezxCreencia_sil6,ValidezxCreencia_sil7,ValidezxCreencia_sil8,Aceptación_sil1,Aceptación_sil2,Aceptación_sil3,Aceptación_sil4,Aceptación_sil5,Aceptación_sil6,Aceptación_sil7,Aceptación_sil8,Correctas_sil1,Correctas_sil2,Correctas_sil3,Correctas_sil4,Correctas_sil5,Correctas_sil6,Correctas_sil7,Correctas_sil8,indice_creencia_norm
+1,Resolución Individual,18,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+2,Resolución Individual,23,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+3,Resolución Individual,20,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,0,0,1,0,1,0,1,1,0,0,0,1,0.5
+4,Resolución Individual,25,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+5,Resolución Individual,20,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0.5
+6,Resolución Individual,23,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,0,0,1,1,0,1,1,1,1,1,0.25
+7,Resolución Individual,24,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,0,1,1,0,1,1,1,0,1,0,0.25
+8,Resolución Individual,27,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,0,0,1,0,0,1,1,0,1,1,0.75
+9,Resolución Individual,19,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,1,1,0,1,1,1,1,1,0,1,0,0,0,0.0
+10,Resolución Individual,32,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,0,0,1,1,0,1,1,1,1,1,0.25
+11,Resolución Individual,23,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+12,Resolución Individual,22,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+13,Resolución Individual,19,O,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+14,Resolución Individual,36,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,0,0,1,1,0,0,0,0,1,1,1,1,1,1,0.0
+15,Resolución Individual,19,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+16,Resolución Individual,47,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,0,1,1,0,0,1,1,1,1,0,0.25
+17,Resolución Individual,57,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,0.5
+18,Resolución Individual,18,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,0,0,0,1,1,0,1,1,0,1,1,0.5
+19,Resolución Individual,18,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,1,0,1,1,1,0,0,1,0,1,1,1,0,1,0.25
+20,Resolución Individual,19,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+21,Resolución Individual,26,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+22,Resolución Individual,19,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+23,Resolución Individual,19,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,0,0,1,0,0,1,1,1,1,1,0.5
+24,Resolución Individual,20,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,1,0,1,0,0,1,1,0,0,1,1.0
+25,Resolución Individual,20,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,0,0,1,0,1,1,1,1,0,0,0,1,0.25
+26,Resolución Individual,19,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,1,1,0,0,1,1,1,1,1,0,1,0.0
+27,Resolución Individual,18,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,-0.25
+28,Resolución Individual,26,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+29,Resolución Individual,19,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,1,1,1,0,0,1,0,1,0,1,1,1,1,0.0
+30,Resolución Individual,30,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,0,0,0,1,1,0,1,1,0,1,1,0.5
+31,Resolución Individual,20,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+32,Resolución Individual,35,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+33,Resolución Individual,18,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,1,0,1,0,0,1,1,0,0,1,1.0
+34,Resolución Individual,20,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,1,0,1,0,1,0,0,0,0,1,1,0,0,1,0.75
+35,Resolución Individual,25,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,0,0,1,0,0,1,1,0,1,1,0.75
+36,Resolución Individual,23,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,0.5
+37,Resolución Individual,29,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,0,1,1,0,1,1,1,0,1,0,0.25
+38,Resolución Individual,22,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,0,0,0,0,1,1,1,1,0,0,1,1,0.0
+39,Resolución Individual,21,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,1,0.25
+40,Resolución Individual,20,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+41,Resolución Individual,22,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,0,1,1,0,0,1,1,0,1,0.25
+42,Resolución Individual,20,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+43,Resolución Individual,20,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,1,1,1,1,0,0,1,1,0,1,1,0,1,-0.25
+44,Resolución Individual,22,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,0,0,1,0,0,1,1,0,1,1,0.75
+45,Resolución Individual,21,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0.0
+46,Resolución Individual,24,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,1,1,1,0,0,0,1,1,0,1,1,1,1,-0.5
+47,Resolución Individual,20,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+48,Resolución Individual,22,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+49,Resolución Individual,20,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,0,0,0,1,1,1,1,1,0,1,1,0.25
+50,Resolución Individual,23,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,0.5
+51,Resolución Individual,23,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,0,0,1,0,0,1,1,1,0,0,0,1,0.0
+52,Resolución Individual,23,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0.25
+53,Resolución Individual,21,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,0,0,1,0,1,1,1,1,1,1,0.25
+54,Resolución Individual,22,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,0.5
+55,Resolución Individual,28,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0.5
+56,Resolución Individual,51,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,1,0,1,0,1,0,1,1,0,0,1,1,0,-1.0
+57,Resolución Individual,23,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,0,0,0,1,1,1,1,1,0,1,1,0.25
+58,Resolución Individual,21,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,1,1,0,1,1,1,0,1,0,1,0,0,0,0.25
+59,Resolución Individual,20,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+60,Resolución Individual,22,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+61,Resolución Individual,21,O,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,0,1,0,0,1,1,1,1,0,1,1,1,-0.25
+62,Resolución Individual,21,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,0.5
+63,Resolución Individual,37,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,1,1,1,0,1,1,1,1,0,0,0.25
+64,Resolución Individual,20,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,0,0,1,1,0,1,1,1,1,1,0.25
+65,Resolución Individual,21,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0.75
+66,Resolución Individual,20,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,0,0,1,0,1,0,0,0,1,1,1,0,0,1,0.5
+67,Resolución Individual,20,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,0,0,0,0,1,0,1,1,0,0,1,1,0.25
+68,Resolución Individual,21,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,0,1,0,0,1,0,0,1,0,1,1,1,0.25
+69,Resolución Individual,24,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,0,0,1,1,0,1,1,1,1,1,0.25
+70,Resolución Individual,24,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,0.75
+71,Resolución Individual,23,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+72,Resolución Individual,21,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+73,Resolución Individual,22,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+74,Resolución Individual,20,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+75,Resolución Individual,22,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0.5
+76,Resolución Individual,20,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,0,1,1,0,1,1,1,1,1,0,0.0
+77,Resolución Individual,23,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+78,Resolución Individual,58,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0.5
+79,Resolución Individual,23,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0.5
+80,Resolución Individual,22,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+81,Resolución Individual,21,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+82,Resolución Individual,23,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,0,0,1,1,1,0,0,0,1,1,1,1,0,1,0.25
+83,Resolución Individual,22,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,1,1,1,0,0,1,1,1,0,0,0.5
+84,Resolución Individual,32,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,-0.25
+85,Resolución Individual,27,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,0,0,1,0,1,0,1,1,0,0,0,1,0.5
+86,Resolución Individual,20,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+87,Resolución Individual,24,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,0.5
+88,Resolución Individual,22,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,-0.25
+89,Resolución Individual,21,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,0.5
+90,Resolución Individual,22,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0.5
+91,Resolución Individual,22,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,1,0,1,0,0,1,1,0,0,1,1.0
+92,Resolución Individual,21,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+93,Resolución Individual,39,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+94,Resolución Individual,21,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+95,Resolución Individual,21,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,0,0,0,0,1,1,1,1,0,0,1,1,0.0
+96,Resolución Individual,20,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+97,Resolución Individual,24,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,0.5
+98,Resolución Individual,52,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,0,0,1,0,0,1,1,0,1,1,0.75
+99,Resolución Individual,22,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+100,Resolución Individual,22,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+101,Resolución Individual,21,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,0,1,1,1,1,0,0,1,0,0,0,0.25
+102,Resolución Individual,23,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,0,1,0,1,1,0,1,1,0,0,1,0.75
+103,Resolución Individual,21,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,1,1,1,0,1,1,1,1,0,0,0.25
+104,Resolución Individual,23,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,0,1,0,0,1,1,1,1,0,0,1,0.25
+105,Resolución Individual,22,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,1,1,0,1,0,1,0,1,0,1,0,0,1,0.5
+106,Resolución Individual,22,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,1,0,1,0,0,1,1,0,0,1,1.0
+107,Resolución Individual,22,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,1,0,1,1,0,0,0,0,0,1,1,1,1,1,0.25
+108,Resolución Individual,21,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,0,0,1,0,1,1,1,1,1,1,0.25
+109,Resolución Individual,22,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,1,0,1,0,0,1,1,0,0,1,1.0
+110,Resolución Individual,24,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,1,0,1,0,0,1,0,1,0,0,1,1,1,-0.25
+111,Resolución Individual,21,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,0.5
+112,Resolución Individual,23,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,0,0,1,0,1,1,1,1,1,1,0.25
+113,Resolución Individual,22,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,1,1,1,0,0,1,1,1,0,1,1,1,1,-0.25
+114,Resolución Individual,21,M,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,1,1,1,0,1,1,1,1,0,0,0.25
+115,Resolución Individual,22,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+116,Resolución Individual,21,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+117,Resolución Individual,22,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,1,0,1,0,1,0,0,0,0,1,1,0,0,1,0.75
+118,Resolución Individual,23,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,1,1,1,0,0,0,1,1,0,1,1,1,1,-0.5
+119,Resolución Individual,23,F,0,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,0.5
+120,Resolución Grupal,20,F,1,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,0,1,1,0,0,1,1,0,1,0.25
+121,Resolución Grupal,22,F,1,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,0,1,1,0,0,1,1,0,1,0.25
+122,Resolución Grupal,24,F,1,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,0,1,1,0,0,1,1,0,1,0.25
+123,Resolución Grupal,21,F,1,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,0,1,1,0,0,1,1,0,1,0.25
+124,Resolución Grupal,20,M,1,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,0,1,1,0,0,1,1,0,1,0.25
+125,Resolución Grupal,21,F,2,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,0,0,1,0,0,1,1,0,1,1,0.75
+126,Resolución Grupal,20,F,2,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,0,0,1,0,0,1,1,0,1,1,0.75
+127,Resolución Grupal,21,F,2,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,0,0,1,0,0,1,1,0,1,1,0.75
+128,Resolución Grupal,21,F,2,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,0,0,1,0,0,1,1,0,1,1,0.75
+129,Resolución Grupal,23,M,2,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,0,0,1,0,0,1,1,0,1,1,0.75
+130,Resolución Grupal,20,F,3,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+131,Resolución Grupal,22,F,3,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+132,Resolución Grupal,20,F,3,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+133,Resolución Grupal,21,F,3,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+134,Resolución Grupal,22,F,3,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+135,Resolución Grupal,20,F,4,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,1,0,1,0,0,1,1,0,0,1,1.0
+136,Resolución Grupal,23,F,4,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,1,0,1,0,0,1,1,0,0,1,1.0
+137,Resolución Grupal,22,F,4,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,1,0,1,0,0,1,1,0,0,1,1.0
+138,Resolución Grupal,20,F,4,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,1,0,1,0,0,1,1,0,0,1,1.0
+139,Resolución Grupal,27,F,5,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+140,Resolución Grupal,18,F,5,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+141,Resolución Grupal,22,F,5,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+142,Resolución Grupal,21,F,5,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+143,Resolución Grupal,19,F,5,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+144,Resolución Grupal,26,F,6,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+145,Resolución Grupal,23,F,6,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+146,Resolución Grupal,21,F,6,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+147,Resolución Grupal,24,M,6,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+148,Resolución Grupal,20,F,6,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+149,Resolución Grupal,21,F,7,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+150,Resolución Grupal,20,F,7,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+151,Resolución Grupal,22,F,7,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+152,Resolución Grupal,25,F,7,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+153,Resolución Grupal,24,F,7,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+154,Resolución Grupal,23,M,8,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0.5
+155,Resolución Grupal,21,F,8,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0.5
+156,Resolución Grupal,23,F,8,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0.5
+157,Resolución Grupal,22,F,8,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0.5
+158,Resolución Grupal,25,F,8,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0.5
+159,Resolución Grupal,33,M,9,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,1,1,1,0,1,1,1,1,1,0,0,-0.25
+160,Resolución Grupal,29,F,9,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,1,1,1,0,1,1,1,1,1,0,0,-0.25
+161,Resolución Grupal,26,F,9,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,1,1,1,0,1,1,1,1,1,0,0,-0.25
+162,Resolución Grupal,26,F,9,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,1,1,1,0,1,1,1,1,1,0,0,-0.25
+163,Resolución Grupal,45,F,10,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,1,1,0,0,1,1,1,1,1,0,1,0.0
+164,Resolución Grupal,27,M,10,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,1,1,0,0,1,1,1,1,1,0,1,0.0
+165,Resolución Grupal,31,M,10,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,1,1,0,0,1,1,1,1,1,0,1,0.0
+166,Resolución Grupal,24,M,10,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,1,1,0,0,1,1,1,1,1,0,1,0.0
+167,Resolución Grupal,25,F,11,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+168,Resolución Grupal,27,M,11,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+169,Resolución Grupal,29,F,11,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+170,Resolución Grupal,31,F,11,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+171,Resolución Grupal,23,F,12,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,1,0,1,0,0,1,1,1,0,1,0.75
+172,Resolución Grupal,41,F,12,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,1,0,1,0,0,1,1,1,0,1,0.75
+173,Resolución Grupal,22,M,12,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,1,0,1,0,0,1,1,1,0,1,0.75
+174,Resolución Grupal,23,M,12,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,1,0,1,0,0,1,1,1,0,1,0.75
+175,Resolución Grupal,24,F,12,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,1,0,1,0,0,1,1,1,0,1,0.75
+176,Resolución Grupal,22,F,13,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,0,0,1,1,0,1,1,1,1,1,0.25
+177,Resolución Grupal,21,F,13,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,0,0,1,1,0,1,1,1,1,1,0.25
+178,Resolución Grupal,21,F,13,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,0,0,1,1,0,1,1,1,1,1,0.25
+179,Resolución Grupal,21,M,13,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,0,0,1,1,0,1,1,1,1,1,0.25
+180,Resolución Grupal,21,F,13,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,0,0,1,1,0,1,1,1,1,1,0.25
+181,Resolución Grupal,22,F,14,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+182,Resolución Grupal,24,F,14,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+183,Resolución Grupal,23,F,14,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+184,Resolución Grupal,23,F,14,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+185,Resolución Grupal,41,F,15,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+186,Resolución Grupal,39,M,15,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+187,Resolución Grupal,37,F,15,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+188,Resolución Grupal,22,F,15,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+189,Resolución Grupal,21,F,15,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+190,Resolución Grupal,24,F,16,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+191,Resolución Grupal,23,F,16,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+192,Resolución Grupal,26,F,16,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+193,Resolución Grupal,22,F,16,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+194,Resolución Grupal,21,F,16,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+195,Resolución Grupal,24,F,17,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+196,Resolución Grupal,21,F,17,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+197,Resolución Grupal,29,F,17,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+198,Resolución Grupal,22,M,18,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+199,Resolución Grupal,22,F,18,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+200,Resolución Grupal,28,M,18,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+201,Resolución Grupal,23,M,18,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+202,Resolución Grupal,21,F,18,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+203,Resolución Grupal,22,F,19,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+204,Resolución Grupal,28,F,19,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+205,Resolución Grupal,22,M,19,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+206,Resolución Grupal,30,M,19,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+207,Resolución Grupal,23,F,19,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+208,Resolución Grupal,22,M,20,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+209,Resolución Grupal,19,M,20,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+210,Resolución Grupal,18,M,20,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+211,Resolución Grupal,19,F,20,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+212,Resolución Grupal,22,F,20,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+213,Resolución Grupal,19,F,21,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,1,0,1,1,1,0,0,0,0,1,1,1,0,1,0.5
+214,Resolución Grupal,21,F,21,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,1,0,1,1,1,0,0,0,0,1,1,1,0,1,0.5
+215,Resolución Grupal,18,F,21,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,1,0,1,1,1,0,0,0,0,1,1,1,0,1,0.5
+216,Resolución Grupal,19,F,21,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,1,0,1,1,1,0,0,0,0,1,1,1,0,1,0.5
+217,Resolución Grupal,18,F,21,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,1,0,1,1,1,0,0,0,0,1,1,1,0,1,0.5
+218,Resolución Grupal,18,F,22,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0.5
+219,Resolución Grupal,19,F,22,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0.5
+220,Resolución Grupal,18,F,22,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0.5
+221,Resolución Grupal,18,F,22,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0.5
+222,Resolución Grupal,20,F,22,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0.5
+223,Resolución Grupal,19,M,23,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,0,0,1,1,0,0,1,1,1,1,0.0
+224,Resolución Grupal,19,F,23,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,0,0,1,1,0,0,1,1,1,1,0.0
+225,Resolución Grupal,22,F,23,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,0,0,1,1,0,0,1,1,1,1,0.0
+226,Resolución Grupal,19,F,24,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,1,1,1,0,0,1,1,1,0,1,1,1,1,-0.25
+227,Resolución Grupal,19,F,24,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,1,1,1,0,0,1,1,1,0,1,1,1,1,-0.25
+228,Resolución Grupal,21,F,24,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,1,1,1,0,0,1,1,1,0,1,1,1,1,-0.25
+229,Resolución Grupal,19,F,24,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,1,1,1,0,0,1,1,1,0,1,1,1,1,-0.25
+230,Resolución Grupal,19,F,24,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,1,1,1,0,0,1,1,1,0,1,1,1,1,-0.25
+231,Resolución Grupal,30,F,25,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,0,1,1,0,0,1,1,0,1,0.25
+232,Resolución Grupal,18,F,25,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,0,1,1,0,0,1,1,0,1,0.25
+233,Resolución Grupal,19,M,25,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,0,1,1,0,0,1,1,0,1,0.25
+234,Resolución Grupal,19,F,25,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,0,1,1,0,0,1,1,0,1,0.25
+235,Resolución Grupal,18,F,25,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,0,1,1,0,0,1,1,0,1,0.25
+236,Resolución Grupal,18,F,26,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,1,0,1,0,0,1,1,0,0,1,1.0
+237,Resolución Grupal,18,F,26,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,1,0,1,0,0,1,1,0,0,1,1.0
+238,Resolución Grupal,18,F,26,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,1,0,1,0,0,1,1,0,0,1,1.0
+239,Resolución Grupal,18,F,26,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,1,0,1,0,0,1,1,0,0,1,1.0
+240,Grupal entre sujetos,19,F,27,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+240,Resolución Individual Post,19,F,27,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+240,Resolución Individual Pre,19,F,27,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+241,Grupal entre sujetos,19,F,27,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+241,Resolución Individual Post,19,F,27,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+241,Resolución Individual Pre,19,F,27,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,1,1,0,0,1,1,1,1,1,0,1,0.0
+242,Grupal entre sujetos,19,F,27,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+242,Resolución Individual Post,19,F,27,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+242,Resolución Individual Pre,19,F,27,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,1,0,0,1,0,0,0,1,0,1,0,1,1,1,-0.25
+243,Grupal entre sujetos,19,F,27,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+243,Resolución Individual Post,19,F,27,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+243,Resolución Individual Pre,19,F,27,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+244,Grupal entre sujetos,19,M,27,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+244,Resolución Individual Post,19,M,27,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+244,Resolución Individual Pre,19,M,27,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,1,0,1,1,1,0,0,1,0,1,1,1,0,1,0.25
+245,Grupal entre sujetos,19,O,28,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+245,Resolución Individual Post,19,O,28,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+245,Resolución Individual Pre,19,O,28,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+246,Grupal entre sujetos,19,F,28,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+246,Resolución Individual Post,19,F,28,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+246,Resolución Individual Pre,19,F,28,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,0,1,0,1,1,0,1,1,0,0,1,0.75
+247,Grupal entre sujetos,19,F,28,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+247,Resolución Individual Post,19,F,28,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+247,Resolución Individual Pre,19,F,28,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+248,Grupal entre sujetos,21,M,28,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+248,Resolución Individual Post,21,M,28,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,1,1,1,0,0,1,1,1,0,1,1,1,1,-0.25
+248,Resolución Individual Pre,21,M,28,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,1,0,1,0,1,0,0,0,0,1,1,0,0,1,0.75
+249,Grupal entre sujetos,19,F,28,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+249,Resolución Individual Post,19,F,28,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0.5
+249,Resolución Individual Pre,19,F,28,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+250,Grupal entre sujetos,19,F,29,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,1,0,1,1,1,0,0,1,0,1,1,1,0,1,0.25
+250,Resolución Individual Post,19,F,29,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,1,0,1,1,1,0,0,1,0,1,1,1,0,1,0.25
+250,Resolución Individual Pre,19,F,29,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+251,Grupal entre sujetos,20,F,29,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,1,0,1,1,1,0,0,1,0,1,1,1,0,1,0.25
+251,Resolución Individual Post,20,F,29,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,1,0,1,1,1,0,0,1,0,1,1,1,0,1,0.25
+251,Resolución Individual Pre,20,F,29,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,-0.25
+252,Grupal entre sujetos,19,F,29,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,1,0,1,1,1,0,0,1,0,1,1,1,0,1,0.25
+252,Resolución Individual Post,19,F,29,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,1,0,1,1,1,0,0,1,0,1,1,1,0,1,0.25
+252,Resolución Individual Pre,19,F,29,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,-0.25
+253,Grupal entre sujetos,19,F,29,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,1,0,1,1,1,0,0,1,0,1,1,1,0,1,0.25
+253,Resolución Individual Post,19,F,29,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,1,0,1,1,1,0,0,1,0,1,1,1,0,1,0.25
+253,Resolución Individual Pre,19,F,29,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,0,0,1,1,1,0,0,0,1,1,1,1,0,1,0.25
+254,Grupal entre sujetos,21,F,29,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,1,0,1,1,1,0,0,1,0,1,1,1,0,1,0.25
+254,Resolución Individual Post,21,F,29,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,1,0,1,1,1,0,0,1,0,1,1,1,0,1,0.25
+254,Resolución Individual Pre,21,F,29,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,1,0,1,1,1,0,0,0,0,1,1,1,0,1,0.5
+255,Grupal entre sujetos,19,F,30,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,0.5
+255,Resolución Individual Post,19,F,30,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,0,1,0,1,1,0,1,1,0,0,1,0.75
+255,Resolución Individual Pre,19,F,30,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,0,1,0,0,1,1,1,1,0,1,1,1,-0.25
+256,Grupal entre sujetos,21,F,30,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,0.5
+256,Resolución Individual Post,21,F,30,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,0,0,1,0,1,0,0,0,1,1,1,0,0,1,0.5
+256,Resolución Individual Pre,21,F,30,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,1,0,1,0,0,1,1,0,0,1,1.0
+257,Grupal entre sujetos,19,M,30,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,0.5
+257,Resolución Individual Post,19,M,30,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+257,Resolución Individual Pre,19,M,30,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+258,Grupal entre sujetos,20,M,30,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,0.5
+258,Resolución Individual Post,20,M,30,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0.5
+258,Resolución Individual Pre,20,M,30,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,1,1,1,1,0,1,1,1,0,1,1,0,1,0.0
+259,Grupal entre sujetos,20,M,30,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,0.5
+259,Resolución Individual Post,20,M,30,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,0.5
+259,Resolución Individual Pre,20,M,30,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,0.5
+260,Grupal entre sujetos,19,F,31,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,0,0,1,0,1,1,1,1,1,1,0.25
+260,Resolución Individual Post,19,F,31,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+260,Resolución Individual Pre,19,F,31,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+261,Grupal entre sujetos,19,M,31,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,0,0,1,0,1,1,1,1,1,1,0.25
+261,Resolución Individual Post,19,M,31,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,0,0,1,0,1,1,1,1,1,1,0.25
+261,Resolución Individual Pre,19,M,31,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,-0.25
+262,Grupal entre sujetos,19,F,31,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,0,0,1,0,1,1,1,1,1,1,0.25
+262,Resolución Individual Post,19,F,31,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,0,0,1,1,0,0,0,0,1,1,1,1,1,1,0.0
+262,Resolución Individual Pre,19,F,31,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,1,1,0,0,0,1,0,0,0,1,0,1,1,0.5
+263,Grupal entre sujetos,19,F,31,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,0,0,1,0,1,1,1,1,1,1,0.25
+263,Resolución Individual Post,19,F,31,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,0,0,1,0,1,1,1,1,1,1,0.25
+263,Resolución Individual Pre,19,F,31,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,1,0,0,1,0,1,1,1,0,0,0,0,1,0.0
+264,Grupal entre sujetos,20,M,31,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,0,0,1,0,1,1,1,1,1,1,0.25
+264,Resolución Individual Post,20,M,31,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,1,1,1,0,0,1,0,1,0,1,1,1,1,0.0
+264,Resolución Individual Pre,20,M,31,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+265,Grupal entre sujetos,19,F,32,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+265,Resolución Individual Post,19,F,32,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,0,-0.25
+265,Resolución Individual Pre,19,F,32,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+266,Grupal entre sujetos,31,M,32,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+266,Resolución Individual Post,31,M,32,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+266,Resolución Individual Pre,31,M,32,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,0,0,0,1,1,0,1,1,0,1,1,0.5
+267,Grupal entre sujetos,19,F,32,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+267,Resolución Individual Post,19,F,32,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+267,Resolución Individual Pre,19,F,32,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,1,1,1,0,1,1,1,1,1,0,0,-0.25
+268,Grupal entre sujetos,19,F,32,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+268,Resolución Individual Post,19,F,32,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+268,Resolución Individual Pre,19,F,32,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0.5
+269,Grupal entre sujetos,19,F,32,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+269,Resolución Individual Post,19,F,32,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+269,Resolución Individual Pre,19,F,32,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,0,1,0,0,0,1,1,1,0,1,1,1,-0.5
+270,Grupal entre sujetos,19,F,33,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+270,Resolución Individual Post,19,F,33,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,0,-0.25
+270,Resolución Individual Pre,19,F,33,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+271,Grupal entre sujetos,19,F,33,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+271,Resolución Individual Post,19,F,33,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+271,Resolución Individual Pre,19,F,33,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,0,0,1,0,1,1,1,1,1,1,0.25
+272,Grupal entre sujetos,21,F,33,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+272,Resolución Individual Post,21,F,33,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+272,Resolución Individual Pre,21,F,33,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,0,1,0,1,1,0,0,1,0,0,1,0.5
+273,Grupal entre sujetos,19,F,33,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+273,Resolución Individual Post,19,F,33,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+273,Resolución Individual Pre,19,F,33,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+274,Grupal entre sujetos,20,M,33,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+274,Resolución Individual Post,20,M,33,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+274,Resolución Individual Pre,20,M,33,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,1,0,1,1,1,1,0,1,0,1,1,1,0,0,0.0
+275,Grupal entre sujetos,19,F,34,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+275,Resolución Individual Post,19,F,34,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+275,Resolución Individual Pre,19,F,34,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+276,Grupal entre sujetos,19,F,34,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+276,Resolución Individual Post,19,F,34,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+276,Resolución Individual Pre,19,F,34,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+277,Grupal entre sujetos,19,F,34,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+277,Resolución Individual Post,19,F,34,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+277,Resolución Individual Pre,19,F,34,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,0,0,1,0,0,1,1,0,1,1,0.75
+278,Grupal entre sujetos,20,F,34,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+278,Resolución Individual Post,20,F,34,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+278,Resolución Individual Pre,20,F,34,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+279,Grupal entre sujetos,20,F,34,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+279,Resolución Individual Post,20,F,34,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+279,Resolución Individual Pre,20,F,34,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,0,0,1,0,0,1,1,1,1,1,0.5
+280,Grupal entre sujetos,19,F,35,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,0,0,1,0,0,1,1,1,1,1,0.5
+280,Resolución Individual Post,19,F,35,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+280,Resolución Individual Pre,19,F,35,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,0,0,1,1,0,1,1,1,1,1,0.25
+281,Grupal entre sujetos,22,F,35,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,0,0,1,0,0,1,1,1,1,1,0.5
+281,Resolución Individual Post,22,F,35,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,0,0,1,0,0,1,1,1,1,1,0.5
+281,Resolución Individual Pre,22,F,35,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,0,0,1,0,1,0,0,0,1,1,1,0,0,1,0.5
+282,Grupal entre sujetos,20,F,35,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,0,0,1,0,0,1,1,1,1,1,0.5
+282,Resolución Individual Post,20,F,35,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,1,0,1,0,0,1,1,1,0,1,0.75
+282,Resolución Individual Pre,20,F,35,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,1,0,1,1,1,1,0,0,0,0,1,0,0,0.0
+283,Grupal entre sujetos,19,F,35,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,0,0,1,0,0,1,1,1,1,1,0.5
+283,Resolución Individual Post,19,F,35,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,0,0,1,0,0,1,1,1,1,1,0.5
+283,Resolución Individual Pre,19,F,35,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,0,0,0,1,0,0,0,0,1,1,0,1,1,1,-0.25
+284,Grupal entre sujetos,19,M,36,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+284,Resolución Individual Post,19,M,36,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+284,Resolución Individual Pre,19,M,36,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,1,1,1,1,0,0,0,0,0,0,1,1,1,1,0.0
+285,Grupal entre sujetos,20,F,36,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+285,Resolución Individual Post,20,F,36,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+285,Resolución Individual Pre,20,F,36,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,-0.25
+286,Grupal entre sujetos,20,F,36,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+286,Resolución Individual Post,20,F,36,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+286,Resolución Individual Pre,20,F,36,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,1,1,1,0,0,0,1,1,0,1,1,1,1,-0.5
+287,Grupal entre sujetos,21,F,36,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+287,Resolución Individual Post,21,F,36,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+287,Resolución Individual Pre,21,F,36,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+288,Grupal entre sujetos,19,F,36,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+288,Resolución Individual Post,19,F,36,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+288,Resolución Individual Pre,19,F,36,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+289,Grupal entre sujetos,54,F,37,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,0.0
+289,Resolución Individual Post,54,F,37,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,0.0
+289,Resolución Individual Pre,54,F,37,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,1,0,1,0,0,1,1,0,0,1,1.0
+290,Grupal entre sujetos,20,F,37,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,0.0
+290,Resolución Individual Post,20,F,37,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,0.0
+290,Resolución Individual Pre,20,F,37,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,0,0,1,0,0,1,1,1,1,1,0.5
+291,Grupal entre sujetos,19,F,37,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,0.0
+291,Resolución Individual Post,19,F,37,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,0.0
+291,Resolución Individual Pre,19,F,37,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,0,0,1,0,0,1,1,1,1,1,0.5
+292,Grupal entre sujetos,19,F,37,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,0.0
+292,Resolución Individual Post,19,F,37,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,0.0
+292,Resolución Individual Pre,19,F,37,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0.25
+293,Grupal entre sujetos,20,F,37,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,0.0
+293,Resolución Individual Post,20,F,37,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,0.0
+293,Resolución Individual Pre,20,F,37,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+294,Grupal entre sujetos,19,F,38,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,1,1,1,0,1,1,1,0,0,0.25
+294,Resolución Individual Post,19,F,38,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,-0.5
+294,Resolución Individual Pre,19,F,38,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0.5
+295,Grupal entre sujetos,18,F,38,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,1,1,1,0,1,1,1,0,0,0.25
+295,Resolución Individual Post,18,F,38,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,1,1,1,0,1,1,1,0,0,0.25
+295,Resolución Individual Pre,18,F,38,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+296,Grupal entre sujetos,23,F,38,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,1,1,1,0,1,1,1,0,0,0.25
+296,Resolución Individual Post,23,F,38,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
+296,Resolución Individual Pre,23,F,38,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+297,Grupal entre sujetos,19,F,38,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,1,1,1,0,1,1,1,0,0,0.25
+297,Resolución Individual Post,19,F,38,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,1,0,1,1,1,1,0,1,0,1,1,1,0,0,0.0
+297,Resolución Individual Pre,19,F,38,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,1,0,1,0,0,1,1,1,0,1,0.75
+298,Grupal entre sujetos,18,F,38,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,1,1,1,0,1,1,1,0,0,0.25
+298,Resolución Individual Post,18,F,38,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,1,1,1,0,0,1,1,1,0,0,0.5
+298,Resolución Individual Pre,18,F,38,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,1,0,1,0,0,1,1,0,0,1,1.0
+299,Grupal entre sujetos,18,M,39,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+299,Resolución Individual Post,18,M,39,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,1,1,1,1,0,1,1,1,0,1,1,0,1,0.0
+299,Resolución Individual Pre,18,M,39,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+300,Grupal entre sujetos,18,F,39,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+300,Resolución Individual Post,18,F,39,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+300,Resolución Individual Pre,18,F,39,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,0,0,0,1,1,1,1,1,0,1,1,0.25
+301,Grupal entre sujetos,18,F,39,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+301,Resolución Individual Post,18,F,39,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+301,Resolución Individual Pre,18,F,39,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,1,0,1,0,0,1,0,0,0,0,1,1,1,0.0
+302,Grupal entre sujetos,29,M,39,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+302,Resolución Individual Post,29,M,39,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,1,1,1,0,1,1,1,1,0,0,0.25
+302,Resolución Individual Pre,29,M,39,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+303,Grupal entre sujetos,21,F,39,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+303,Resolución Individual Post,21,F,39,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,1,1,1,0,1,1,1,1,1,0,0,-0.25
+303,Resolución Individual Pre,21,F,39,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,1,1,1,0,1,1,1,0,0,0.25
+304,Grupal entre sujetos,22,M,40,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,0,1,0,1,1,1,1,1,0,0,1,0.5
+304,Resolución Individual Post,22,M,40,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,0,1,0,1,1,1,1,1,0,0,1,0.5
+304,Resolución Individual Pre,22,M,40,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,1,1,1,0,0,1,1,1,0,1,1,1,1,-0.25
+305,Grupal entre sujetos,18,F,40,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,0,1,0,1,1,1,1,1,0,0,1,0.5
+305,Resolución Individual Post,18,F,40,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,0,1,0,0,1,1,1,1,0,0,1,0.25
+305,Resolución Individual Pre,18,F,40,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,1,0,1,1,1,0,0,0,0,1,1,1,0,1,0.5
+306,Grupal entre sujetos,18,F,40,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,0,1,0,1,1,1,1,1,0,0,1,0.5
+306,Resolución Individual Post,18,F,40,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,0,1,0,1,1,1,1,1,0,0,1,0.5
+306,Resolución Individual Pre,18,F,40,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,0,1,0,1,1,1,1,1,0,0,1,0.5
+307,Grupal entre sujetos,19,F,40,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,0,1,0,1,1,1,1,1,0,0,1,0.5
+307,Resolución Individual Post,19,F,40,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,0,1,0,1,1,1,1,1,0,0,1,0.5
+307,Resolución Individual Pre,19,F,40,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,0,0,0,1,1,1,1,1,0,1,1,0.25
+308,Grupal entre sujetos,18,F,40,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,0,1,0,1,1,1,1,1,0,0,1,0.5
+308,Resolución Individual Post,18,F,40,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,1,0.25
+308,Resolución Individual Pre,18,F,40,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,1,0.0
+309,Grupal entre sujetos,18,M,41,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+309,Resolución Individual Post,18,M,41,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+309,Resolución Individual Pre,18,M,41,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,0,0,1,1,0,1,1,1,1,1,0.25
+310,Grupal entre sujetos,19,F,41,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+310,Resolución Individual Post,19,F,41,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,1,1,0,0,1,1,1,1,1,0,1,0.0
+310,Resolución Individual Pre,19,F,41,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,1,1,0,0,1,1,1,1,1,0,1,0.0
+311,Grupal entre sujetos,19,M,41,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+311,Resolución Individual Post,19,M,41,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+311,Resolución Individual Pre,19,M,41,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,0.5
+312,Grupal entre sujetos,19,O,41,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+312,Resolución Individual Post,19,O,41,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,0,1,0,1,1,1,1,1,0,0,1,0.5
+312,Resolución Individual Pre,19,O,41,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,0,1,0,1,1,1,1,1,0,0,1,0.5
+313,Grupal entre sujetos,19,F,41,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+313,Resolución Individual Post,19,F,41,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,1,1,1,1,0,1,1,1,0,1,1,0,1,0.0
+313,Resolución Individual Pre,19,F,41,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,1,1,1,1,0,1,1,1,0,1,1,0,1,0.0
+314,Grupal entre sujetos,22,M,42,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,1,1,1,0,0,1,1,1,0,0,0.5
+314,Resolución Individual Post,22,M,42,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,0.0
+314,Resolución Individual Pre,22,M,42,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,0,1,1,0,1,1,1,1,1,0,0.0
+315,Grupal entre sujetos,19,M,42,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,1,1,1,0,0,1,1,1,0,0,0.5
+315,Resolución Individual Post,19,M,42,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,1,0,1,1,1,1,0,0,0,1,1,1,0,0,0.25
+315,Resolución Individual Pre,19,M,42,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,1,0,1,0,0,1,1,0,0,1,1.0
+316,Grupal entre sujetos,19,M,42,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,1,1,1,0,0,1,1,1,0,0,0.5
+316,Resolución Individual Post,19,M,42,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,1,1,1,1,0,1,0,0,0,1,1,0,1,0.5
+316,Resolución Individual Pre,19,M,42,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,0,0,1,0,0,1,1,0,1,1,0.75
+317,Grupal entre sujetos,18,F,42,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,1,1,1,0,0,1,1,1,0,0,0.5
+317,Resolución Individual Post,18,F,42,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,1,0,1,0,0,1,1,1,0,1,0.75
+317,Resolución Individual Pre,18,F,42,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,0,1,0,0,1,1,1,1,0,0,1,0.25
+318,Grupal entre sujetos,18,F,42,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,1,1,1,0,0,1,1,1,0,0,0.5
+318,Resolución Individual Post,18,F,42,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,0,1,1,0,1,1,0,1,0,1,0,1,0.25
+318,Resolución Individual Pre,18,F,42,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,1,1,0,1,1,0,0,1,0,0,0,1,0,1,-0.25
+319,Grupal entre sujetos,18,M,43,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+319,Resolución Individual Post,18,M,43,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+319,Resolución Individual Pre,18,M,43,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+320,Grupal entre sujetos,23,M,43,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+320,Resolución Individual Post,23,M,43,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+320,Resolución Individual Pre,23,M,43,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0.5
+321,Grupal entre sujetos,22,F,43,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+321,Resolución Individual Post,22,F,43,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,1,1,1,1,0,1,0,1,0,1,1,0,1,0.25
+321,Resolución Individual Pre,22,F,43,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,0,1,0,0,1,0,1,1,0,1,1,1,0.0
+322,Grupal entre sujetos,18,F,43,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+322,Resolución Individual Post,18,F,43,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+322,Resolución Individual Pre,18,F,43,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,1,0,1,1,1,0,0,1,0,1,1,1,0,1,0.25
+323,Grupal entre sujetos,18,F,44,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+323,Resolución Individual Post,18,F,44,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+323,Resolución Individual Pre,18,F,44,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,0,0,1,1,0,1,1,1,1,1,0.25
+324,Grupal entre sujetos,18,F,44,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+324,Resolución Individual Post,18,F,44,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+324,Resolución Individual Pre,18,F,44,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,1,1,0,1,0,1,0,1,0,1,0,0,1,0.5
+325,Grupal entre sujetos,18,F,44,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+325,Resolución Individual Post,18,F,44,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+325,Resolución Individual Pre,18,F,44,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,0,0,1,1,1,0,0,1,1,1,1,1,0,1,0.0
+326,Grupal entre sujetos,19,F,44,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+326,Resolución Individual Post,19,F,44,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+326,Resolución Individual Pre,19,F,44,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,1,0,1,0,0,1,1,0,0,1,1.0
+327,Grupal entre sujetos,18,F,44,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+327,Resolución Individual Post,18,F,44,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,0,-0.25
+327,Resolución Individual Pre,18,F,44,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,1,0,1,0,0,0,0,0,0,1,1,0,1,1,0.5
+328,Grupal entre sujetos,18,F,45,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+328,Resolución Individual Post,18,F,45,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+328,Resolución Individual Pre,18,F,45,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,0,1,1,0,0,1,1,0,1,0,0.5
+329,Grupal entre sujetos,18,F,45,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+329,Resolución Individual Post,18,F,45,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+329,Resolución Individual Pre,18,F,45,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+330,Grupal entre sujetos,18,F,45,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+330,Resolución Individual Post,18,F,45,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+330,Resolución Individual Pre,18,F,45,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,1,0.75
+331,Grupal entre sujetos,18,F,45,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+331,Resolución Individual Post,18,F,45,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+331,Resolución Individual Pre,18,F,45,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,1,0,0,1,0,0,1,1,1,1,1,0.5
+332,Grupal entre sujetos,19,F,45,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+332,Resolución Individual Post,19,F,45,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+332,Resolución Individual Pre,19,F,45,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+333,Grupal entre sujetos,18,F,46,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+333,Resolución Individual Post,18,F,46,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+333,Resolución Individual Pre,18,F,46,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,0,1,0,1,1,0,0,1,0,0,1,0.5
+334,Grupal entre sujetos,19,M,46,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+334,Resolución Individual Post,19,M,46,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+334,Resolución Individual Pre,19,M,46,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+335,Grupal entre sujetos,18,F,46,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+335,Resolución Individual Post,18,F,46,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0.5
+335,Resolución Individual Pre,18,F,46,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,1,0,1,1,1,0,0,0,0,1,1,1,0,1,0.5
+336,Grupal entre sujetos,18,F,46,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+336,Resolución Individual Post,18,F,46,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,1,1,1,1,0,1,1,1,0,1,1,0,1,0.0
+336,Resolución Individual Pre,18,F,46,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+337,Grupal entre sujetos,20,F,46,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+337,Resolución Individual Post,20,F,46,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+337,Resolución Individual Pre,20,F,46,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0.0
+338,Grupal entre sujetos,18,F,47,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+338,Resolución Individual Post,18,F,47,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+338,Resolución Individual Pre,18,F,47,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,1,0,1,0,0,0,1,0,0,1,1,0,1,1,0.75
+339,Grupal entre sujetos,19,F,47,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+339,Resolución Individual Post,19,F,47,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+339,Resolución Individual Pre,19,F,47,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,1,0,1,1,1,0,0,0,0,1,1,1,0,1,0.5
+340,Grupal entre sujetos,19,F,47,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+340,Resolución Individual Post,19,F,47,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+340,Resolución Individual Pre,19,F,47,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+341,Grupal entre sujetos,19,F,47,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+341,Resolución Individual Post,19,F,47,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+341,Resolución Individual Pre,19,F,47,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,0,0,1,1,0,1,1,1,1,1,0.25
+342,Grupal entre sujetos,18,F,47,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+342,Resolución Individual Post,18,F,47,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+342,Resolución Individual Pre,18,F,47,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,1,1,0,1,1,0,0,0,1,0,1,1,1,1,1,0.0
+343,Grupal entre sujetos,18,M,48,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,0.0
+343,Resolución Individual Post,18,M,48,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,0.0
+343,Resolución Individual Pre,18,M,48,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,1,1,1,0,1,1,1,0,0,0.25
+344,Grupal entre sujetos,21,M,48,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,0.0
+344,Resolución Individual Post,21,M,48,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,0.0
+344,Resolución Individual Pre,21,M,48,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,0.5
+345,Grupal entre sujetos,18,F,48,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,0.0
+345,Resolución Individual Post,18,F,48,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,0.0
+345,Resolución Individual Pre,18,F,48,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,1,1,1,0,0,1,1,1,0,1,1,1,1,-0.25
+346,Grupal entre sujetos,19,M,48,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,0.0
+346,Resolución Individual Post,19,M,48,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,0.0
+346,Resolución Individual Pre,19,M,48,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,1,1,1,0,0,1,0,1,0,1,1,1,1,0.0
+347,Grupal entre sujetos,20,F,49,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+347,Resolución Individual Post,20,F,49,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+347,Resolución Individual Pre,20,F,49,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,0,0,0,1,1,0,1,1,0,1,1,0.5
+348,Grupal entre sujetos,19,F,49,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+348,Resolución Individual Post,19,F,49,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+348,Resolución Individual Pre,19,F,49,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,0,0,1,1,0,1,1,1,1,1,0.25
+349,Grupal entre sujetos,18,F,49,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+349,Resolución Individual Post,18,F,49,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+349,Resolución Individual Pre,18,F,49,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,0,0,0,0,1,0,1,0,0,0,1,1,1,0,0,1,0.5
+350,Grupal entre sujetos,19,F,49,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+350,Resolución Individual Post,19,F,49,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+350,Resolución Individual Pre,19,F,49,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,0,0,0,1,1,1,0,1,0,1,1,1,1,0,1,0.5
+351,Grupal entre sujetos,20,F,50,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+351,Resolución Individual Post,20,F,50,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+351,Resolución Individual Pre,20,F,50,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+352,Grupal entre sujetos,21,F,50,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+352,Resolución Individual Post,21,F,50,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+352,Resolución Individual Pre,21,F,50,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,0.25
+353,Grupal entre sujetos,19,F,50,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+353,Resolución Individual Post,19,F,50,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+353,Resolución Individual Pre,19,F,50,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,0,0,1,1,0,1,1,1,1,1,0.25
+354,Grupal entre sujetos,21,F,50,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+354,Resolución Individual Post,21,F,50,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,1,0,1,1,1,0,1,1,0,1,1,1,0,1,0.5
+354,Resolución Individual Pre,21,F,50,V,V,I,I,V,V,I,I,C,I,C,I,C,I,C,I,VC,VI,IC,II,VC,VI,IC,II,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0.0
